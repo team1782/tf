@@ -1,0 +1,3 @@
+rootProject.name = 'tf'
+
+include ':app'

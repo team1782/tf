@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39297120693",
+    "firebase_url": "https://toiletfinderdb18.firebaseio.com",
+    "project_id": "toiletfinderdb18",
+    "storage_bucket": "toiletfinderdb18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39297120693:android:30f4f7dedc180afe",
+        "android_client_info": {
+          "package_name": "com.tf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39297120693-lm8cuban2iridn2sni6vpeuc00rshbho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC96kzqqIwB4iZ2jEsaPAgf7SIgISb1qF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39297120693-lm8cuban2iridn2sni6vpeuc00rshbho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
