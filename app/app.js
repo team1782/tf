@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { View, Text, StyleSheet, StatusBar } from 'react-native';
+import { Container } from "native-base";
 import SplashScreen from 'react-native-splash-screen';
+import MyHeader from "./components/myheader"
 
 export default class App extends Component {
     componentDidMount() {
@@ -8,13 +10,12 @@ export default class App extends Component {
     }
     render() {
         return (
-            <View style={styles.wrapper}>
-                <StatusBar
-                    backgroundColor="#4f6d7a"
-                />
-                <Text style={styles.title}>ToiletFinder</Text>
-                <Text style={styles.subtitle}>Where's the nearest toilet?</Text>
-            </View>
+            <Container>
+                <MyHeader />
+                <View style={styles.wrapper}>
+                    <StatusBar backgroundColor="#4f6d7a" />
+                </View>
+            </Container>
         );
     }
 }
@@ -25,14 +26,5 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-    },
-    title: {
-        color: '#F5FCFF',
-        fontSize: 25,
-        fontWeight: 'bold'
-    },
-    subtitle: {
-        color: 'white',
-        fontWeight: '200',
     }
-});
+})
