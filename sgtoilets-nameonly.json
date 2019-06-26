@@ -1,0 +1,821 @@
+[
+ {
+   "name": "to be deleted"
+ },
+ {
+   "name": " AMK Bus Interchange"
+ },
+ {
+   "name": " Bishan Bus Interchange"
+ },
+ {
+   "name": " Harbourfront Bus Terminal"
+ },
+ {
+   "name": " Kampong Bahru Bus Terminal"
+ },
+ {
+   "name": " Kent Ridge Bus Terminal"
+ },
+ {
+   "name": " Queens Street Bus Terminal"
+ },
+ {
+   "name": " Shenton Way Bus Terminal"
+ },
+ {
+   "name": " St. Michael's Bus Terminal"
+ },
+ {
+   "name": " Seletar Country Club"
+ },
+ {
+   "name": " CCMW "
+ },
+ {
+   "name": "CCMW "
+ },
+ {
+   "name": " CCMW Food House"
+ },
+ {
+   "name": " CCMW Queen Street"
+ },
+ {
+   "name": "CCMW Toa Payoh Central"
+ },
+ {
+   "name": "Chang Cheng Mee Wah Restaurant"
+ },
+ {
+   "name": "CMW Redhill Food House"
+ },
+ {
+   "name": " NTUC Foodfare Anchorvale"
+ },
+ {
+   "name": " Kuofu Foodcourt "
+ },
+ {
+   "name": " NTUC Foodfare Court@Clifford Centre"
+ },
+ {
+   "name": " The Gallerie Foodcourt "
+ },
+ {
+   "name": " Health Sciences Authority"
+ },
+ {
+   "name": " Maritime and Port Authority of Singapore"
+ },
+ {
+   "name": " Ministry of Social & Family Development (MSF)"
+ },
+ {
+   "name": " Ministry of the Environment & Water Resources  Environment Building"
+ },
+ {
+   "name": " National Environment Agency  Environment Building"
+ },
+ {
+   "name": " PSA Tanjong Pagar Complex"
+ },
+ {
+   "name": " PSA Vista"
+ },
+ {
+   "name": " Sengkang General Hospital"
+ },
+ {
+   "name": " Tan Tock Seng Hospital"
+ },
+ {
+   "name": " National Library"
+ },
+ {
+   "name": " Adam Road Food Centre"
+ },
+ {
+   "name": " Amoy Food Centre"
+ },
+ {
+   "name": " Beo Crescent Market & Food Centre"
+ },
+ {
+   "name": " Berseh Food Centre"
+ },
+ {
+   "name": " Bukit Timah Market & Food Centre "
+ },
+ {
+   "name": " Commonwealth Crescent Market"
+ },
+ {
+   "name": " Golden Mile Food Centre"
+ },
+ {
+   "name": " Market Street Food Centre"
+ },
+ {
+   "name": " Maxwell Food Centre"
+ },
+ {
+   "name": " Newton Food Centre"
+ },
+ {
+   "name": " North Bridge Road Market & Food Centre"
+ },
+ {
+   "name": " Sembawang Hill Food Centre"
+ },
+ {
+   "name": " Tanglin Halt Market"
+ },
+ {
+   "name": " Tiong Bahru Market"
+ },
+ {
+   "name": " Zion Riverside Food Centre"
+ },
+ {
+   "name": " Ang Mo Kio MRT station"
+ },
+ {
+   "name": " Bayfront MRT Station"
+ },
+ {
+   "name": " Bencoolen MRT Station (DT23)"
+ },
+ {
+   "name": " Bendemeer MRT Station (DT23)"
+ },
+ {
+   "name": " Bishan MRT station"
+ },
+ {
+   "name": " Botanic Gardens MRT station"
+ },
+ {
+   "name": " Braddell MRT Station"
+ },
+ {
+   "name": "Bras Basah MRT Station"
+ },
+ {
+   "name": " Bugis MRT Station (DT14)"
+ },
+ {
+   "name": " Chinatown MRT Station (DT19)"
+ },
+ {
+   "name": " City Hall MRT Station"
+ },
+ {
+   "name": " Clark Quay MRT Station (NE5)"
+ },
+ {
+   "name": " Dhoby Ghaut MRT Station"
+ },
+ {
+   "name": " Dhoby Ghaut MRT Station Circle Line"
+ },
+ {
+   "name": " Downtown MRT Station (DT17)"
+ },
+ {
+   "name": "Esplanade MRT Station"
+ },
+ {
+   "name": " Farrer Road MRT station"
+ },
+ {
+   "name": " Fort Canning MRT Station (DT20)"
+ },
+ {
+   "name": " Geylang Bahru MRT Station (DT24)"
+ },
+ {
+   "name": " HarbourFront MRT Station (NE1)"
+ },
+ {
+   "name": " Holland Village MRT station"
+ },
+ {
+   "name": " Jalan Besar MRT Station (DT22)"
+ },
+ {
+   "name": " Jalan Besar MRT Station  B1 (DT22)"
+ },
+ {
+   "name": " Kallang MRT Station (EW10)"
+ },
+ {
+   "name": " Marina Bay MRT Station"
+ },
+ {
+   "name": " Marina South Pier station"
+ },
+ {
+   "name": " Marymount Station "
+ },
+ {
+   "name": " Newton MRT station"
+ },
+ {
+   "name": " Nicoll Highway MRT Station"
+ },
+ {
+   "name": " Orchard MRT Station"
+ },
+ {
+   "name": " Outram MRT Station"
+ },
+ {
+   "name": " Outram MRT Station (NE3)"
+ },
+ {
+   "name": " Promenade MRT Station"
+ },
+ {
+   "name": " Raffles Place MRT Station"
+ },
+ {
+   "name": " Tanjong Pagar MRT Station"
+ },
+ {
+   "name": " Telok Ayer MRT Station (DT18)"
+ },
+ {
+   "name": " Woodleigh MRT Station (NE11)"
+ },
+ {
+   "name": " Marina South Pier"
+ },
+ {
+   "name": " Malabar Muslim Jamaath Mosque"
+ },
+ {
+   "name": " Lum Chang Building"
+ },
+ {
+   "name": " Palais Renaissance"
+ },
+ {
+   "name": " Wee Hur Construction Pte Ltd"
+ },
+ {
+   "name": "MTR 1924 Indian Restaurant"
+ },
+ {
+   "name": " Dawson Place Shopping Centre"
+ },
+ {
+   "name": " Liang Court"
+ },
+ {
+   "name": " New Bridge Centre"
+ },
+ {
+   "name": " Palais Renaissance"
+ },
+ {
+   "name": " Palais Renaissance"
+ },
+ {
+   "name": " Robertson Walk"
+ },
+ {
+   "name": " Square 2 Shopping Mall"
+ },
+ {
+   "name": " The Central"
+ },
+ {
+   "name": " The Shoppes at Marina Bay Sands"
+ },
+ {
+   "name": " The Shoppes at Marina Bay Sands"
+ },
+ {
+   "name": " Tiong Bahru Plaza"
+ },
+ {
+   "name": " Valley Point Mall"
+ },
+ {
+   "name": " Custom House"
+ },
+ {
+   "name": " Merlion Park@Fullerton "
+ },
+ {
+   "name": " One Fullerton"
+ },
+ {
+   "name": " Sentosa Beach Station "
+ },
+ {
+   "name": " Sentosa Imbiah Lookout"
+ },
+ {
+   "name": " Sentosa Imbiah Station"
+ },
+ {
+   "name": " Sentosa Palawan Beach (East)"
+ },
+ {
+   "name": " Sentosa Palawan Beach (West)"
+ },
+ {
+   "name": " Sentosa Palawan Kidz City "
+ },
+ {
+   "name": " Sentosa Silosa Beach (East)"
+ },
+ {
+   "name": " Sentosa Wings of Time"
+ },
+ {
+   "name": " The Fullerton Water Boat House"
+ },
+ {
+   "name": " Compassvale Bus Interchange"
+ },
+ {
+   "name": " Hougang Bus Interchanage"
+ },
+ {
+   "name": " Sengkang Bus Interchange"
+ },
+ {
+   "name": " Tampines Bus Interchange"
+ },
+ {
+   "name": " Tampines Concourse Bus Interchange "
+ },
+ {
+   "name": " Safra Punggol"
+ },
+ {
+   "name": " 21 Street Eating House"
+ },
+ {
+   "name": "CCMW Hougang Avenue 8"
+ },
+ {
+   "name": "CCMW Tampines Ave 4"
+ },
+ {
+   "name": "CCMW Tampines Street 21 "
+ },
+ {
+   "name": "CCMW Tampines Street 41"
+ },
+ {
+   "name": "CCMW Tampines Street 81"
+ },
+ {
+   "name": " NTUC Foodfare"
+ },
+ {
+   "name": " NTUC Foodfare Anchorvale"
+ },
+ {
+   "name": " NTUC Foodfare Pasir Ris"
+ },
+ {
+   "name": " NTUC Foodfare Upper Serangoon"
+ },
+ {
+   "name": "Koufu Foodcourt"
+ },
+ {
+   "name": " Koufu Foodcourt"
+ },
+ {
+   "name": " Chomp Chomp Food Centre"
+ },
+ {
+   "name": " Hawker Centre @ Our Tampines Hub"
+ },
+ {
+   "name": " Pasir Ris Central Hawker Centre"
+ },
+ {
+   "name": " Serangoon Garden Market"
+ },
+ {
+   "name": " Bedok Reservoir MRT Station (DT30)"
+ },
+ {
+   "name": " Eunos MRT Station"
+ },
+ {
+   "name": " Kaki Bukit MRT Station (DT28)"
+ },
+ {
+   "name": " Kembangan MRT Station"
+ },
+ {
+   "name": " Pasir Ris MRT Station"
+ },
+ {
+   "name": " Punggol MRT Station-NE17"
+ },
+ {
+   "name": " Tampines East MRT Station (DT33)"
+ },
+ {
+   "name": " Tampines MRT Station"
+ },
+ {
+   "name": " Tampines MRT Station (DT32)"
+ },
+ {
+   "name": " Tampines West MRT Station (DT31)"
+ },
+ {
+   "name": " Tanah Merah MRT Station"
+ },
+ {
+   "name": " Al - Istighfar Mosque"
+ },
+ {
+   "name": " Century Square"
+ },
+ {
+   "name": " Elias Mall"
+ },
+ {
+   "name": " Hougang Mall"
+ },
+ {
+   "name": " Hougang Mall"
+ },
+ {
+   "name": " Pasir Ris West Plaza"
+ },
+ {
+   "name": " Rivervale Plaza"
+ },
+ {
+   "name": " Tampines Central Community Complex"
+ },
+ {
+   "name": " Tampines One"
+ },
+ {
+   "name": " White Sands"
+ },
+ {
+   "name": " Bukit Panjang Intergrated Transport Hub"
+ },
+ {
+   "name": " Sembawang Bus Interchange"
+ },
+ {
+   "name": " Woodlands Temporary Bus Interchange"
+ },
+ {
+   "name": " Yishun Temporary Bus Interchange"
+ },
+ {
+   "name": "New Century Cafe"
+ },
+ {
+   "name": " NTUC Foodfare"
+ },
+ {
+   "name": " NTUC Foodfare@29A Ghim Moh Link"
+ },
+ {
+   "name": " Chang Cheng Mee Wah Foodcourt"
+ },
+ {
+   "name": " NTUC Foodfare KTPH"
+ },
+ {
+   "name": " Viva Foodcourt"
+ },
+ {
+   "name": " Koufu Foodcourt@Fajar"
+ },
+ {
+   "name": " Bukit Panjang Hawker Centre"
+ },
+ {
+   "name": " Holland Village Market & Food Centre"
+ },
+ {
+   "name": " Yishun Park Hawker Centre"
+ },
+ {
+   "name": " Admiralty MRT Station"
+ },
+ {
+   "name": " Kranji MRT Station"
+ },
+ {
+   "name": " Marsiling MRT Station"
+ },
+ {
+   "name": " Woodlands MRT Station"
+ },
+ {
+   "name": " Yew Tee MRT Station"
+ },
+ {
+   "name": " 888 Plaza"
+ },
+ {
+   "name": " Admiralty Place"
+ },
+ {
+   "name": " Fajar Shopping Centre"
+ },
+ {
+   "name": " Sembawang Mart"
+ },
+ {
+   "name": " Vista Point"
+ },
+ {
+   "name": " Bedok Bus Interchange"
+ },
+ {
+   "name": " Changi Business Park Bus Terminal"
+ },
+ {
+   "name": " Eunos Bus Interchange"
+ },
+ {
+   "name": " Serangoon Bus Interchange"
+ },
+ {
+   "name": " Upper East Coast Bus Terminal"
+ },
+ {
+   "name": "CCMW BD 211 Food House"
+ },
+ {
+   "name": " NTUC Foodfare Tampines"
+ },
+ {
+   "name": " Bedok Food Centre"
+ },
+ {
+   "name": " Dunman Food Centre"
+ },
+ {
+   "name": " East Coast Lagoon Food Village"
+ },
+ {
+   "name": " Geylang Serai Market"
+ },
+ {
+   "name": " Aljunied MRT Station (EW9)"
+ },
+ {
+   "name": " Bartley MRT Station"
+ },
+ {
+   "name": " Bedok MRT Station"
+ },
+ {
+   "name": " Bedok North MRT Station (DT29)"
+ },
+ {
+   "name": " Dakota MRT Station"
+ },
+ {
+   "name": " Expo MRT Station"
+ },
+ {
+   "name": " Lorong Chuan MRT Station"
+ },
+ {
+   "name": " Macpherson MRT Station (DT26)"
+ },
+ {
+   "name": " Macpherson MRT Station CC10"
+ },
+ {
+   "name": " Mattar MRT Station (DT25)"
+ },
+ {
+   "name": " Mountbatten MRT Station"
+ },
+ {
+   "name": " Paya Lebar MRT Station"
+ },
+ {
+   "name": " Paya Lebar MRT Station CC09"
+ },
+ {
+   "name": " Serangoon MRT Station CC13"
+ },
+ {
+   "name": " Simei MRT Station"
+ },
+ {
+   "name": " Stadium MRT Station"
+ },
+ {
+   "name": " Tai Seng MRT Station CC11"
+ },
+ {
+   "name": " Ubi MRT Station (DT27)"
+ },
+ {
+   "name": " Upper Changi MRT Station"
+ },
+ {
+   "name": " Kah Engineering (1988) Pte Ltd"
+ },
+ {
+   "name": " Joo Chiat Complex"
+ },
+ {
+   "name": " Boon Lay Bus Interchange"
+ },
+ {
+   "name": " Choa Chu Kang Bus Interchange "
+ },
+ {
+   "name": " Clementi Bus Interchange"
+ },
+ {
+   "name": " Joo Koon Bus Interchange"
+ },
+ {
+   "name": " Tuas Bus Terminal"
+ },
+ {
+   "name": "CCMW Jurong West Street 41"
+ },
+ {
+   "name": " NTUC Foodfare Bukit Batok"
+ },
+ {
+   "name": " NTUC Foodfare Choa Chu Kang"
+ },
+ {
+   "name": " NTUC Foodfare Jurong West"
+ },
+ {
+   "name": "Aspri-Westlite Construction Site"
+ },
+ {
+   "name": "Megastone Holding Dormitory"
+ },
+ {
+   "name": " Unison Construction Dormitory"
+ },
+ {
+   "name": " Choa Chu Kang Crescent NTUC Foodfare "
+ },
+ {
+   "name": " Kopitiam"
+ },
+ {
+   "name": " Kopitiam"
+ },
+ {
+   "name": " Koufu Foodcourt"
+ },
+ {
+   "name": "Koufu Foodcourt"
+ },
+ {
+   "name": "JTC  Chemgallery at Oasis @ Sakra"
+ },
+ {
+   "name": " Jurong Island Checkpoint"
+ },
+ {
+   "name": " 47 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 51 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 51A Ayer Rajah Crescent"
+ },
+ {
+   "name": " 55 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 67 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 71 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 73 Ayer Rajah Crescent"
+ },
+ {
+   "name": " 79 Ayer Rajah Crescent"
+ },
+ {
+   "name": " CleanTech One"
+ },
+ {
+   "name": " CleanTech Two"
+ },
+ {
+   "name": " JTC Surface Engineering Hub"
+ },
+ {
+   "name": " Jurong Port Offshore Marine Centre"
+ },
+ {
+   "name": " Ayer Rajah Amenity Centre "
+ },
+ {
+   "name": " Jurong Port Road Food Centre "
+ },
+ {
+   "name": " Jurong West Hawker Centre"
+ },
+ {
+   "name": " Pasir Panjang Food Centre"
+ },
+ {
+   "name": " Taman Jurong Market & Food Centre"
+ },
+ {
+   "name": " Timbre + Ayer Rajah Crescent Hawker Centre"
+ },
+ {
+   "name": " Buona Vista MRT station"
+ },
+ {
+   "name": " Gul Circle Station"
+ },
+ {
+   "name": " Haw Par Villa MRT station"
+ },
+ {
+   "name": " Kent Ridge MRT station"
+ },
+ {
+   "name": " Labrador Park MRT station"
+ },
+ {
+   "name": " One North MRT station"
+ },
+ {
+   "name": " Pasir Panjang MRT station"
+ },
+ {
+   "name": " Telok Blangah MRT station"
+ },
+ {
+   "name": " Tuas Crescent MRT Station"
+ },
+ {
+   "name": " Tuas Link MRT Station"
+ },
+ {
+   "name": " Tuas West MRT Station"
+ },
+ {
+   "name": " Jurong Eco Garden "
+ },
+ {
+   "name": " Samwoh Eco Green Building"
+ },
+ {
+   "name": " Depot Height Shopping Centre "
+ },
+ {
+   "name": " Gek Poh Shopping Centre"
+ },
+ {
+   "name": " Greenridge Shopping Centre"
+ },
+ {
+   "name": " Greenridge Shopping Centre"
+ },
+ {
+   "name": " Jurong Point Shopping Centre"
+ },
+ {
+   "name": " Limbang Shopping Centre"
+ },
+ {
+   "name": " Pasir Ris West Plaza"
+ },
+ {
+   "name": " Pioneer Mall"
+ },
+ {
+   "name": " Sunshine Place"
+ },
+ {
+   "name": " Taman Jurong Shopping Centre"
+ },
+ {
+   "name": " Yew Tee Square"
+ }
+]

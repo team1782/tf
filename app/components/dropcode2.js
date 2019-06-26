@@ -3,41 +3,29 @@ import "firebase/database";
 import * as firebase from "firebase/app";
 import SearchableDropdown from 'react-native-searchable-dropdown';
 
-var firebaseConfig = {
-  apiKey: "AIzaSyBxyaS4-BSWBgsUdV32jytZM21bAI_MOeY",
-  authDomain: "toiletfinderdb18.firebaseapp.com",
-  databaseURL: "https://toiletfinderdb18.firebaseio.com",
-  projectId: "toiletfinderdb18",
-  storageBucket: "toiletfinderdb18.appspot.com",
-  messagingSenderId: "39297120693",
-  appId: "1:39297120693:web:09303d58aa5f8a30"
-};
-
-firebase.initializeApp(firebaseConfig);
-
-export default class DropCode extends Component {
+export default class DropCode2 extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      addresses: [],
+      names: [],
     };
   }
 
   componentDidMount() {
-    this.readAddressData();
+    this.readNameData();
   }
 
-  readAddressData = () => {
+  readNameData = () => {
     firebase
       .database()
-      .ref("/addressonly")
+      .ref("/nameonly")
       .once("value", snapshot => {
         const fbObject = snapshot.val();
-        const address = Object.keys(fbObject).map(key => {
+        const name = Object.keys(fbObject).map(key => {
           fbObject[key].id = key;
           return fbObject[key];
         });
-        this.setState({ addresses: address });
+        this.setState({ names: name });
       });
   };
 
@@ -62,9 +50,9 @@ export default class DropCode extends Component {
       }}
       itemTextStyle={{ color: '#222' }}
       itemsContainerStyle={{ maxHeight: 140 }}
-      items={this.state.addresses}
+      items={this.state.names}
       defaultIndex={2}
-      placeholder="Toilet's Address"
+      placeholder="Toilet's Place"
       resetValue={false}
       underlineColorAndroid="transparent"
     />
