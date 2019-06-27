@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Container, Header, Left, Body, Right, Title, Subtitle } from 'native-base';
-import { View, Text, StyleSheet, StatusBar } from 'react-native';
+import { Header, Body, Title, Subtitle } from 'native-base';
+import { StyleSheet,  } from 'react-native';
 
 export default class HeaderTitleSubtitleExample extends Component {
   render() {

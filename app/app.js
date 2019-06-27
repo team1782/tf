@@ -1,33 +1,37 @@
 import React, { Component } from "react";
-import { View, Text, StyleSheet, StatusBar } from 'react-native';
-import { Container } from "native-base";
-import SplashScreen from 'react-native-splash-screen';
-import MyHeader from "./components/myheader";
-import DropCode from "./components/dropcode";
-import DropCode2 from "./components/dropcode2";
+import SplashScreen from "react-native-splash-screen";
+import { createAppContainer, createStackNavigator } from "react-navigation";
+import HomeScreen from "./containers/homescreen";
+import MapScreen from "./containers/mapscreen";
+
+const AppNavigator = createStackNavigator(
+  {
+    Home: HomeScreen,
+    //Map: MapScreen
+  },
+  {
+    initialRouteName: "Home",
+    defaultNavigationOptions: {
+        headerStyle: {
+            backgroundColor: "#4f6d7a"
+        },
+        headerTintColor: '#fff',
+        headerTitleStyle: {
+            textAlign: 'center',
+            flex: 1
+        }
+      }
+  }
+);
+
+const AppContainer = createAppContainer(AppNavigator);
 
 export default class App extends Component {
-    componentDidMount() {
-        SplashScreen.hide();
-    }
-    render() {
-        return (
-            <Container>
-                <MyHeader />
-                <View style={styles.wrapper}>
-                    <StatusBar backgroundColor="#4f6d7a" />
-                </View>
-                <DropCode />
-                <DropCode2 />
-            </Container>
-        );
-    }
-}
+  componentDidMount() {
+    SplashScreen.hide();
+  }
 
-const styles = StyleSheet.create({
-    wrapper: {
-        backgroundColor: '#4f6d7a',
-        justifyContent: 'center',
-        alignItems: 'center',
-    }
-})
+  render() {
+    return <AppContainer />;
+  }
+}
