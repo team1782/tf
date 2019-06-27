@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 import SplashScreen from "react-native-splash-screen";
 import { createAppContainer, createStackNavigator } from "react-navigation";
-import HomeScreen from "./containers/homescreen";
+import HomeScreen from "./homescreen";
 import MapScreen from "./containers/mapscreen";
 
 const AppNavigator = createStackNavigator(
   {
     Home: HomeScreen,
-    //Map: MapScreen
+    Map: MapScreen
   },
   {
     initialRouteName: "Home",
