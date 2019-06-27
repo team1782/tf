@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "to be deleted",
+    "lat": "to be deleted",
+    "lng": "to be deleted"
+  },
+  {
+    "name": "AMK Bus Interchange",
+    "lat": 1.3502278,
+    "lng": 103.8495111
+  },
+  {
+    "name": "Bishan Bus Interchange",
+    "lat": 1.2759298,
+    "lng": 103.8319659
+  },
+  {
+    "name": "Harbourfront Bus Terminal",
+    "lat": 1.266948,
+    "lng": 103.819095
+  },
+  {
+    "name": "Kampong Bahru Bus Terminal",
+    "lat": 1.3696302,
+    "lng": 103.8482042
+  },
+  {
+    "name": "Kent Ridge Bus Terminal",
+    "lat": 1.2942117,
+    "lng": 103.7690639
+  },
+  {
+    "name": "Queens Street Bus Terminal",
+    "lat": 1.326925,
+    "lng": 103.855475
+  },
+  {
+    "name": "Shenton Way Bus Terminal",
+    "lat": 1.3035363,
+    "lng": 103.8567334
+  },
+  {
+    "name": "St. Michael's Bus Terminal",
+    "lat": 1.2756361,
+    "lng": 103.8481929
+  },
+  {
+    "name": "Seletar Country Club",
+    "lat": 1.409643,
+    "lng": 103.858065
+  },
+  {
+    "name": "CCMW",
+    "lat": 1.3101643,
+    "lng": 103.7928386
+  },
+  {
+    "name": "CCMW",
+    "lat": 1.3080621,
+    "lng": 103.8606415
+  },
+  {
+    "name": "CCMW Food House",
+    "lat": 1.2755784,
+    "lng": 103.8412807
+  },
+  {
+    "name": "CCMW Queen Street",
+    "lat": 1.3005699,
+    "lng": 103.8541001
+  },
+  {
+    "name": "CCMW Toa Payoh Central",
+    "lat": 1.341245,
+    "lng": 103.845458
+  },
+  {
+    "name": "Chang Cheng Mee Wah Restaurant",
+    "lat": 1.2884877,
+    "lng": 103.815906
+  },
+  {
+    "name": "CMW Redhill Food House",
+    "lat": 1.3010063,
+    "lng": 103.7985786
+  },
+  {
+    "name": "NTUC Foodfare Anchorvale",
+    "lat": 1.283857,
+    "lng": 103.852378
+  },
+  {
+    "name": "Kuofu Foodcourt",
+    "lat": 1.3348605,
+    "lng": 103.848618
+  },
+  {
+    "name": "NTUC Foodfare Court@Clifford Centre",
+    "lat": 1.2911713,
+    "lng": 103.8574756
+  },
+  {
+    "name": "The Gallerie Foodcourt",
+    "lat": 1.2804971,
+    "lng": 103.838479
+  },
+  {
+    "name": "Health Sciences Authority",
+    "lat": 1.3895385,
+    "lng": 103.8863978
+  },
+  {
+    "name": "Maritime and Port Authority of Singapore",
+    "lat": 1.273673,
+    "lng": 103.801381
+  },
+  {
+    "name": "Ministry of Social & Family Development (MSF)",
+    "lat": 1.3336676,
+    "lng": 103.8396503
+  },
+  {
+    "name": "Ministry of the Environment & Water Resources Environment Building",
+    "lat": 1.3102694,
+    "lng": 103.8362083
+  },
+  {
+    "name": "National Environment Agency Environment Building",
+    "lat": 1.3954927,
+    "lng": 103.8934028
+  },
+  {
+    "name": "PSA Tanjong Pagar Complex",
+    "lat": 1.3102694,
+    "lng": 103.8362083
+  },
+  {
+    "name": "PSA Vista",
+    "lat": 1.2712966,
+    "lng": 103.8426296
+  },
+  {
+    "name": "Sengkang General Hospital",
+    "lat": 1.324088,
+    "lng": 103.814086
+  },
+  {
+    "name": "Tan Tock Seng Hospital",
+    "lat": 1.2830867,
+    "lng": 103.7793448
+  },
+  {
+    "name": "National Library",
+    "lat": 1.2974415,
+    "lng": 103.8541438
+  },
+  {
+    "name": "Adam Road Food Centre",
+    "lat": 1.3075861,
+    "lng": 103.8569093
+  },
+  {
+    "name": "Amoy Food Centre",
+    "lat": 1.279116,
+    "lng": 103.8465144
+  },
+  {
+    "name": "Beo Crescent Market & Food Centre",
+    "lat": 1.3209662,
+    "lng": 103.8466251
+  },
+  {
+    "name": "Berseh Food Centre",
+    "lat": 1.288766,
+    "lng": 103.827528
+  },
+  {
+    "name": "Bukit Timah Market & Food Centre",
+    "lat": 1.3394069,
+    "lng": 103.776049
+  },
+  {
+    "name": "Commonwealth Crescent Market",
+    "lat": 1.2838774,
+    "lng": 103.8499789
+  },
+  {
+    "name": "Golden Mile Food Centre",
+    "lat": 1.306959,
+    "lng": 103.8003444
+  },
+  {
+    "name": "Market Street Food Centre",
+    "lat": 1.2802419,
+    "lng": 103.8449058
+  },
+  {
+    "name": "Maxwell Food Centre",
+    "lat": 1.305847,
+    "lng": 103.863862
+  },
+  {
+    "name": "Newton Food Centre",
+    "lat": 1.3030908,
+    "lng": 103.8639299
+  },
+  {
+    "name": "North Bridge Road Market & Food Centre",
+    "lat": 1.3119097,
+    "lng": 103.8393033
+  },
+  {
+    "name": "Sembawang Hill Food Centre",
+    "lat": 1.2849131,
+    "lng": 103.8325965
+  },
+  {
+    "name": "Tanglin Halt Market",
+    "lat": 1.3009936,
+    "lng": 103.7980769
+  },
+  {
+    "name": "Tiong Bahru Market",
+    "lat": 1.2924504,
+    "lng": 103.831136
+  },
+  {
+    "name": "Zion Riverside Food Centre",
+    "lat": 1.2813332,
+    "lng": 103.8589238
+  },
+  {
+    "name": "Ang Mo Kio MRT station",
+    "lat": 1.3723618,
+    "lng": 103.8290076
+  },
+  {
+    "name": "Bayfront MRT Station",
+    "lat": 1.3507781,
+    "lng": 103.8487215
+  },
+  {
+    "name": "Bencoolen MRT Station (DT23)",
+    "lat": 1.3142525,
+    "lng": 103.8634869
+  },
+  {
+    "name": "Bendemeer MRT Station (DT23)",
+    "lat": 1.3699324,
+    "lng": 103.8496144
+  },
+  {
+    "name": "Bishan MRT station",
+    "lat": 1.272255,
+    "lng": 103.803149
+  },
+  {
+    "name": "Botanic Gardens MRT station",
+    "lat": 1.340703,
+    "lng": 103.84668
+  },
+  {
+    "name": "Braddell MRT Station",
+    "lat": 1.2989304,
+    "lng": 103.8500348
+  },
+  {
+    "name": "Bras Basah MRT Station",
+    "lat": 1.2993154,
+    "lng": 103.8551853
+  },
+  {
+    "name": "Bugis MRT Station (DT14)",
+    "lat": 1.285116,
+    "lng": 103.8437397
+  },
+  {
+    "name": "Chinatown MRT Station (DT19)",
+    "lat": 1.296647,
+    "lng": 103.850933
+  },
+  {
+    "name": "City Hall MRT Station",
+    "lat": 1.293076,
+    "lng": 103.8520677
+  },
+  {
+    "name": "Clark Quay MRT Station (NE5)",
+    "lat": 1.2814265,
+    "lng": 103.8391803
+  },
+  {
+    "name": "Dhoby Ghaut MRT Station",
+    "lat": 1.2799446,
+    "lng": 103.8519803
+  },
+  {
+    "name": "Dhoby Ghaut MRT Station Circle Line",
+    "lat": 1.2985903,
+    "lng": 103.8456162
+  },
+  {
+    "name": "Downtown MRT Station (DT17)",
+    "lat": 1.293356,
+    "lng": 103.8556268
+  },
+  {
+    "name": "Esplanade MRT Station",
+    "lat": 1.275878,
+    "lng": 103.7915919
+  },
+  {
+    "name": "Farrer Road MRT station",
+    "lat": 1.298811,
+    "lng": 103.846127
+  },
+  {
+    "name": "Fort Canning MRT Station (DT20)",
+    "lat": 1.2929188,
+    "lng": 103.8445026
+  },
+  {
+    "name": "Geylang Bahru MRT Station (DT24)",
+    "lat": 1.2844534,
+    "lng": 103.7828687
+  },
+  {
+    "name": "HarbourFront MRT Station (NE1)",
+    "lat": 1.3042885,
+    "lng": 103.8545877
+  },
+  {
+    "name": "Holland Village MRT station",
+    "lat": 1.3042885,
+    "lng": 103.8545877
+  },
+  {
+    "name": "Jalan Besar MRT Station (DT22)",
+    "lat": 1.3179783,
+    "lng": 103.866604
+  },
+  {
+    "name": "Jalan Besar MRT Station B1 (DT22)",
+    "lat": 1.3114202,
+    "lng": 103.8713119
+  },
+  {
+    "name": "Kallang MRT Station (EW10)",
+    "lat": 1.2655228,
+    "lng": 103.8212221
+  },
+  {
+    "name": "Marina Bay MRT Station",
+    "lat": 1.276274,
+    "lng": 103.854629
+  },
+  {
+    "name": "Marina South Pier station",
+    "lat": 1.3040084,
+    "lng": 103.831781
+  },
+  {
+    "name": "Marymount Station",
+    "lat": 1.2999351,
+    "lng": 103.8635334
+  },
+  {
+    "name": "Newton MRT station",
+    "lat": 1.2708997,
+    "lng": 103.8632543
+  },
+  {
+    "name": "Nicoll Highway MRT Station",
+    "lat": 1.3125093,
+    "lng": 103.8379519
+  },
+  {
+    "name": "Orchard MRT Station",
+    "lat": 1.348581,
+    "lng": 103.839588
+  },
+  {
+    "name": "Outram MRT Station",
+    "lat": 1.2918962,
+    "lng": 103.860823
+  },
+  {
+    "name": "Outram MRT Station (NE3)",
+    "lat": 1.2838742,
+    "lng": 103.8514941
+  },
+  {
+    "name": "Promenade MRT Station",
+    "lat": 1.2814265,
+    "lng": 103.8391803
+  },
+  {
+    "name": "Raffles Place MRT Station",
+    "lat": 1.2887613,
+    "lng": 103.8468272
+  },
+  {
+    "name": "Tanjong Pagar MRT Station",
+    "lat": 53.271705,
+    "lng": -9.054221
+  },
+  {
+    "name": "Telok Ayer MRT Station (DT18)",
+    "lat": 1.3389409,
+    "lng": 103.8704661
+  },
+  {
+    "name": "Woodleigh MRT Station (NE11)",
+    "lat": 1.2767709,
+    "lng": 103.8451658
+  },
+  {
+    "name": "Marina South Pier",
+    "lat": 1.2708997,
+    "lng": 103.8632543
+  },
+  {
+    "name": "Malabar Muslim Jamaath Mosque",
+    "lat": 1.2900376,
+    "lng": 103.8112565
+  },
+  {
+    "name": "Lum Chang Building",
+    "lat": 1.3254086,
+    "lng": 103.8536718
+  },
+  {
+    "name": "Palais Renaissance",
+    "lat": 1.3052008,
+    "lng": 103.8597175
+  },
+  {
+    "name": "Wee Hur Construction Pte Ltd",
+    "lat": 1.3129528,
+    "lng": 103.8564134
+  },
+  {
+    "name": "MTR 1924 Indian Restaurant",
+    "lat": 1.3066492,
+    "lng": 103.8295057
+  },
+  {
+    "name": "Dawson Place Shopping Centre",
+    "lat": 1.2927082,
+    "lng": 103.8110301
+  },
+  {
+    "name": "Liang Court",
+    "lat": 1.2828136,
+    "lng": 103.8426668
+  },
+  {
+    "name": "New Bridge Centre",
+    "lat": 1.2920913,
+    "lng": 103.8443637
+  },
+  {
+    "name": "Palais Renaissance",
+    "lat": 1.2920234,
+    "lng": 103.8414422
+  },
+  {
+    "name": "Palais Renaissance",
+    "lat": 1.3066492,
+    "lng": 103.8295057
+  },
+  {
+    "name": "Robertson Walk",
+    "lat": 1.3206513,
+    "lng": 103.8443689
+  },
+  {
+    "name": "Square 2 Shopping Mall",
+    "lat": 1.3066492,
+    "lng": 103.8295057
+  },
+  {
+    "name": "The Central",
+    "lat": 1.2886812,
+    "lng": 103.8465685
+  },
+  {
+    "name": "The Shoppes at Marina Bay Sands",
+    "lat": 1.2864763,
+    "lng": 103.8271508
+  },
+  {
+    "name": "The Shoppes at Marina Bay Sands",
+    "lat": 1.2931776,
+    "lng": 103.8271938
+  },
+  {
+    "name": "Tiong Bahru Plaza",
+    "lat": 1.2837366,
+    "lng": 103.8591923
+  },
+  {
+    "name": "Valley Point Mall",
+    "lat": 1.2837366,
+    "lng": 103.8591923
+  },
+  {
+    "name": "Custom House",
+    "lat": 1.2856406,
+    "lng": 103.8539179
+  },
+  {
+    "name": "Merlion Park@Fullerton",
+    "lat": 1.2839449,
+    "lng": 103.8535294
+  },
+  {
+    "name": "One Fullerton",
+    "lat": 1.2485765,
+    "lng": 103.8281728
+  },
+  {
+    "name": "Sentosa Beach Station",
+    "lat": 1.2540472,
+    "lng": 103.8176064
+  },
+  {
+    "name": "Sentosa Imbiah Lookout",
+    "lat": 1.2862279,
+    "lng": 103.8530525
+  },
+  {
+    "name": "Sentosa Imbiah Station",
+    "lat": 1.2515984,
+    "lng": 103.8202485
+  },
+  {
+    "name": "Sentosa Palawan Beach (East)",
+    "lat": 1.2489493,
+    "lng": 103.8223737
+  },
+  {
+    "name": "Sentosa Palawan Beach (West)",
+    "lat": 1.2489493,
+    "lng": 103.8223737
+  },
+  {
+    "name": "Sentosa Palawan Kidz City",
+    "lat": 1.2856406,
+    "lng": 103.8539179
+  },
+  {
+    "name": "Sentosa Silosa Beach (East)",
+    "lat": 1.2509553,
+    "lng": 103.8174799
+  },
+  {
+    "name": "Sentosa Wings of Time",
+    "lat": 1.2540269,
+    "lng": 103.8148412
+  },
+  {
+    "name": "The Fullerton Water Boat House",
+    "lat": 1.2555253,
+    "lng": 103.8160214
+  },
+  {
+    "name": "Compassvale Bus Interchange",
+    "lat": 1.371037,
+    "lng": 103.893106
+  },
+  {
+    "name": "Hougang Bus Interchanage",
+    "lat": 1.3914826,
+    "lng": 103.8959744
+  },
+  {
+    "name": "Sengkang Bus Interchange",
+    "lat": 1.3891745,
+    "lng": 103.8970053
+  },
+  {
+    "name": "Tampines Bus Interchange",
+    "lat": 1.3536424,
+    "lng": 103.9430565
+  },
+  {
+    "name": "Tampines Concourse Bus Interchange",
+    "lat": 1.4103163,
+    "lng": 103.9061147
+  },
+  {
+    "name": "Safra Punggol",
+    "lat": 1.356359,
+    "lng": 103.940956
+  },
+  {
+    "name": "21 Street Eating House",
+    "lat": 1.352943,
+    "lng": 103.953569
+  },
+  {
+    "name": "CCMW Hougang Avenue 8",
+    "lat": 1.3554437,
+    "lng": 103.9497107
+  },
+  {
+    "name": "CCMW Tampines Ave 4",
+    "lat": 1.3743922,
+    "lng": 103.8879285
+  },
+  {
+    "name": "CCMW Tampines Street 21",
+    "lat": 1.3460914,
+    "lng": 103.93801
+  },
+  {
+    "name": "CCMW Tampines Street 41",
+    "lat": 1.4022707,
+    "lng": 103.9013943
+  },
+  {
+    "name": "CCMW Tampines Street 81",
+    "lat": 1.3479324,
+    "lng": 103.9361065
+  },
+  {
+    "name": "NTUC Foodfare",
+    "lat": 1.3694241,
+    "lng": 103.9477644
+  },
+  {
+    "name": "NTUC Foodfare Anchorvale",
+    "lat": 1.3895385,
+    "lng": 103.8863978
+  },
+  {
+    "name": "NTUC Foodfare Pasir Ris",
+    "lat": 1.3776325,
+    "lng": 103.9036193
+  },
+  {
+    "name": "NTUC Foodfare Upper Serangoon",
+    "lat": 1.3573066,
+    "lng": 103.9463023
+  },
+  {
+    "name": "Koufu Foodcourt",
+    "lat": 1.3855939,
+    "lng": 103.9019834
+  },
+  {
+    "name": "Koufu Foodcourt",
+    "lat": 1.3952669,
+    "lng": 103.8959572
+  },
+  {
+    "name": "Chomp Chomp Food Centre",
+    "lat": 1.3642285,
+    "lng": 103.8666004
+  },
+  {
+    "name": "Hawker Centre @ Our Tampines Hub",
+    "lat": 1.3735776,
+    "lng": 103.9514715
+  },
+  {
+    "name": "Pasir Ris Central Hawker Centre",
+    "lat": 1.3196998,
+    "lng": 103.902894
+  },
+  {
+    "name": "Serangoon Garden Market",
+    "lat": 1.3512821,
+    "lng": 103.9390978
+  },
+  {
+    "name": "Bedok Reservoir MRT Station (DT30)",
+    "lat": 1.363381,
+    "lng": 103.866835
+  },
+  {
+    "name": "Eunos MRT Station",
+    "lat": 1.3330187,
+    "lng": 103.9339513
+  },
+  {
+    "name": "Kaki Bukit MRT Station (DT28)",
+    "lat": 1.3731143,
+    "lng": 103.9493411
+  },
+  {
+    "name": "Kembangan MRT Station",
+    "lat": 1.3349561,
+    "lng": 103.9090759
+  },
+  {
+    "name": "Pasir Ris MRT Station",
+    "lat": 1.3535537,
+    "lng": 103.9449445
+  },
+  {
+    "name": "Punggol MRT Station-NE17",
+    "lat": 1.3568121,
+    "lng": 103.9441231
+  },
+  {
+    "name": "Tampines East MRT Station (DT33)",
+    "lat": 1.3209589,
+    "lng": 103.9126762
+  },
+  {
+    "name": "Tampines MRT Station",
+    "lat": 1.4063966,
+    "lng": 103.8999322
+  },
+  {
+    "name": "Tampines MRT Station (DT32)",
+    "lat": 1.3521148,
+    "lng": 103.9451864
+  },
+  {
+    "name": "Tampines West MRT Station (DT31)",
+    "lat": 1.3535537,
+    "lng": 103.9449445
+  },
+  {
+    "name": "Tanah Merah MRT Station",
+    "lat": 1.3523888,
+    "lng": 103.9438567
+  },
+  {
+    "name": "Al - Istighfar Mosque",
+    "lat": 1.3272004,
+    "lng": 103.9463949
+  },
+  {
+    "name": "Century Square",
+    "lat": 1.371115,
+    "lng": 103.964096
+  },
+  {
+    "name": "Elias Mall",
+    "lat": 1.3729979,
+    "lng": 103.9401392
+  },
+  {
+    "name": "Hougang Mall",
+    "lat": 1.351875,
+    "lng": 103.932314
+  },
+  {
+    "name": "Hougang Mall",
+    "lat": 1.372455,
+    "lng": 103.8938277
+  },
+  {
+    "name": "Pasir Ris West Plaza",
+    "lat": 1.3798792,
+    "lng": 103.9362675
+  },
+  {
+    "name": "Rivervale Plaza",
+    "lat": 1.3855939,
+    "lng": 103.9019834
+  },
+  {
+    "name": "Tampines Central Community Complex",
+    "lat": 1.3724166,
+    "lng": 103.9496584
+  },
+  {
+    "name": "Tampines One",
+    "lat": 1.372455,
+    "lng": 103.8938277
+  },
+  {
+    "name": "White Sands",
+    "lat": 1.378308,
+    "lng": 103.763892
+  },
+  {
+    "name": "Bukit Panjang Intergrated Transport Hub",
+    "lat": 1.354212,
+    "lng": 103.9450352
+  },
+  {
+    "name": "Sembawang Bus Interchange",
+    "lat": 1.4297683,
+    "lng": 103.8379393
+  },
+  {
+    "name": "Woodlands Temporary Bus Interchange",
+    "lat": 1.3086408,
+    "lng": 103.7842042
+  },
+  {
+    "name": "Yishun Temporary Bus Interchange",
+    "lat": 1.3115263,
+    "lng": 103.7883466
+  },
+  {
+    "name": "New Century Cafe",
+    "lat": 28.049971,
+    "lng": -82.6980114999999
+  },
+  {
+    "name": "NTUC Foodfare",
+    "lat": 1.4155504,
+    "lng": 103.8396956
+  },
+  {
+    "name": "NTUC Foodfare@29A Ghim Moh Link",
+    "lat": 1.452496,
+    "lng": 103.810849
+  },
+  {
+    "name": "Chang Cheng Mee Wah Foodcourt",
+    "lat": 1.4472813,
+    "lng": 103.8195946
+  },
+  {
+    "name": "NTUC Foodfare KTPH",
+    "lat": 1.4244482,
+    "lng": 103.8380168
+  },
+  {
+    "name": "Viva Foodcourt",
+    "lat": 1.3837226,
+    "lng": 103.7706695
+  },
+  {
+    "name": "Koufu Foodcourt@Fajar",
+    "lat": 1.4306862,
+    "lng": 103.7940058
+  },
+  {
+    "name": "Bukit Panjang Hawker Centre",
+    "lat": 1.3773085,
+    "lng": 103.7730453
+  },
+  {
+    "name": "Holland Village Market & Food Centre",
+    "lat": 1.3111965,
+    "lng": 103.7949565
+  },
+  {
+    "name": "Yishun Park Hawker Centre",
+    "lat": 1.425249,
+    "lng": 103.762
+  },
+  {
+    "name": "Admiralty MRT Station",
+    "lat": 1.4325696,
+    "lng": 103.7740864
+  },
+  {
+    "name": "Kranji MRT Station",
+    "lat": 1.4405962,
+    "lng": 103.8009702
+  },
+  {
+    "name": "Marsiling MRT Station",
+    "lat": 1.4249457,
+    "lng": 103.8447228
+  },
+  {
+    "name": "Woodlands MRT Station",
+    "lat": 1.4368968,
+    "lng": 103.7865809
+  },
+  {
+    "name": "Yew Tee MRT Station",
+    "lat": 1.4377241,
+    "lng": 103.7952735
+  },
+  {
+    "name": "888 Plaza",
+    "lat": 1.3837226,
+    "lng": 103.7706695
+  },
+  {
+    "name": "Admiralty Place",
+    "lat": 1.3973666,
+    "lng": 103.7474715
+  },
+  {
+    "name": "Fajar Shopping Centre",
+    "lat": 1.4399252,
+    "lng": 103.8013857
+  },
+  {
+    "name": "Sembawang Mart",
+    "lat": 1.4538337,
+    "lng": 103.8195883
+  },
+  {
+    "name": "Vista Point",
+    "lat": 1.4306862,
+    "lng": 103.7940058
+  },
+  {
+    "name": "Bedok Bus Interchange",
+    "lat": 1.3248824,
+    "lng": 103.9295831
+  },
+  {
+    "name": "Changi Business Park Bus Terminal",
+    "lat": 1.3194036,
+    "lng": 103.9018975
+  },
+  {
+    "name": "Eunos Bus Interchange",
+    "lat": 1.3255108,
+    "lng": 103.931987
+  },
+  {
+    "name": "Serangoon Bus Interchange",
+    "lat": 1.31799,
+    "lng": 103.952688
+  },
+  {
+    "name": "Upper East Coast Bus Terminal",
+    "lat": 1.3423335,
+    "lng": 103.9643676
+  },
+  {
+    "name": "CCMW BD 211 Food House",
+    "lat": 1.3503586,
+    "lng": 103.871567
+  },
+  {
+    "name": "NTUC Foodfare Tampines",
+    "lat": 1.3094236,
+    "lng": 103.9018475
+  },
+  {
+    "name": "Bedok Food Centre",
+    "lat": 1.3203848,
+    "lng": 103.9555055
+  },
+  {
+    "name": "Dunman Food Centre",
+    "lat": 1.30668,
+    "lng": 103.935039
+  },
+  {
+    "name": "East Coast Lagoon Food Village",
+    "lat": 1.3165977,
+    "lng": 103.8833123
+  },
+  {
+    "name": "Geylang Serai Market",
+    "lat": 1.3422843,
+    "lng": 103.8841101
+  },
+  {
+    "name": "Aljunied MRT Station (EW9)",
+    "lat": 1.3513694,
+    "lng": 103.9294802
+  },
+  {
+    "name": "Bartley MRT Station",
+    "lat": 1.3166568,
+    "lng": 103.8981808
+  },
+  {
+    "name": "Bedok MRT Station",
+    "lat": 1.323794,
+    "lng": 103.930218
+  },
+  {
+    "name": "Bedok North MRT Station (DT29)",
+    "lat": 1.323794,
+    "lng": 103.930218
+  },
+  {
+    "name": "Dakota MRT Station",
+    "lat": 1.336502,
+    "lng": 103.9631211
+  },
+  {
+    "name": "Expo MRT Station",
+    "lat": 1.3517876,
+    "lng": 103.8636601
+  },
+  {
+    "name": "Lorong Chuan MRT Station",
+    "lat": 1.3079608,
+    "lng": 103.8888893
+  },
+  {
+    "name": "Macpherson MRT Station (DT26)",
+    "lat": 1.3268305,
+    "lng": 103.8899206
+  },
+  {
+    "name": "Macpherson MRT Station CC10",
+    "lat": 1.3272214,
+    "lng": 103.8828949
+  },
+  {
+    "name": "Mattar MRT Station (DT25)",
+    "lat": 1.3262687,
+    "lng": 103.8891872
+  },
+  {
+    "name": "Mountbatten MRT Station",
+    "lat": 1.3181412,
+    "lng": 103.8931028
+  },
+  {
+    "name": "Paya Lebar MRT Station",
+    "lat": 1.3181412,
+    "lng": 103.8931028
+  },
+  {
+    "name": "Paya Lebar MRT Station CC09",
+    "lat": 1.30664,
+    "lng": 103.8830992
+  },
+  {
+    "name": "Serangoon MRT Station CC13",
+    "lat": 1.3495534,
+    "lng": 103.8737094
+  },
+  {
+    "name": "Simei MRT Station",
+    "lat": 1.3308942,
+    "lng": 103.9011034
+  },
+  {
+    "name": "Stadium MRT Station",
+    "lat": 1.3431473,
+    "lng": 103.9534205
+  },
+  {
+    "name": "Tai Seng MRT Station CC11",
+    "lat": 1.315681,
+    "lng": 103.8988707
+  },
+  {
+    "name": "Ubi MRT Station (DT27)",
+    "lat": 1.326906,
+    "lng": 103.916739
+  },
+  {
+    "name": "Upper Changi MRT Station",
+    "lat": 1.33592,
+    "lng": 103.88776
+  },
+  {
+    "name": "Kah Engineering (1988) Pte Ltd",
+    "lat": 1.302812,
+    "lng": 103.875334
+  },
+  {
+    "name": "Joo Chiat Complex",
+    "lat": 1.3424326,
+    "lng": 103.9614832
+  },
+  {
+    "name": "Boon Lay Bus Interchange",
+    "lat": 1.3401005,
+    "lng": 103.7056632
+  },
+  {
+    "name": "Choa Chu Kang Bus Interchange",
+    "lat": 1.315027,
+    "lng": 103.763991
+  },
+  {
+    "name": "Clementi Bus Interchange",
+    "lat": 1.3836247,
+    "lng": 103.7445983
+  },
+  {
+    "name": "Joo Koon Bus Interchange",
+    "lat": 1.345011,
+    "lng": 103.639114
+  },
+  {
+    "name": "Tuas Bus Terminal",
+    "lat": 1.3261298,
+    "lng": 103.6783611
+  },
+  {
+    "name": "CCMW Jurong West Street 41",
+    "lat": 1.3845081,
+    "lng": 103.7439431
+  },
+  {
+    "name": "NTUC Foodfare Bukit Batok",
+    "lat": 1.3487731,
+    "lng": 103.7241263
+  },
+  {
+    "name": "NTUC Foodfare Choa Chu Kang",
+    "lat": 1.3183689,
+    "lng": 103.648497
+  },
+  {
+    "name": "NTUC Foodfare Jurong West",
+    "lat": 1.3440014,
+    "lng": 103.7466815
+  },
+  {
+    "name": "Aspri-Westlite Construction Site",
+    "lat": 1.4119673,
+    "lng": 103.7530385
+  },
+  {
+    "name": "Megastone Holding Dormitory",
+    "lat": 1.344585,
+    "lng": 103.70608
+  },
+  {
+    "name": "Unison Construction Dormitory",
+    "lat": 1.3223695,
+    "lng": 103.727914
+  },
+  {
+    "name": "Choa Chu Kang Crescent NTUC Foodfare",
+    "lat": 1.2935463,
+    "lng": 103.7843092
+  },
+  {
+    "name": "Kopitiam",
+    "lat": 1.400942,
+    "lng": 103.747804
+  },
+  {
+    "name": "Kopitiam",
+    "lat": 1.3501199,
+    "lng": 103.7492141
+  },
+  {
+    "name": "Koufu Foodcourt",
+    "lat": 1.2675487,
+    "lng": 103.704573
+  },
+  {
+    "name": "Koufu Foodcourt",
+    "lat": 1.3090523,
+    "lng": 103.7107428
+  },
+  {
+    "name": "JTC Chemgallery at Oasis @ Sakra",
+    "lat": 1.3389911,
+    "lng": 103.6984193
+  },
+  {
+    "name": "Jurong Island Checkpoint",
+    "lat": 1.2939757,
+    "lng": 103.7832169
+  },
+  {
+    "name": "47 Ayer Rajah Crescent",
+    "lat": 1.2938229,
+    "lng": 103.7880749
+  },
+  {
+    "name": "51 Ayer Rajah Crescent",
+    "lat": 1.2931272,
+    "lng": 103.7882108
+  },
+  {
+    "name": "51A Ayer Rajah Crescent",
+    "lat": 1.2944499,
+    "lng": 103.7871242
+  },
+  {
+    "name": "55 Ayer Rajah Crescent",
+    "lat": 1.297341,
+    "lng": 103.7868073
+  },
+  {
+    "name": "67 Ayer Rajah Crescent",
+    "lat": 1.293617,
+    "lng": 103.788614
+  },
+  {
+    "name": "71 Ayer Rajah Crescent",
+    "lat": 1.2967926,
+    "lng": 103.786762
+  },
+  {
+    "name": "73 Ayer Rajah Crescent",
+    "lat": 1.2959158,
+    "lng": 103.7865809
+  },
+  {
+    "name": "79 Ayer Rajah Crescent",
+    "lat": 1.2979591,
+    "lng": 103.7874864
+  },
+  {
+    "name": "CleanTech One",
+    "lat": 1.3552657,
+    "lng": 103.6935015
+  },
+  {
+    "name": "CleanTech Two",
+    "lat": 1.3115068,
+    "lng": 103.6996957
+  },
+  {
+    "name": "JTC Surface Engineering Hub",
+    "lat": 1.296167,
+    "lng": 103.787009
+  },
+  {
+    "name": "Jurong Port Offshore Marine Centre",
+    "lat": 1.3151607,
+    "lng": 103.7197044
+  },
+  {
+    "name": "Ayer Rajah Amenity Centre",
+    "lat": 1.3550629,
+    "lng": 103.6922992
+  },
+  {
+    "name": "Jurong Port Road Food Centre",
+    "lat": 1.3412184,
+    "lng": 103.6973341
+  },
+  {
+    "name": "Jurong West Hawker Centre",
+    "lat": 1.2911352,
+    "lng": 103.6196646
+  },
+  {
+    "name": "Pasir Panjang Food Centre",
+    "lat": 1.3347853,
+    "lng": 103.7215856
+  },
+  {
+    "name": "Taman Jurong Market & Food Centre",
+    "lat": 1.2759677,
+    "lng": 103.7913379
+  },
+  {
+    "name": "Timbre + Ayer Rajah Crescent Hawker Centre",
+    "lat": 1.297415,
+    "lng": 103.7875037
+  },
+  {
+    "name": "Buona Vista MRT station",
+    "lat": 1.3195079,
+    "lng": 103.661473
+  },
+  {
+    "name": "Gul Circle Station",
+    "lat": 1.3121956,
+    "lng": 103.7960457
+  },
+  {
+    "name": "Haw Par Villa MRT station",
+    "lat": 1.2933881,
+    "lng": 103.7842699
+  },
+  {
+    "name": "Kent Ridge MRT station",
+    "lat": 1.299757,
+    "lng": 103.787469
+  },
+  {
+    "name": "Labrador Park MRT station",
+    "lat": 1.3073105,
+    "lng": 103.7898406
+  },
+  {
+    "name": "One North MRT station",
+    "lat": 1.3211643,
+    "lng": 103.6486303
+  },
+  {
+    "name": "Pasir Panjang MRT station",
+    "lat": 1.3222145,
+    "lng": 103.8145958
+  },
+  {
+    "name": "Telok Blangah MRT station",
+    "lat": 1.3393744,
+    "lng": 103.6366625
+  },
+  {
+    "name": "Tuas Crescent MRT Station",
+    "lat": 1.3378174,
+    "lng": 103.8394749
+  },
+  {
+    "name": "Tuas Link MRT Station",
+    "lat": 1.3174314,
+    "lng": 103.8077866
+  },
+  {
+    "name": "Tuas West MRT Station",
+    "lat": 1.3291453,
+    "lng": 103.6403397
+  },
+  {
+    "name": "Jurong Eco Garden",
+    "lat": 1.3853755,
+    "lng": 103.7663006
+  },
+  {
+    "name": "Samwoh Eco Green Building",
+    "lat": 1.4323914,
+    "lng": 103.7492367
+  },
+  {
+    "name": "Depot Height Shopping Centre",
+    "lat": 1.3553891,
+    "lng": 103.6921766
+  },
+  {
+    "name": "Gek Poh Shopping Centre",
+    "lat": 1.3489162,
+    "lng": 103.6976086
+  },
+  {
+    "name": "Greenridge Shopping Centre",
+    "lat": 1.2813034,
+    "lng": 103.8101301
+  },
+  {
+    "name": "Greenridge Shopping Centre",
+    "lat": 1.3798792,
+    "lng": 103.9362675
+  },
+  {
+    "name": "Jurong Point Shopping Centre",
+    "lat": 1.3399326,
+    "lng": 103.7061039
+  },
+  {
+    "name": "Limbang Shopping Centre",
+    "lat": 1.3418425,
+    "lng": 103.6974276
+  },
+  {
+    "name": "Pasir Ris West Plaza",
+    "lat": 1.3921063,
+    "lng": 103.7431496
+  },
+  {
+    "name": "Pioneer Mall",
+    "lat": 1.3853755,
+    "lng": 103.7663006
+  },
+  {
+    "name": "Sunshine Place",
+    "lat": 1.3780266,
+    "lng": 103.7389881
+  },
+  {
+    "name": "Taman Jurong Shopping Centre",
+    "lat": 1.3346399,
+    "lng": 103.720345
+  },
+  {
+    "name": "Yew Tee Square",
+    "lat": 1.398094,
+    "lng": 103.7468279
+  }
+]
