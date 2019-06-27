@@ -14,10 +14,10 @@ import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
 
 const { width, height } = Dimensions.get("window");
 
-const MAPS_API_KEY = "AIzaSyDBnrDdsjVd5yxDaRPzOgpRFjmGjM7jXD4";
+const MAPS_API_KEY = "HIDDEN";
 const ASPECT_RATIO = width / height;
-const LATITUDE = 1.29027;
-const LONGITUDE = 103.851959;
+const LATITUDE = 1.297136;
+const LONGITUDE = 103.777527;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 
@@ -44,7 +44,7 @@ export default class MapScreen extends Component {
       mapMargin: 1
     };
     this.setMargin = this.setMargin.bind(this);
-    this.readUserData = this.readCoordsData.bind(this);
+    this.readCoordsData = this.readCoordsData.bind(this);
   }
 
   setMargin() {
