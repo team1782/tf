@@ -7,7 +7,7 @@ import Geocoder from "react-native-geocoding";
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBxyaS4-BSWBgsUdV32jytZM21bAI_MOeY",
+  apiKey: "HIDDEN",
   authDomain: "toiletfinderdb18.firebaseapp.com",
   databaseURL: "https://toiletfinderdb18.firebaseio.com",
   projectId: "toiletfinderdb18",
