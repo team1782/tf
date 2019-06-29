@@ -7,5 +7,4 @@ ToiletFinder is an application designed to help users locate the nearest toilets
 ## Site Map
 * [Web-scraping related Python codes and CSV/JSON files](https://github.com/shaunnmui97/toiletfinderRNcode/tree/master/Web%20Scraping)
 
-* [User Guide]
-(https://github.com/hazletnj/tf/blob/master/docs/userguide.md)
+* [User Guide](https://github.com/hazletnj/tf/blob/master/docs/userguide.md)
