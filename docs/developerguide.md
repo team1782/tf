@@ -4,17 +4,17 @@
   * [Prerequisites](#prerequisites)
   * [Setting up the project in your computer](#setting-up-the-project-in-your-computer)
 * [Design](#design)
- * [Architecture](#architecture)
+  * [Architecture](#architecture)
   * [General Starting Flow](#general-starting-flow)
   * [HomeScreen Container](#homescreen-container)
   * [MapScreen Container](#mapscreen-container)
 * [Implementation](#implementation)
- * [Searchable Dropdown Menus](#searchable-dropdown-menus)
- * [Webscraping](#webscraping-using-beautifulsoup)
- * [Conversion to Coordinates](#conversion-of-string-addresses-to-coordinates)
+  * [Searchable Dropdown Menus](#searchable-dropdown-menus)
+  * [Webscraping](#webscraping-using-beautifulsoup)
+  * [Conversion to Coordinates](#conversion-of-string-addresses-to-coordinates)
 * [Documentation](#documentation)
- * [Creation of Documentation](#creating-documentation)
- * [Editing of Documentation](#editing-of-documentation)
+  * [Creation of Documentation](#creating-documentation)
+  * [Editing of Documentation](#editing-of-documentation)
 
 ## Setting Up  
 ### Prerequisites  
