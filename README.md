@@ -153,9 +153,9 @@ The ToiletFinder app is GPS-based and seeks to locate nearby toilets for users u
 
 #### Frameworks:
 * Database (Google Firebase - Realtime Database)
-* Maps (react-native-maps)
-* Geocoding (react-native-geocoding)
-* React (React Native, Native Base)
+* Maps (React Native Maps, Google's Directions API)
+* Geocoding (Google's Geocoding API)
+* ReactNative- (Base, Navigation, Directions, Maps, Geocoding)
 * Web Scraping (BeautifulSoup)
 
 ## How are we different from similar platforms?
