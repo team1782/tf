@@ -9,8 +9,12 @@
   * [HomeScreen Container](#homescreen-container)
   * [MapScreen Container](#mapscreen-container)
 * [Implementation](#implementation)
+ * [Searchable Dropdown Menus](#searchable-dropdown-menus)
+ * [Webscraping](#webscraping-using-beautifulsoup)
+ * [Conversion to Coordinates](#conversion-of-string-addresses-to-coordinates)
 * [Documentation](#documentation)
-* [Testing](#testing)
+ * [Creation of Documentation](#creating-documentation)
+ * [Editing of Documentation](#editing-of-documentation)
 
 ## Setting Up  
 ### Prerequisites  
@@ -64,7 +68,7 @@ The container consists of a global map part of react-native-maps, as well as a d
 
 ## Implementation
 
-### Searchable DropDown Menu(s)
+### Searchable DropDown Menu
 * Toilet's Address & Toilet's Place
 
 We made use of react-native-searchable-dropdown module to implement the search boxes for toilet's place and toilet's address by passing in an array of data.
@@ -76,8 +80,7 @@ The array of data is built by retrieving data from Google's Firebase: Realtime D
 We used a Python package module called BeautifulSoup to parse HTML documents where we then extract data out of it.  
 The URL of the website is: https://www.toilet.org.sg/loomapdirectory  
 We extracted 272 entries of toilet data with each entry containing information such as the toilet's name, address and place.  
-* For example:
- * AMK Bus Interchange, 53 Ang Mo Kio Avenue 3 S(569933), Bus Interchange
+* E.g. AMK Bus Interchange, 53 Ang Mo Kio Avenue 3 S(569933), Bus Interchange
 
 ### Conversion of String Addresses to Coordinates
 
