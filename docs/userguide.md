@@ -2,7 +2,7 @@
 
 
 ## 1. Introduction
-ToiletFinder is for those who want to use a mobile app to conveniently locate the nearest toilet from a chosen location. The chosen location can either be automatically derived from the phone’s GPS function or selected from the searchable dropdown menu. Interested? Jump to section 2 on [Quickstart](#quickstart) to find out more!
+ToiletFinder is for those who want to use a mobile app to conveniently locate the nearest toilet from a chosen location. The chosen location can either be automatically derived from the phone’s GPS function or selected from the searchable dropdown menu. Interested? Jump to section 2 on Quickstart to find out more!
 
 
 ## 2. Quickstart
