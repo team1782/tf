@@ -148,15 +148,15 @@ The ToiletFinder app is GPS-based and seeks to locate nearby toilets for users u
 2. Cleanliness Rating of the Toilet by other Users (Users will be prompted to give a review upon visiting the toilet)
 
 ### Features to be completed by Mid of July
-*Implementation of Normal and AR-guided Navigation
-*Cleanliness Rating and Review
+* Implementation of Normal and AR-guided Navigation
+* Cleanliness Rating and Review
 
 #### Frameworks:
-*Database (Google Firebase - Realtime Database)
-*Maps (react-native-maps)
-*Geocoding (react-native-geocoding)
-*React (React Native, Native Base)
-*Web Scraping (BeautifulSoup)
+* Database (Google Firebase - Realtime Database)
+* Maps (react-native-maps)
+* Geocoding (react-native-geocoding)
+* React (React Native, Native Base)
+* Web Scraping (BeautifulSoup)
 
 ## How are we different from similar platforms?
 As of now, applications available for download in the AppStore/PlayStore are developed by overseas companies (mainly UK). This meant that the toilet finder apps are not localised to Singapore’s context - ignoring toilets in coffee shops, train stations. These applications are also missing a key feature - Ratings on the cleanliness of the toilet.
