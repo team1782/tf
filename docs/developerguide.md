@@ -21,7 +21,7 @@
 * JDK 8 or later
 * Android Studio
 * Node 8.3 or later
-* Python2
+* Python3
 * An IDE (e.g. Visual Studio Code)
 ### Setting Up the Project in your Computer
 * Fork this repo and clone the fork to your computer.
