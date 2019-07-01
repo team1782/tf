@@ -1,0 +1,1367 @@
+[
+ {
+   "id": 0,
+   "name": "to be deleted",
+   "postalcode": "to be deleted"
+ },
+ {
+   "id": 1,
+   "name": "AMK Bus Interchange",
+   "postalcode": "Singapore (569933)"
+ },
+ {
+   "id": 2,
+   "name": "Bishan Bus Interchange",
+   "postalcode": "Singapore (570514)"
+ },
+ {
+   "id": 3,
+   "name": "Harbourfront Bus Terminal",
+   "postalcode": "Singapore (099115)"
+ },
+ {
+   "id": 4,
+   "name": "Kampong Bahru Bus Terminal",
+   "postalcode": "Singapore (168795)"
+ },
+ {
+   "id": 5,
+   "name": "Kent Ridge Bus Terminal",
+   "postalcode": "Singapore (884005)"
+ },
+ {
+   "id": 6,
+   "name": "Queens Street Bus Terminal",
+   "postalcode": "Singapore (884001)"
+ },
+ {
+   "id": 7,
+   "name": "Shenton Way Bus Terminal",
+   "postalcode": "Singapore (079121)"
+ },
+ {
+   "id": 8,
+   "name": "St. Michael's Bus Terminal",
+   "postalcode": "Singapore (327691)"
+ },
+ {
+   "id": 9,
+   "name": "Seletar Country Club",
+   "postalcode": "Singapore (798273)"
+ },
+ {
+   "id": 10,
+   "name": "CCMW",
+   "postalcode": "Singapore (080001)"
+ },
+ {
+   "id": 11,
+   "name": "CCMW",
+   "postalcode": "Singapore (200803)"
+ },
+ {
+   "id": 12,
+   "name": "CCMW Food House",
+   "postalcode": "Singapore (270040)"
+ },
+ {
+   "id": 13,
+   "name": "CCMW Queen Street",
+   "postalcode": "Singapore (180269)"
+ },
+ {
+   "id": 14,
+   "name": "CCMW Toa Payoh Central",
+   "postalcode": "Singapore (313078)"
+ },
+ {
+   "id": 15,
+   "name": "Chang Cheng Mee Wah Restaurant",
+   "postalcode": "Singapore (310111)"
+ },
+ {
+   "id": 16,
+   "name": "CMW Redhill Food House",
+   "postalcode": "Singapore (154075)"
+ },
+ {
+   "id": 17,
+   "name": "NTUC Foodfare Anchorvale",
+   "postalcode": "Singapore (540308)"
+ },
+ {
+   "id": 18,
+   "name": "Kuofu Foodcourt",
+   "postalcode": "Singapore (141088)"
+ },
+ {
+   "id": 19,
+   "name": "NTUC Foodfare Court@Clifford Centre",
+   "postalcode": "Singapore (048621)"
+ },
+ {
+   "id": 20,
+   "name": "The Gallerie Foodcourt",
+   "postalcode": "Singapore (039594)"
+ },
+ {
+   "id": 21,
+   "name": "Health Sciences Authority",
+   "postalcode": "Singapore (169078)"
+ },
+ {
+   "id": 22,
+   "name": "Maritime and Port Authority of Singapore",
+   "postalcode": "Singapore (119963)"
+ },
+ {
+   "id": 23,
+   "name": "Ministry of Social & Family Development (MSF)",
+   "postalcode": "Singapore (298136)"
+ },
+ {
+   "id": 24,
+   "name": "Ministry of the Environment & Water Resources Environment Building",
+   "postalcode": "Singapore (228231)"
+ },
+ {
+   "id": 25,
+   "name": "National Environment Agency Environment Building",
+   "postalcode": "Singapore (228231)"
+ },
+ {
+   "id": 26,
+   "name": "PSA Tanjong Pagar Complex",
+   "postalcode": "Singapore (089054)"
+ },
+ {
+   "id": 27,
+   "name": "PSA Vista",
+   "postalcode": "Singapore (117612)"
+ },
+ {
+   "id": 28,
+   "name": "Sengkang General Hospital",
+   "postalcode": "Singapore (544886)"
+ },
+ {
+   "id": 29,
+   "name": "Tan Tock Seng Hospital",
+   "postalcode": "Singapore (308433)"
+ },
+ {
+   "id": 30,
+   "name": "National Library",
+   "postalcode": "Singapore (188064)"
+ },
+ {
+   "id": 31,
+   "name": "Adam Road Food Centre",
+   "postalcode": "Singapore (289876)"
+ },
+ {
+   "id": 32,
+   "name": "Amoy Food Centre",
+   "postalcode": "Singapore (069111)"
+ },
+ {
+   "id": 33,
+   "name": "Beo Crescent Market & Food Centre",
+   "postalcode": "Singapore (169982)"
+ },
+ {
+   "id": 34,
+   "name": "Berseh Food Centre",
+   "postalcode": "Singapore (208877)"
+ },
+ {
+   "id": 35,
+   "name": "Bukit Timah Market & Food Centre",
+   "postalcode": "Singapore (588215)"
+ },
+ {
+   "id": 36,
+   "name": "Commonwealth Crescent Market",
+   "postalcode": "Singapore (149644)"
+ },
+ {
+   "id": 37,
+   "name": "Golden Mile Food Centre",
+   "postalcode": "Singapore (199583)"
+ },
+ {
+   "id": 38,
+   "name": "Market Street Food Centre",
+   "postalcode": "Singapore (048940)"
+ },
+ {
+   "id": 39,
+   "name": "Maxwell Food Centre",
+   "postalcode": "Singapore (069184)"
+ },
+ {
+   "id": 40,
+   "name": "Newton Food Centre",
+   "postalcode": "Singapore (229495)"
+ },
+ {
+   "id": 41,
+   "name": "North Bridge Road Market & Food Centre",
+   "postalcode": "Singapore (198783)"
+ },
+ {
+   "id": 42,
+   "name": "Sembawang Hill Food Centre",
+   "postalcode": "Singapore (574419)"
+ },
+ {
+   "id": 43,
+   "name": "Tanglin Halt Market",
+   "postalcode": "Singapore (148813)"
+ },
+ {
+   "id": 44,
+   "name": "Tiong Bahru Market",
+   "postalcode": "Singapore (168898)"
+ },
+ {
+   "id": 45,
+   "name": "Zion Riverside Food Centre",
+   "postalcode": "Singapore (247792)"
+ },
+ {
+   "id": 46,
+   "name": "Ang Mo Kio MRT station",
+   "postalcode": "Singapore (569811)"
+ },
+ {
+   "id": 47,
+   "name": "Bayfront MRT Station",
+   "postalcode": "Singapore (018957)"
+ },
+ {
+   "id": 48,
+   "name": "Bencoolen MRT Station (DT23)",
+   "postalcode": "Singapore (189658)"
+ },
+ {
+   "id": 49,
+   "name": "Bendemeer MRT Station (DT23)",
+   "postalcode": "Singapore (339356)"
+ },
+ {
+   "id": 50,
+   "name": "Bishan MRT station",
+   "postalcode": "Singapore (579827)"
+ },
+ {
+   "id": 51,
+   "name": "Botanic Gardens MRT station",
+   "postalcode": "Singapore (109029)"
+ },
+ {
+   "id": 52,
+   "name": "Braddell MRT Station",
+   "postalcode": "Singapore (319756)"
+ },
+ {
+   "id": 53,
+   "name": "Bras Basah MRT Station",
+   "postalcode": "Singapore (189561)"
+ },
+ {
+   "id": 54,
+   "name": "Bugis MRT Station (DT14)",
+   "postalcode": "Singapore (188022)"
+ },
+ {
+   "id": 55,
+   "name": "Chinatown MRT Station (DT19)",
+   "postalcode": "Singapore (058362)"
+ },
+ {
+   "id": 56,
+   "name": "City Hall MRT Station",
+   "postalcode": "Singapore (0) EW1)"
+ },
+ {
+   "id": 57,
+   "name": "Clark Quay MRT Station (NE5)",
+   "postalcode": "Singapore (169037)"
+ },
+ {
+   "id": 58,
+   "name": "Dhoby Ghaut MRT Station",
+   "postalcode": "Singapore (6) NS2)"
+ },
+ {
+   "id": 59,
+   "name": "Dhoby Ghaut MRT Station Circle Line",
+   "postalcode": "Singapore (238826)"
+ },
+ {
+   "id": 60,
+   "name": "Downtown MRT Station (DT17)",
+   "postalcode": "Singapore (018969)"
+ },
+ {
+   "id": 61,
+   "name": "Esplanade MRT Station",
+   "postalcode": "Singapore (189562)"
+ },
+ {
+   "id": 62,
+   "name": "Farrer Road MRT station",
+   "postalcode": "Singapore (117424)"
+ },
+ {
+   "id": 63,
+   "name": "Fort Canning MRT Station (DT20)",
+   "postalcode": "Singapore (179038)"
+ },
+ {
+   "id": 64,
+   "name": "Geylang Bahru MRT Station (DT24)",
+   "postalcode": "Singapore (339355)"
+ },
+ {
+   "id": 65,
+   "name": "HarbourFront MRT Station (NE1)",
+   "postalcode": "Singapore (098867)"
+ },
+ {
+   "id": 66,
+   "name": "Holland Village MRT station",
+   "postalcode": "Singapore (118628)"
+ },
+ {
+   "id": 67,
+   "name": "Jalan Besar MRT Station (DT22)",
+   "postalcode": "Singapore (208800)"
+ },
+ {
+   "id": 68,
+   "name": "Jalan Besar MRT Station B1 (DT22)",
+   "postalcode": "Singapore (208800)"
+ },
+ {
+   "id": 69,
+   "name": "Kallang MRT Station (EW10)",
+   "postalcode": "Singapore (387405)"
+ },
+ {
+   "id": 70,
+   "name": "Marina Bay MRT Station",
+   "postalcode": "Singapore (018990)"
+ },
+ {
+   "id": 71,
+   "name": "Marina South Pier station",
+   "postalcode": "Singapore (018988)"
+ },
+ {
+   "id": 72,
+   "name": "Marymount Station",
+   "postalcode": "Singapore (573993)"
+ },
+ {
+   "id": 73,
+   "name": "Newton MRT station",
+   "postalcode": "Singapore (228234)"
+ },
+ {
+   "id": 74,
+   "name": "Nicoll Highway MRT Station",
+   "postalcode": "Singapore (038970)"
+ },
+ {
+   "id": 75,
+   "name": "Orchard MRT Station",
+   "postalcode": "Singapore (8) NS2)"
+ },
+ {
+   "id": 76,
+   "name": "Outram MRT Station",
+   "postalcode": "Singapore (169037)"
+ },
+ {
+   "id": 77,
+   "name": "Outram MRT Station (NE3)",
+   "postalcode": "Singapore (059815)"
+ },
+ {
+   "id": 78,
+   "name": "Promenade MRT Station",
+   "postalcode": "Singapore (039193)"
+ },
+ {
+   "id": 79,
+   "name": "Raffles Place MRT Station",
+   "postalcode": "Singapore (048618)"
+ },
+ {
+   "id": 80,
+   "name": "Tanjong Pagar MRT Station",
+   "postalcode": "Singapore (069119)"
+ },
+ {
+   "id": 81,
+   "name": "Telok Ayer MRT Station (DT18)",
+   "postalcode": "Singapore (048416)"
+ },
+ {
+   "id": 82,
+   "name": "Woodleigh MRT Station (NE11)",
+   "postalcode": "Singapore (347695)"
+ },
+ {
+   "id": 83,
+   "name": "Marina South Pier",
+   "postalcode": "Singapore (018988)"
+ },
+ {
+   "id": 84,
+   "name": "Malabar Muslim Jamaath Mosque",
+   "postalcode": "Singapore (198370)"
+ },
+ {
+   "id": 85,
+   "name": "Lum Chang Building",
+   "postalcode": "Singapore (159150)"
+ },
+ {
+   "id": 86,
+   "name": "Palais Renaissance",
+   "postalcode": "Singapore (238871)"
+ },
+ {
+   "id": 87,
+   "name": "Wee Hur Construction Pte Ltd",
+   "postalcode": "Singapore (328814)"
+ },
+ {
+   "id": 88,
+   "name": "MTR 1924 Indian Restaurant",
+   "postalcode": "Singapore (218133)"
+ },
+ {
+   "id": 89,
+   "name": "Dawson Place Shopping Centre",
+   "postalcode": "Singapore (142057)"
+ },
+ {
+   "id": 90,
+   "name": "Liang Court",
+   "postalcode": "Singapore (179032)"
+ },
+ {
+   "id": 91,
+   "name": "New Bridge Centre",
+   "postalcode": "Singapore (050336)"
+ },
+ {
+   "id": 92,
+   "name": "Palais Renaissance",
+   "postalcode": "Singapore (238871)"
+ },
+ {
+   "id": 93,
+   "name": "Palais Renaissance",
+   "postalcode": "Singapore (238871)"
+ },
+ {
+   "id": 94,
+   "name": "Robertson Walk",
+   "postalcode": "Singapore (237995)"
+ },
+ {
+   "id": 95,
+   "name": "Square 2 Shopping Mall",
+   "postalcode": "Singapore (307506)"
+ },
+ {
+   "id": 96,
+   "name": "The Central",
+   "postalcode": "Singapore (059817)"
+ },
+ {
+   "id": 97,
+   "name": "The Shoppes at Marina Bay Sands",
+   "postalcode": "Singapore (018972)"
+ },
+ {
+   "id": 98,
+   "name": "The Shoppes at Marina Bay Sands",
+   "postalcode": "Singapore (018972)"
+ },
+ {
+   "id": 99,
+   "name": "Tiong Bahru Plaza",
+   "postalcode": "Singapore (168732)"
+ },
+ {
+   "id": 100,
+   "name": "Valley Point Mall",
+   "postalcode": "Singapore (248371)"
+ },
+ {
+   "id": 101,
+   "name": "Custom House",
+   "postalcode": "Singapore (049326)"
+ },
+ {
+   "id": 102,
+   "name": "Merlion Park@Fullerton",
+   "postalcode": "Singapore (049178)"
+ },
+ {
+   "id": 103,
+   "name": "One Fullerton",
+   "postalcode": "Singapore (049178)"
+ },
+ {
+   "id": 104,
+   "name": "Sentosa Beach Station",
+   "postalcode": "Singapore (099981)"
+ },
+ {
+   "id": 105,
+   "name": "Sentosa Imbiah Lookout",
+   "postalcode": "Singapore (099538)"
+ },
+ {
+   "id": 106,
+   "name": "Sentosa Imbiah Station",
+   "postalcode": "Singapore (099981)"
+ },
+ {
+   "id": 107,
+   "name": "Sentosa Palawan Beach (East)",
+   "postalcode": "Singapore (098521)"
+ },
+ {
+   "id": 108,
+   "name": "Sentosa Palawan Beach (West)",
+   "postalcode": "Singapore (098038)"
+ },
+ {
+   "id": 109,
+   "name": "Sentosa Palawan Kidz City",
+   "postalcode": "Singapore (098008)"
+ },
+ {
+   "id": 110,
+   "name": "Sentosa Silosa Beach (East)",
+   "postalcode": "Singapore (098997)"
+ },
+ {
+   "id": 111,
+   "name": "Sentosa Wings of Time",
+   "postalcode": "Singapore (099538)"
+ },
+ {
+   "id": 112,
+   "name": "The Fullerton Water Boat House",
+   "postalcode": "Singapore (049213)"
+ },
+ {
+   "id": 113,
+   "name": "Compassvale Bus Interchange",
+   "postalcode": "Singapore (544760)"
+ },
+ {
+   "id": 114,
+   "name": "Hougang Bus Interchanage",
+   "postalcode": "Singapore ((53877)"
+ },
+ {
+   "id": 115,
+   "name": "Sengkang Bus Interchange",
+   "postalcode": "Singapore (545077)"
+ },
+ {
+   "id": 116,
+   "name": "Tampines Bus Interchange",
+   "postalcode": "Singapore (520512)"
+ },
+ {
+   "id": 117,
+   "name": "Tampines Concourse Bus Interchange",
+   "postalcode": "Singapore (529543)"
+ },
+ {
+   "id": 118,
+   "name": "Safra Punggol",
+   "postalcode": "Singapore (828654)"
+ },
+ {
+   "id": 119,
+   "name": "21 Street Eating House",
+   "postalcode": "Singapore (520201)"
+ },
+ {
+   "id": 120,
+   "name": "CCMW Hougang Avenue 8",
+   "postalcode": "Singapore (530631)"
+ },
+ {
+   "id": 121,
+   "name": "CCMW Tampines Ave 4",
+   "postalcode": "Singapore (520802)"
+ },
+ {
+   "id": 122,
+   "name": "CCMW Tampines Street 21",
+   "postalcode": "Singapore (523201)"
+ },
+ {
+   "id": 123,
+   "name": "CCMW Tampines Street 41",
+   "postalcode": "Singapore (520406)"
+ },
+ {
+   "id": 124,
+   "name": "CCMW Tampines Street 81",
+   "postalcode": "Singapore (520820)"
+ },
+ {
+   "id": 125,
+   "name": "NTUC Foodfare",
+   "postalcode": "Singapore (823273)"
+ },
+ {
+   "id": 126,
+   "name": "NTUC Foodfare Anchorvale",
+   "postalcode": "Singapore (540308)"
+ },
+ {
+   "id": 127,
+   "name": "NTUC Foodfare Pasir Ris",
+   "postalcode": "Singapore (513527)"
+ },
+ {
+   "id": 128,
+   "name": "NTUC Foodfare Upper Serangoon",
+   "postalcode": "Singapore (37476))"
+ },
+ {
+   "id": 129,
+   "name": "Koufu Foodcourt",
+   "postalcode": "Singapore (540118)"
+ },
+ {
+   "id": 130,
+   "name": "Koufu Foodcourt",
+   "postalcode": "Singapore (540263)"
+ },
+ {
+   "id": 131,
+   "name": "Chomp Chomp Food Centre",
+   "postalcode": "Singapore (557269)"
+ },
+ {
+   "id": 132,
+   "name": "Hawker Centre @ Our Tampines Hub",
+   "postalcode": "Singapore (520902)"
+ },
+ {
+   "id": 133,
+   "name": "Pasir Ris Central Hawker Centre",
+   "postalcode": "Singapore (519641)"
+ },
+ {
+   "id": 134,
+   "name": "Serangoon Garden Market",
+   "postalcode": "Singapore (555945)"
+ },
+ {
+   "id": 135,
+   "name": "Bedok Reservoir MRT Station (DT30)",
+   "postalcode": "Singapore (469724)"
+ },
+ {
+   "id": 136,
+   "name": "Eunos MRT Station",
+   "postalcode": "Singapore (409423)"
+ },
+ {
+   "id": 137,
+   "name": "Kaki Bukit MRT Station (DT28)",
+   "postalcode": "Singapore (415804)"
+ },
+ {
+   "id": 138,
+   "name": "Kembangan MRT Station",
+   "postalcode": "Singapore (416551)"
+ },
+ {
+   "id": 139,
+   "name": "Pasir Ris MRT Station",
+   "postalcode": "Singapore (519634)"
+ },
+ {
+   "id": 140,
+   "name": "Punggol MRT Station-NE17",
+   "postalcode": "Singapore (828868)"
+ },
+ {
+   "id": 141,
+   "name": "Tampines East MRT Station (DT33)",
+   "postalcode": "Singapore (529623)"
+ },
+ {
+   "id": 142,
+   "name": "Tampines MRT Station",
+   "postalcode": "Singapore (529538)"
+ },
+ {
+   "id": 143,
+   "name": "Tampines MRT Station (DT32)",
+   "postalcode": "Singapore (529538)"
+ },
+ {
+   "id": 144,
+   "name": "Tampines West MRT Station (DT31)",
+   "postalcode": "Singapore (529683)"
+ },
+ {
+   "id": 145,
+   "name": "Tanah Merah MRT Station",
+   "postalcode": "Singapore (467356)"
+ },
+ {
+   "id": 146,
+   "name": "Al - Istighfar Mosque",
+   "postalcode": "Singapore (518239)"
+ },
+ {
+   "id": 147,
+   "name": "Century Square",
+   "postalcode": "Singapore (529509)"
+ },
+ {
+   "id": 148,
+   "name": "Elias Mall",
+   "postalcode": "Singapore (510625)"
+ },
+ {
+   "id": 149,
+   "name": "Hougang Mall",
+   "postalcode": "Singapore (538766)"
+ },
+ {
+   "id": 150,
+   "name": "Hougang Mall",
+   "postalcode": "Singapore (538766)"
+ },
+ {
+   "id": 151,
+   "name": "Pasir Ris West Plaza",
+   "postalcode": "Singapore (510735)"
+ },
+ {
+   "id": 152,
+   "name": "Rivervale Plaza",
+   "postalcode": "Singapore (540118)"
+ },
+ {
+   "id": 153,
+   "name": "Tampines Central Community Complex",
+   "postalcode": "Singapore (521866)"
+ },
+ {
+   "id": 154,
+   "name": "Tampines One",
+   "postalcode": "Singapore (529536)"
+ },
+ {
+   "id": 155,
+   "name": "White Sands",
+   "postalcode": "Singapore (518457)"
+ },
+ {
+   "id": 156,
+   "name": "Bukit Panjang Intergrated Transport Hub",
+   "postalcode": "Singapore (678270)"
+ },
+ {
+   "id": 157,
+   "name": "Sembawang Bus Interchange",
+   "postalcode": "Singapore (757527)"
+ },
+ {
+   "id": 158,
+   "name": "Woodlands Temporary Bus Interchange",
+   "postalcode": "Singapore (727735)"
+ },
+ {
+   "id": 159,
+   "name": "Yishun Temporary Bus Interchange",
+   "postalcode": "Singapore (768830)"
+ },
+ {
+   "id": 160,
+   "name": "New Century Cafe",
+   "postalcode": "Singapore (270019)"
+ },
+ {
+   "id": 161,
+   "name": "NTUC Foodfare",
+   "postalcode": "Singapore (760507)"
+ },
+ {
+   "id": 162,
+   "name": "NTUC Foodfare@29A Ghim Moh Link",
+   "postalcode": "Singapore (271029)"
+ },
+ {
+   "id": 163,
+   "name": "Chang Cheng Mee Wah Foodcourt",
+   "postalcode": "Singapore (738732)"
+ },
+ {
+   "id": 164,
+   "name": "NTUC Foodfare KTPH",
+   "postalcode": "Singapore (768828)"
+ },
+ {
+   "id": 165,
+   "name": "Viva Foodcourt",
+   "postalcode": "Singapore (730548)"
+ },
+ {
+   "id": 166,
+   "name": "Koufu Foodcourt@Fajar",
+   "postalcode": "Singapore (670445)"
+ },
+ {
+   "id": 167,
+   "name": "Bukit Panjang Hawker Centre",
+   "postalcode": "Singapore (671259)"
+ },
+ {
+   "id": 168,
+   "name": "Holland Village Market & Food Centre",
+   "postalcode": "Singapore (277700)"
+ },
+ {
+   "id": 169,
+   "name": "Yishun Park Hawker Centre",
+   "postalcode": "Singapore (768867)"
+ },
+ {
+   "id": 170,
+   "name": "Admiralty MRT Station",
+   "postalcode": "Singapore (738344)"
+ },
+ {
+   "id": 171,
+   "name": "Kranji MRT Station",
+   "postalcode": "Singapore (738702)"
+ },
+ {
+   "id": 172,
+   "name": "Marsiling MRT Station",
+   "postalcode": "Singapore (739044)"
+ },
+ {
+   "id": 173,
+   "name": "Woodlands MRT Station",
+   "postalcode": "Singapore (738343)"
+ },
+ {
+   "id": 174,
+   "name": "Yew Tee MRT Station",
+   "postalcode": "Singapore (689715)"
+ },
+ {
+   "id": 175,
+   "name": "888 Plaza",
+   "postalcode": "Singapore (731888)"
+ },
+ {
+   "id": 176,
+   "name": "Admiralty Place",
+   "postalcode": "Singapore (730678)"
+ },
+ {
+   "id": 177,
+   "name": "Fajar Shopping Centre",
+   "postalcode": "Singapore (670445)"
+ },
+ {
+   "id": 178,
+   "name": "Sembawang Mart",
+   "postalcode": "Singapore (750511)"
+ },
+ {
+   "id": 179,
+   "name": "Vista Point",
+   "postalcode": "Singapore (730548)"
+ },
+ {
+   "id": 180,
+   "name": "Bedok Bus Interchange",
+   "postalcode": "Singapore (465492)"
+ },
+ {
+   "id": 181,
+   "name": "Changi Business Park Bus Terminal",
+   "postalcode": "Singapore (485997)"
+ },
+ {
+   "id": 182,
+   "name": "Eunos Bus Interchange",
+   "postalcode": "Singapore (409388)"
+ },
+ {
+   "id": 183,
+   "name": "Serangoon Bus Interchange",
+   "postalcode": "Singapore (556138)"
+ },
+ {
+   "id": 184,
+   "name": "Upper East Coast Bus Terminal",
+   "postalcode": "Singapore (465549)"
+ },
+ {
+   "id": 185,
+   "name": "CCMW BD 211 Food House",
+   "postalcode": "Singapore (460211)"
+ },
+ {
+   "id": 186,
+   "name": "NTUC Foodfare Tampines",
+   "postalcode": "Singapore (523878)"
+ },
+ {
+   "id": 187,
+   "name": "Bedok Food Centre",
+   "postalcode": "Singapore (469572)"
+ },
+ {
+   "id": 188,
+   "name": "Dunman Food Centre",
+   "postalcode": "Singapore (424768)"
+ },
+ {
+   "id": 189,
+   "name": "East Coast Lagoon Food Village",
+   "postalcode": "Singapore (468960)"
+ },
+ {
+   "id": 190,
+   "name": "Geylang Serai Market",
+   "postalcode": "Singapore (402001)"
+ },
+ {
+   "id": 191,
+   "name": "Aljunied MRT Station (EW9)",
+   "postalcode": "Singapore (388310)"
+ },
+ {
+   "id": 192,
+   "name": "Bartley MRT Station",
+   "postalcode": "Singapore (534881)"
+ },
+ {
+   "id": 193,
+   "name": "Bedok MRT Station",
+   "postalcode": "Singapore (467347)"
+ },
+ {
+   "id": 194,
+   "name": "Bedok North MRT Station (DT29)",
+   "postalcode": "Singapore (467347)"
+ },
+ {
+   "id": 195,
+   "name": "Dakota MRT Station",
+   "postalcode": "Singapore (397973)"
+ },
+ {
+   "id": 196,
+   "name": "Expo MRT Station",
+   "postalcode": "Singapore (486065)"
+ },
+ {
+   "id": 197,
+   "name": "Lorong Chuan MRT Station",
+   "postalcode": "Singapore (554533)"
+ },
+ {
+   "id": 198,
+   "name": "Macpherson MRT Station (DT26)",
+   "postalcode": "Singapore (378956)"
+ },
+ {
+   "id": 199,
+   "name": "Macpherson MRT Station CC10",
+   "postalcode": "Singapore (409048)"
+ },
+ {
+   "id": 200,
+   "name": "Mattar MRT Station (DT25)",
+   "postalcode": "Singapore (379314)"
+ },
+ {
+   "id": 201,
+   "name": "Mountbatten MRT Station",
+   "postalcode": "Singapore (398006)"
+ },
+ {
+   "id": 202,
+   "name": "Paya Lebar MRT Station",
+   "postalcode": "Singapore (409006)"
+ },
+ {
+   "id": 203,
+   "name": "Paya Lebar MRT Station CC09",
+   "postalcode": "Singapore (409006)"
+ },
+ {
+   "id": 204,
+   "name": "Serangoon MRT Station CC13",
+   "postalcode": "Singapore (534801)"
+ },
+ {
+   "id": 205,
+   "name": "Simei MRT Station",
+   "postalcode": "Singapore (529888)"
+ },
+ {
+   "id": 206,
+   "name": "Stadium MRT Station",
+   "postalcode": "Singapore (397692)"
+ },
+ {
+   "id": 207,
+   "name": "Tai Seng MRT Station CC11",
+   "postalcode": "Singapore (534803)"
+ },
+ {
+   "id": 208,
+   "name": "Ubi MRT Station (DT27)",
+   "postalcode": "Singapore (408899)"
+ },
+ {
+   "id": 209,
+   "name": "Upper Changi MRT Station",
+   "postalcode": "Singapore (485990)"
+ },
+ {
+   "id": 210,
+   "name": "Kah Engineering (1988) Pte Ltd",
+   "postalcode": "Singapore (418482)"
+ },
+ {
+   "id": 211,
+   "name": "Joo Chiat Complex",
+   "postalcode": "Singapore (420001)"
+ },
+ {
+   "id": 212,
+   "name": "Boon Lay Bus Interchange",
+   "postalcode": "Singapore (648343)"
+ },
+ {
+   "id": 213,
+   "name": "Choa Chu Kang Bus Interchange",
+   "postalcode": "Singapore (689811)"
+ },
+ {
+   "id": 214,
+   "name": "Clementi Bus Interchange",
+   "postalcode": "Singapore (120441)"
+ },
+ {
+   "id": 215,
+   "name": "Joo Koon Bus Interchange",
+   "postalcode": "Singapore (629907)"
+ },
+ {
+   "id": 216,
+   "name": "Tuas Bus Terminal",
+   "postalcode": "Singapore (638410)"
+ },
+ {
+   "id": 217,
+   "name": "CCMW Jurong West Street 41",
+   "postalcode": "Singapore (640498)"
+ },
+ {
+   "id": 218,
+   "name": "NTUC Foodfare Bukit Batok",
+   "postalcode": "Singapore (651296)"
+ },
+ {
+   "id": 219,
+   "name": "NTUC Foodfare Choa Chu Kang",
+   "postalcode": "Singapore (680303)"
+ },
+ {
+   "id": 220,
+   "name": "NTUC Foodfare Jurong West",
+   "postalcode": "Singapore (640679)"
+ },
+ {
+   "id": 221,
+   "name": "Aspri-Westlite Construction Site",
+   "postalcode": "Singapore (619396)"
+ },
+ {
+   "id": 222,
+   "name": "Megastone Holding Dormitory",
+   "postalcode": "Singapore (729347)"
+ },
+ {
+   "id": 223,
+   "name": "Unison Construction Dormitory",
+   "postalcode": "Singapore (638760)"
+ },
+ {
+   "id": 224,
+   "name": "Choa Chu Kang Crescent NTUC Foodfare",
+   "postalcode": "Singapore (682673)"
+ },
+ {
+   "id": 225,
+   "name": "Kopitiam",
+   "postalcode": "Singapore (119082)"
+ },
+ {
+   "id": 226,
+   "name": "Kopitiam",
+   "postalcode": "Singapore (119074)"
+ },
+ {
+   "id": 227,
+   "name": "Koufu Foodcourt",
+   "postalcode": "Singapore (658713)"
+ },
+ {
+   "id": 228,
+   "name": "Koufu Foodcourt",
+   "postalcode": "Singapore (641638)"
+ },
+ {
+   "id": 229,
+   "name": "JTC Chemgallery at Oasis @ Sakra",
+   "postalcode": "Singapore (627878)"
+ },
+ {
+   "id": 230,
+   "name": "Jurong Island Checkpoint",
+   "postalcode": "Singapore (619618)"
+ },
+ {
+   "id": 231,
+   "name": "47 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139947)"
+ },
+ {
+   "id": 232,
+   "name": "51 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139948)"
+ },
+ {
+   "id": 233,
+   "name": "51A Ayer Rajah Crescent",
+   "postalcode": "Singapore (139956)"
+ },
+ {
+   "id": 234,
+   "name": "55 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139949)"
+ },
+ {
+   "id": 235,
+   "name": "67 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139950)"
+ },
+ {
+   "id": 236,
+   "name": "71 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139951)"
+ },
+ {
+   "id": 237,
+   "name": "73 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139952)"
+ },
+ {
+   "id": 238,
+   "name": "79 Ayer Rajah Crescent",
+   "postalcode": "Singapore (139955)"
+ },
+ {
+   "id": 239,
+   "name": "CleanTech One",
+   "postalcode": "Singapore (637141)"
+ },
+ {
+   "id": 240,
+   "name": "CleanTech Two",
+   "postalcode": "Singapore (637143)"
+ },
+ {
+   "id": 241,
+   "name": "JTC Surface Engineering Hub",
+   "postalcode": "Singapore (627563)"
+ },
+ {
+   "id": 242,
+   "name": "Jurong Port Offshore Marine Centre",
+   "postalcode": "Singapore (637423)"
+ },
+ {
+   "id": 243,
+   "name": "Ayer Rajah Amenity Centre",
+   "postalcode": "Singapore (139961)"
+ },
+ {
+   "id": 244,
+   "name": "Jurong Port Road Food Centre",
+   "postalcode": "Singapore (619112)"
+ },
+ {
+   "id": 245,
+   "name": "Jurong West Hawker Centre",
+   "postalcode": "Singapore (648202)"
+ },
+ {
+   "id": 246,
+   "name": "Pasir Panjang Food Centre",
+   "postalcode": "Singapore (118543)"
+ },
+ {
+   "id": 247,
+   "name": "Taman Jurong Market & Food Centre",
+   "postalcode": "Singapore (618499)"
+ },
+ {
+   "id": 248,
+   "name": "Timbre + Ayer Rajah Crescent Hawker Centre",
+   "postalcode": "Singapore (139957)"
+ },
+ {
+   "id": 249,
+   "name": "Buona Vista MRT station",
+   "postalcode": "Singapore (118177)"
+ },
+ {
+   "id": 250,
+   "name": "Gul Circle Station",
+   "postalcode": "Singapore (637288)"
+ },
+ {
+   "id": 251,
+   "name": "Haw Par Villa MRT station",
+   "postalcode": "Singapore (278995)"
+ },
+ {
+   "id": 252,
+   "name": "Kent Ridge MRT station",
+   "postalcode": "Singapore (139345)"
+ },
+ {
+   "id": 253,
+   "name": "Labrador Park MRT station",
+   "postalcode": "Singapore (257494)"
+ },
+ {
+   "id": 254,
+   "name": "One North MRT station",
+   "postalcode": "Singapore (138647)"
+ },
+ {
+   "id": 255,
+   "name": "Pasir Panjang MRT station",
+   "postalcode": "Singapore (268857)"
+ },
+ {
+   "id": 256,
+   "name": "Telok Blangah MRT station",
+   "postalcode": "Singapore (298113)"
+ },
+ {
+   "id": 257,
+   "name": "Tuas Crescent MRT Station",
+   "postalcode": "Singapore (639608)"
+ },
+ {
+   "id": 258,
+   "name": "Tuas Link MRT Station",
+   "postalcode": "Singapore (638418)"
+ },
+ {
+   "id": 259,
+   "name": "Tuas West MRT Station",
+   "postalcode": "Singapore (639609)"
+ },
+ {
+   "id": 260,
+   "name": "Jurong Eco Garden",
+   "postalcode": "Singapore (637141)"
+ },
+ {
+   "id": 261,
+   "name": "Samwoh Eco Green Building",
+   "postalcode": "Singapore (728661)"
+ },
+ {
+   "id": 262,
+   "name": "Depot Height Shopping Centre",
+   "postalcode": "Singapore (100108)"
+ },
+ {
+   "id": 263,
+   "name": "Gek Poh Shopping Centre",
+   "postalcode": "Singapore (640762)"
+ },
+ {
+   "id": 264,
+   "name": "Greenridge Shopping Centre",
+   "postalcode": "Singapore (671524)"
+ },
+ {
+   "id": 265,
+   "name": "Greenridge Shopping Centre",
+   "postalcode": "Singapore (671524)"
+ },
+ {
+   "id": 266,
+   "name": "Jurong Point Shopping Centre",
+   "postalcode": "Singapore (648886)"
+ },
+ {
+   "id": 267,
+   "name": "Limbang Shopping Centre",
+   "postalcode": "Singapore (680532)"
+ },
+ {
+   "id": 268,
+   "name": "Pasir Ris West Plaza",
+   "postalcode": "Singapore (510735)"
+ },
+ {
+   "id": 269,
+   "name": "Pioneer Mall",
+   "postalcode": "Singapore (640638)"
+ },
+ {
+   "id": 270,
+   "name": "Sunshine Place",
+   "postalcode": "Singapore (680475)"
+ },
+ {
+   "id": 271,
+   "name": "Taman Jurong Shopping Centre",
+   "postalcode": "Singapore (610399)"
+ },
+ {
+   "id": 272,
+   "name": "Yew Tee Square",
+   "postalcode": "Singapore (680624)"
+ }
+]
