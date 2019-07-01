@@ -1,10 +1,9 @@
 import React, { Component } from "react";
 import "firebase/database";
 import * as firebase from "firebase/app";
-import SearchableDropdown from 'react-native-searchable-dropdown';
+import SearchableDropdown from "react-native-searchable-dropdown";
 import Geocoder from "react-native-geocoding";
-
-
+import { View, Button } from 'react-native';
 
 var firebaseConfig = {
   apiKey: "HIDDEN",
@@ -22,7 +21,7 @@ export default class DropCode extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      addresses: [],
+      addresses: []
     };
   }
 
@@ -40,7 +39,7 @@ export default class DropCode extends Component {
           fbObject[key].id = key;
           return fbObject[key];
         });
-        this.setState({ addresses : address });
+        this.setState({ addresses: address });
       });
   };
 
@@ -67,11 +66,10 @@ export default class DropCode extends Component {
       itemsContainerStyle={{ maxHeight: 140 }}
       items={this.state.addresses}
       defaultIndex={2}
-      placeholder="Toilet's Address"
+      placeholder="Toilet's Place"
       resetValue={false}
       underlineColorAndroid="transparent"
     />
     );
   }
 }
-

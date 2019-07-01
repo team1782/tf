@@ -36,8 +36,7 @@ export default class MapScreen extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      addresses: [],
-      coordinates: [],
+      toilets: [],
       initialPosition: {
         latitude: 0,
         longitude: 0,
@@ -67,14 +66,14 @@ export default class MapScreen extends Component {
   readCoordsData = () => {
     firebase
       .database()
-      .ref("/coordinates")
+      .ref("/toilets")
       .once("value", snapshot => {
         const fbObject = snapshot.val();
-        const coordinate = Object.keys(fbObject).map(key => {
+        const toilet = Object.keys(fbObject).map(key => {
           fbObject[key].id = key;
           return fbObject[key];
         });
-        this.setState({ coordinates: coordinate });
+        this.setState({ toilets: toilet });
       });
   };
 
@@ -116,9 +115,9 @@ export default class MapScreen extends Component {
     navigator.geolocation.clearWatch(this.watchID);
   }
 
-  // componentDidUpdate() {
-  //   this.map.fitToElements(true);
-  // }
+  componentDidUpdate() {
+    this.map.fitToElements(true);
+  }
 
   static navigationOptions = {
     title: "Map",
@@ -150,16 +149,16 @@ export default class MapScreen extends Component {
             }}
             coordinate={this.state.markerPosition}
           />
-          {this.state.coordinates.map(coordinate => {
+          {this.state.toilets.map(toilet => {
             return (
               <Marker
                 coordinate={{
-                  latitude: coordinate.lat,
-                  longitude: coordinate.lng
+                  latitude: toilet.lat,
+                  longitude: toilet.lng
                 }}
-                title={coordinate.name}
+                title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
-                key={coordinate.id}
+                key={toilet.id}
               />
             );
           })}
@@ -172,13 +171,3 @@ export default class MapScreen extends Component {
 MapScreen.propTypes = {
   provider: MapView.ProviderPropType
 };
-
-/* <MapViewDirections
-						origin={{ latitude: 1.279597, longitude: 103.835886 }} // Daily Limit: 1
-						destination={{
-							latitude: 1.37624319753702,
-							longitude: 103.75640094280243
-						}}
-						apikey={MAPS_API_KEY}
-						mode="WALKING"
-					/> */
