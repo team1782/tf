@@ -22,7 +22,7 @@ export default class HomeScreen extends Component {
           <Button
             color="#4f6d7a"
             onPress={() => this.props.navigation.navigate("Map")}
-            title="Go to Maps"
+            title="GO!"
           />
         </View>
       </Container>

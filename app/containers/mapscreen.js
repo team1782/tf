@@ -10,7 +10,10 @@ import { Container } from "native-base";
 import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
-import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
+import MapView, {
+  PROVIDER_GOOGLE,
+  Marker,
+} from "react-native-maps";
 
 const { width, height } = Dimensions.get("window");
 
@@ -35,17 +38,23 @@ export default class MapScreen extends Component {
     this.state = {
       addresses: [],
       coordinates: [],
-      region: {
-        latitude: LATITUDE,
-        longitude: LONGITUDE,
-        latitudeDelta: LATITUDE_DELTA,
-        longitudeDelta: LONGITUDE_DELTA
+      initialPosition: {
+        latitude: 0,
+        longitude: 0,
+        latitudeDelta: 0,
+        longitudeDelta: 0
+      },
+      markerPosition: {
+        latitude: 0,
+        longitude: 0
       },
       mapMargin: 1
     };
     this.setMargin = this.setMargin.bind(this);
     this.readCoordsData = this.readCoordsData.bind(this);
   }
+
+  watchID: ?number = null;
 
   setMargin() {
     PermissionsAndroid.request(
@@ -71,11 +80,45 @@ export default class MapScreen extends Component {
 
   componentDidMount() {
     this.readCoordsData();
+    navigator.geolocation.getCurrentPosition((position) => {
+      var lat = position.coords.latitude;
+        var long = position.coords.longitude;
+        var initialRegion = {
+          latitude: lat,
+          longitude: long,
+          latitudeDelta: LATITUDE_DELTA,
+          longitudeDelta: LONGITUDE_DELTA
+        };
+        this.setState({ initialPosition: initialRegion });
+        this.setState({ markerPosition: initialRegion });
+      },
+      (error => console.log(error)),
+      { timeout: 30000 },
+    );
+
+    this.watchID = navigator.geolocation.watchPosition((position) => {
+      var lat = parseFloat(position.coords.latitude);
+      var long = parseFloat(position.coords.longitude);
+
+      var lastRegion = {
+        latitude: lat,
+        longitude: long,
+        longitudeDelta: LONGITUDE_DELTA,
+        latitudeDelta: LATITUDE_DELTA
+      };
+
+      this.setState({ initialPosition: lastRegion });
+      this.setState({ markerPosition: lastRegion });
+    });
   }
 
-  componentDidUpdate() {
-    this.map.fitToElements(true);
+  componentWillUnmount() {
+    navigator.geolocation.clearWatch(this.watchID);
   }
+
+  // componentDidUpdate() {
+  //   this.map.fitToElements(true);
+  // }
 
   static navigationOptions = {
     title: "Map",
@@ -95,12 +138,18 @@ export default class MapScreen extends Component {
           }}
           provider={PROVIDER_GOOGLE}
           style={{ flex: 1, marginBottom: this.state.mapMargin }}
-          // initialRegion={this.state.region}
+          region={this.state.initialPosition}
           showsUserLocation={true}
           showsMyLocationButton={true}
           followsUserLocation={true} //iOS ONLY
           onMapReady={this.setMargin}
         >
+          <MapView.Marker
+            ref={marker => {
+              this.marker = marker;
+            }}
+            coordinate={this.state.markerPosition}
+          />
           {this.state.coordinates.map(coordinate => {
             return (
               <Marker
@@ -124,7 +173,7 @@ MapScreen.propTypes = {
   provider: MapView.ProviderPropType
 };
 
-  /* <MapViewDirections
+/* <MapViewDirections
 						origin={{ latitude: 1.279597, longitude: 103.835886 }} // Daily Limit: 1
 						destination={{
 							latitude: 1.37624319753702,
