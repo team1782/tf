@@ -22,7 +22,7 @@ page_soup = soup(page_html, "html.parser")
 page_soup = page_soup.body
 
 #csv
-filename = "sgtoilets.csv"
+filename = "sgtoiletsDRAFT.csv"
 f = open(filename, "w")
 headers = "Place,Name,Address\n"
 f.write(headers)
@@ -39,7 +39,7 @@ for container in containers:
     place = container.contents[1].text
     name = container.contents[3].text
     address = container.contents[5].text
-    f.write(place + "," + name.replace(","," ") + "," + address.replace(","," ")+ "\n")
+    f.write(place + "," + name.replace(",","") + "," + address.replace(",","") + "\n")
 
 page_soup = soup(page_html, "html.parser")
 page_soup = page_soup.body
@@ -55,8 +55,8 @@ for container in containers:
     place = container.contents[1].text
     name = container.contents[3].text
     address = container.contents[5].text
-    f.write(place + "," + name.replace(","," ") + "," + address.replace(","," ")+ "\n")
-
+    f.write(place + "," + name.replace(",","") + "," + address.replace(",","") + "\n")
+    
 page_soup = soup(page_html, "html.parser")
 page_soup = page_soup.body
 
@@ -71,8 +71,8 @@ for container in containers:
     place = container.contents[1].text
     name = container.contents[3].text
     address = container.contents[5].text
-    f.write(place + "," + name.replace(","," ") + "," + address.replace(","," ")+ "\n")
-
+    f.write(place + "," + name.replace(",","") + "," + address.replace(",","") + "\n")
+    
 page_soup = soup(page_html, "html.parser")
 page_soup = page_soup.body
 
@@ -87,8 +87,8 @@ for container in containers:
     place = container.contents[1].text
     name = container.contents[3].text
     address = container.contents[5].text
-    f.write(place + "," + name.replace(","," ") + "," + address.replace(","," ")+ "\n")
-
+    f.write(place + "," + name.replace(",","") + "," + address.replace(",","") + "\n")
+    
 page_soup = soup(page_html, "html.parser")
 page_soup = page_soup.body
 
@@ -103,7 +103,6 @@ for container in containers:
     place = container.contents[1].text
     name = container.contents[3].text
     address = container.contents[5].text
-    f.write(place + "," + name.replace(","," ") + "," + address.replace(","," ")+ "\n")
-
+    f.write(place + "," + name.replace(",","") + "," + address.replace(",","") + "\n")
 
 f.close()
