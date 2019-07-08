@@ -3,7 +3,7 @@
    "id": 1,
    "name": "AMK Bus Interchange",
    "address": "53 Ang Mo Kio Avenue 3 S(569933)",
-   "postalcode": "569933",
+   "postalcode": "Singapore (569933)",
    "lat": 1.36885,
    "lng": 103.84823
  },
@@ -11,7 +11,7 @@
    "id": 2,
    "name": "Bishan Bus Interchange",
    "address": "514 Bishan Street 13 S(570514)",
-   "postalcode": "570514",
+   "postalcode": "Singapore (570514)",
    "lat": 1.34834,
    "lng": 103.8532
  },
@@ -19,7 +19,7 @@
    "id": 3,
    "name": "Harbourfront Bus Terminal",
    "address": "4 Seah Im Road S(099115)",
-   "postalcode": "099115",
+   "postalcode": "Singapore (099115)",
    "lat": 1.26772,
    "lng": 103.81889
  },
@@ -27,7 +27,7 @@
    "id": 4,
    "name": "Kampong Bahru Bus Terminal",
    "address": "11A Spooner Road S(168795)",
-   "postalcode": "168795",
+   "postalcode": "Singapore (168795)",
    "lat": 1.28944,
    "lng": 103.84998
  },
@@ -35,7 +35,7 @@
    "id": 5,
    "name": "Kent Ridge Bus Terminal",
    "address": "37B Clementi Road S(129762)",
-   "postalcode": "129762",
+   "postalcode": "Singapore (129762)",
    "lat": 1.29934,
    "lng": 103.76942
  },
@@ -43,7 +43,7 @@
    "id": 6,
    "name": "Queens Street Bus Terminal",
    "address": " Ban San St",
-   "postalcode": "884001",
+   "postalcode": "Singapore (884001)",
    "lat": 1.30334,
    "lng": 103.85632
  },
@@ -51,7 +51,7 @@
    "id": 7,
    "name": "Shenton Way Bus Terminal",
    "address": "31 Shenton Way S(079121)",
-   "postalcode": "079121",
+   "postalcode": "Singapore (079121)",
    "lat": 1.28944,
    "lng": 103.84998
  },
@@ -59,7 +59,7 @@
    "id": 8,
    "name": "St. Michael's Bus Terminal",
    "address": "10 Whampoa Road S(327691)",
-   "postalcode": "327691",
+   "postalcode": "Singapore (327691)",
    "lat": 1.32626,
    "lng": 103.85557
  },
@@ -67,7 +67,7 @@
    "id": 9,
    "name": "Seletar Country Club",
    "address": "101 Seletar Club Road S(798273)",
-   "postalcode": "798273",
+   "postalcode": "Singapore (798273)",
    "lat": 1.41527,
    "lng": 103.86116
  },
@@ -75,7 +75,7 @@
    "id": 10,
    "name": "CCMW",
    "address": "Blk 1 Cantonment Road S(080001)",
-   "postalcode": "080001",
+   "postalcode": "Singapore (080001)",
    "lat": 1.27637,
    "lng": 103.84093
  },
@@ -83,7 +83,7 @@
    "id": 11,
    "name": "CCMW",
    "address": "Blk 803 King George's Avenue S(200803)",
-   "postalcode": "200803",
+   "postalcode": "Singapore (200803)",
    "lat": 1.30884,
    "lng": 103.8606
  },
@@ -91,7 +91,7 @@
    "id": 12,
    "name": "CCMW Food House",
    "address": "Blk 40 Holland Drive #01-39 S (270040)",
-   "postalcode": "270040",
+   "postalcode": "Singapore (270040)",
    "lat": 1.30721,
    "lng": 103.79348
  },
@@ -99,7 +99,7 @@
    "id": 13,
    "name": "CCMW Queen Street",
    "address": "Blk 269 Queen Street #01-236 S(180269)",
-   "postalcode": "180269",
+   "postalcode": "Singapore (180269)",
    "lat": 1.30029,
    "lng": 103.85406
  },
@@ -107,7 +107,7 @@
    "id": 14,
    "name": "CCMW Toa Payoh Central",
    "address": "Blk 78C Toa Payoh Central S(313078)",
-   "postalcode": "313078",
+   "postalcode": "Singapore (313078)",
    "lat": 1.3342,
    "lng": 103.84915
  },
@@ -115,7 +115,7 @@
    "id": 15,
    "name": "Chang Cheng Mee Wah Restaurant",
    "address": "Blk 111 Toa Payoh Lorong 1 #01-366 S(310111)",
-   "postalcode": "310111",
+   "postalcode": "Singapore (310111)",
    "lat": 1.33784,
    "lng": 103.84568
  },
@@ -123,7 +123,7 @@
    "id": 16,
    "name": "CMW Redhill Food House",
    "address": "Blk 75D Redhill Road #01-94 S(154075)",
-   "postalcode": "154075",
+   "postalcode": "Singapore (154075)",
    "lat": 1.28918,
    "lng": 103.81583
  },
@@ -131,7 +131,7 @@
    "id": 17,
    "name": "NTUC Foodfare Anchorvale",
    "address": "Blk 308 Anchorvale Road #01-07 S(540308)",
-   "postalcode": "540308",
+   "postalcode": "Singapore (540308)",
    "lat": 1.3931,
    "lng": 103.88724
  },
@@ -139,7 +139,7 @@
    "id": 18,
    "name": "Kuofu Foodcourt",
    "address": "Blk 88 Tanglin Halt S(141088)",
-   "postalcode": "141088",
+   "postalcode": "Singapore (141088)",
    "lat": 1.30069,
    "lng": 103.79715
  },
@@ -147,7 +147,7 @@
    "id": 19,
    "name": "NTUC Foodfare Court@Clifford Centre",
    "address": "Clifford Centre 24 Raffles Place S(048621)",
-   "postalcode": "048621",
+   "postalcode": "Singapore (048621)",
    "lat": 1.28454,
    "lng": 103.85203
  },
@@ -155,7 +155,7 @@
    "id": 20,
    "name": "The Gallerie Foodcourt",
    "address": "Marina Sq 6 Raffles Boulevard #04-101/102 S(039594)",
-   "postalcode": "039594",
+   "postalcode": "Singapore (039594)",
    "lat": 1.29193,
    "lng": 103.85767
  },
@@ -163,7 +163,7 @@
    "id": 21,
    "name": "Health Sciences Authority",
    "address": "11 Outram Road S(169078)",
-   "postalcode": "169078",
+   "postalcode": "Singapore (169078)",
    "lat": 1.2802,
    "lng": 103.83767
  },
@@ -171,7 +171,7 @@
    "id": 22,
    "name": "Maritime and Port Authority of Singapore",
    "address": "460 Alexandra Road #18-00 S(119963)",
-   "postalcode": "119963",
+   "postalcode": "Singapore (119963)",
    "lat": 1.27775,
    "lng": 103.79977
  },
@@ -179,7 +179,7 @@
    "id": 23,
    "name": "Ministry of Social & Family Development (MSF)",
    "address": "512 Thomson Rd Level 1 5 & 17 S(298136)",
-   "postalcode": "298136",
+   "postalcode": "Singapore (298136)",
    "lat": 1.33602,
    "lng": 103.83716
  },
@@ -187,7 +187,7 @@
    "id": 24,
    "name": "Ministry of the Environment & Water Resources Environment Building",
    "address": "40 Scotts Road Level 1-4 S(228231)",
-   "postalcode": "228231",
+   "postalcode": "Singapore (228231)",
    "lat": 1.31074,
    "lng": 103.83579
  },
@@ -195,7 +195,7 @@
    "id": 25,
    "name": "National Environment Agency Environment Building",
    "address": "40 Scotts Road Level 6/11/12/19/20/21 S(228231)",
-   "postalcode": "228231",
+   "postalcode": "Singapore (228231)",
    "lat": 1.31074,
    "lng": 103.835793
  },
@@ -203,7 +203,7 @@
    "id": 26,
    "name": "PSA Tanjong Pagar Complex",
    "address": "7B Keppel Road #19 - #21 S(089054)",
-   "postalcode": "089054",
+   "postalcode": "Singapore (089054)",
    "lat": 1.27253,
    "lng": 103.84355
  },
@@ -211,7 +211,7 @@
    "id": 27,
    "name": "PSA Vista",
    "address": "20 Harbour Drive #08-00 S(117612)",
-   "postalcode": "117612",
+   "postalcode": "Singapore (117612)",
    "lat": 1.28099,
    "lng": 103.78293
  },
@@ -219,7 +219,7 @@
    "id": 28,
    "name": "Sengkang General Hospital",
    "address": "110 Sengkang East Way S(544886)",
-   "postalcode": "544886",
+   "postalcode": "Singapore (544886)",
    "lat": 1.39156,
    "lng": 103.8978
  },
@@ -227,7 +227,7 @@
    "id": 29,
    "name": "Tan Tock Seng Hospital",
    "address": "11 Jalan Tan Tock Seng S(308433)",
-   "postalcode": "308433",
+   "postalcode": "Singapore (308433)",
    "lat": 1.32199,
    "lng": 103.8469
  },
@@ -235,7 +235,7 @@
    "id": 30,
    "name": "National Library",
    "address": "100 Victoria Street S(188064)",
-   "postalcode": "188064",
+   "postalcode": "Singapore (188064)",
    "lat": 1.29823,
    "lng": 103.85392
  },
@@ -243,7 +243,7 @@
    "id": 31,
    "name": "Adam Road Food Centre",
    "address": "2 Adam Road S(289876)",
-   "postalcode": "289876",
+   "postalcode": "Singapore (289876)",
    "lat": 1.32926,
    "lng": 103.81452
  },
@@ -251,7 +251,7 @@
    "id": 32,
    "name": "Amoy Food Centre",
    "address": "National Development Building (Annex B) Telok Ayer Street S(069111)",
-   "postalcode": "069111",
+   "postalcode": "Singapore (069111)",
    "lat": 1.27873,
    "lng": 103.84555
  },
@@ -259,7 +259,7 @@
    "id": 33,
    "name": "Beo Crescent Market & Food Centre",
    "address": "38A Beo Crescent S(169982)",
-   "postalcode": "169982",
+   "postalcode": "Singapore (169982)",
    "lat": 1.28864,
    "lng": 103.82764
  },
@@ -267,7 +267,7 @@
    "id": 34,
    "name": "Berseh Food Centre",
    "address": "166 Jalan Besar S(208877)",
-   "postalcode": "208877",
+   "postalcode": "Singapore (208877)",
    "lat": 1.30578,
    "lng": 103.85554
  },
@@ -275,7 +275,7 @@
    "id": 35,
    "name": "Bukit Timah Market & Food Centre",
    "address": "51 Upper Bukit Timah Road S(588215)",
-   "postalcode": "588215",
+   "postalcode": "Singapore (588215)",
    "lat": 1.3416,
    "lng": 103.77588
  },
@@ -283,7 +283,7 @@
    "id": 36,
    "name": "Commonwealth Crescent Market",
    "address": "31 Commonwealth Crescent S(149644)",
-   "postalcode": "149644",
+   "postalcode": "Singapore (149644)",
    "lat": 1.30732,
    "lng": 103.80005
  },
@@ -291,7 +291,7 @@
    "id": 37,
    "name": "Golden Mile Food Centre",
    "address": "505 Beach Road S(199583)",
-   "postalcode": "199583",
+   "postalcode": "Singapore (199583)",
    "lat": 1.2931,
    "lng": 103.854
  },
@@ -299,7 +299,7 @@
    "id": 38,
    "name": "Market Street Food Centre",
    "address": "50 Market Street Golden Shoe Multi-Storey Car Park 2nd/3rd Storey S(048940)",
-   "postalcode": "048940",
+   "postalcode": "Singapore (048940)",
    "lat": 1.2840042,
    "lng": 103.8500898
  },
@@ -307,7 +307,7 @@
    "id": 39,
    "name": "Maxwell Food Centre",
    "address": "1 Kadayanallur Street S(069184)",
-   "postalcode": "069184",
+   "postalcode": "Singapore (069184)",
    "lat": 1.280338704,
    "lng": 103.8447631
  },
@@ -315,7 +315,7 @@
    "id": 40,
    "name": "Newton Food Centre",
    "address": "500 Clemenceau Ave North S(229495)",
-   "postalcode": "229495",
+   "postalcode": "Singapore (229495)",
    "lat": 1.3122068,
    "lng": 103.8395832
  },
@@ -323,7 +323,7 @@
    "id": 41,
    "name": "North Bridge Road Market & Food Centre",
    "address": "861 North Bridge Road S(198783)",
-   "postalcode": "198783",
+   "postalcode": "Singapore (198783)",
    "lat": 1.3057379,
    "lng": 103.8639914
  },
@@ -331,7 +331,7 @@
    "id": 42,
    "name": "Sembawang Hill Food Centre",
    "address": "590 Upper Thomson Road S(574419)",
-   "postalcode": "574419",
+   "postalcode": "Singapore (574419)",
    "lat": 1.3721919,
    "lng": 103.8288748
  },
@@ -339,7 +339,7 @@
    "id": 43,
    "name": "Tanglin Halt Market",
    "address": "48A Tanglin Halt Road S(148813)",
-   "postalcode": "148813",
+   "postalcode": "Singapore (148813)",
    "lat": 1.3004795,
    "lng": 103.7977466
  },
@@ -347,7 +347,7 @@
    "id": 44,
    "name": "Tiong Bahru Market",
    "address": "30 Seng Poh Road S(168898)",
-   "postalcode": "168898",
+   "postalcode": "Singapore (168898)",
    "lat": 1.2847325,
    "lng": 103.832459
  },
@@ -355,7 +355,7 @@
    "id": 45,
    "name": "Zion Riverside Food Centre",
    "address": "70 Zion Road S(247792)",
-   "postalcode": "247792",
+   "postalcode": "Singapore (247792)",
    "lat": 1.2923639,
    "lng": 103.8312212
  },
@@ -363,7 +363,7 @@
    "id": 46,
    "name": "Ang Mo Kio MRT station",
    "address": "2450 Ang Mo Kio Avenue 8 S(569811)",
-   "postalcode": "569811",
+   "postalcode": "Singapore (569811)",
    "lat": 1.3700479,
    "lng": 103.8495715
  },
@@ -371,7 +371,7 @@
    "id": 47,
    "name": "Bayfront MRT Station",
    "address": "11 Bayfront Avenue S(018957)",
-   "postalcode": "018957",
+   "postalcode": "Singapore (018957)",
    "lat": 1.2826842,
    "lng": 103.8598035
  },
@@ -379,7 +379,7 @@
    "id": 48,
    "name": "Bencoolen MRT Station (DT23)",
    "address": "31 Bencoolen Street S(189658)",
-   "postalcode": "189658",
+   "postalcode": "Singapore (189658)",
    "lat": 1.2980346,
    "lng": 103.8496072
  },
@@ -387,7 +387,7 @@
    "id": 49,
    "name": "Bendemeer MRT Station (DT23)",
    "address": "11 Kallang Bahru S(339356)",
-   "postalcode": "339356",
+   "postalcode": "Singapore (339356)",
    "lat": 1.3149163,
    "lng": 103.864025
  },
@@ -395,7 +395,7 @@
    "id": 50,
    "name": "Bishan MRT station",
    "address": "200 Bishan Road S(579827)",
-   "postalcode": "579827",
+   "postalcode": "Singapore (579827)",
    "lat": 1.3514551,
    "lng": 103.8482628
  },
@@ -403,7 +403,7 @@
    "id": 51,
    "name": "Botanic Gardens MRT station",
    "address": "701 Telok Blangah Road S(109029)",
-   "postalcode": "109029",
+   "postalcode": "Singapore (109029)",
    "lat": 1.2662734,
    "lng": 103.8258826
  },
@@ -411,7 +411,7 @@
    "id": 52,
    "name": "Braddell MRT Station",
    "address": "377 Lorong 1 Toa Payoh S(319756)",
-   "postalcode": "319756",
+   "postalcode": "Singapore (319756)",
    "lat": 1.3341115,
    "lng": 103.8431428
  },
@@ -419,7 +419,7 @@
    "id": 53,
    "name": "Bras Basah MRT Station",
    "address": "65 Bras Basah Road S(189561)",
-   "postalcode": "189561",
+   "postalcode": "Singapore (189561)",
    "lat": 1.2969735,
    "lng": 103.8506025
  },
@@ -427,7 +427,7 @@
    "id": 54,
    "name": "Bugis MRT Station (DT14)",
    "address": "220 Victoria Street S(188022)",
-   "postalcode": "188022",
+   "postalcode": "Singapore (188022)",
    "lat": 1.2952,
    "lng": 103.851
  },
@@ -435,7 +435,7 @@
    "id": 55,
    "name": "Chinatown MRT Station (DT19)",
    "address": "91 Upper Cross Street S(058362)",
-   "postalcode": "058362",
+   "postalcode": "Singapore (058362)",
    "lat": 1.2882491,
    "lng": 103.8412146
  },
@@ -443,7 +443,7 @@
    "id": 56,
    "name": "City Hall MRT Station",
    "address": "150 North Bridge Road S(179100)",
-   "postalcode": "179100",
+   "postalcode": "Singapore (179100)",
    "lat": 1.2930538,
    "lng": 103.8524062
  },
@@ -451,7 +451,7 @@
    "id": 57,
    "name": "Clark Quay MRT Station (NE5)",
    "address": "10 Outram Road S(169037)",
-   "postalcode": "169037",
+   "postalcode": "Singapore (169037)",
    "lat": 1.2804483,
    "lng": 103.8392738
  },
@@ -459,7 +459,7 @@
    "id": 58,
    "name": "Dhoby Ghaut MRT Station",
    "address": "11 Orchard Road S(238826)",
-   "postalcode": "238826",
+   "postalcode": "Singapore (238826)",
    "lat": 1.2987695,
    "lng": 103.8460031
  },
@@ -467,7 +467,7 @@
    "id": 59,
    "name": "Dhoby Ghaut MRT Station Circle Line",
    "address": "11 Orchard Road S(238826)",
-   "postalcode": "238826",
+   "postalcode": "Singapore (238826)",
    "lat": 1.2987695,
    "lng": 103.8460031
  },
@@ -475,7 +475,7 @@
    "id": 60,
    "name": "Downtown MRT Station (DT17)",
    "address": "15 Central Boulevard S(018969)",
-   "postalcode": "018969",
+   "postalcode": "Singapore (018969)",
    "lat": 1.2774142,
    "lng": 103.8559907
  },
@@ -483,7 +483,7 @@
    "id": 61,
    "name": "Esplanade MRT Station",
    "address": "90 Bras Basah Road S(189562)",
-   "postalcode": "189562",
+   "postalcode": "Singapore (189562)",
    "lat": 1.293607,
    "lng": 103.8554229
  },
@@ -491,7 +491,7 @@
    "id": 62,
    "name": "Farrer Road MRT station",
    "address": "119 Pasir Panjang Road S(117424)",
-   "postalcode": "117424",
+   "postalcode": "Singapore (117424)",
    "lat": 1.2735354,
    "lng": 103.7995161
  },
@@ -499,7 +499,7 @@
    "id": 63,
    "name": "Fort Canning MRT Station (DT20)",
    "address": "170 River Valley Road S(179038)",
-   "postalcode": "179038",
+   "postalcode": "Singapore (179038)",
    "lat": 1.2956835,
    "lng": 103.8366692
  },
@@ -507,7 +507,7 @@
    "id": 64,
    "name": "Geylang Bahru MRT Station (DT24)",
    "address": "541 Kallang Bahru S(339355)",
-   "postalcode": "339355",
+   "postalcode": "Singapore (339355)",
    "lat": 1.3149163,
    "lng": 103.864025
  },
@@ -515,7 +515,7 @@
    "id": 65,
    "name": "HarbourFront MRT Station (NE1)",
    "address": "81 Telok Blangah Road S(098867)",
-   "postalcode": "098867",
+   "postalcode": "Singapore (098867)",
    "lat": 1.2659935,
    "lng": 103.8204935
  },
@@ -523,7 +523,7 @@
    "id": 66,
    "name": "Holland Village MRT station",
    "address": "262 Pasir Panjang Road S(118628)",
-   "postalcode": "118628",
+   "postalcode": "Singapore (118628)",
    "lat": 1.2726749,
    "lng": 103.8014953
  },
@@ -531,7 +531,7 @@
    "id": 67,
    "name": "Jalan Besar MRT Station (DT22)",
    "address": "35B Jalan Besar S(208800)",
-   "postalcode": "208800",
+   "postalcode": "Singapore (208800)",
    "lat": 1.3045674,
    "lng": 103.8545593
  },
@@ -539,7 +539,7 @@
    "id": 68,
    "name": "Jalan Besar MRT Station B1 (DT22)",
    "address": "35B Jalan Besar S(208800)",
-   "postalcode": "208800",
+   "postalcode": "Singapore (208800)",
    "lat": 1.3045674,
    "lng": 103.8545593
  },
@@ -547,7 +547,7 @@
    "id": 69,
    "name": "Kallang MRT Station (EW10)",
    "address": "5 Sims Avenue S(387405)",
-   "postalcode": "387405",
+   "postalcode": "Singapore (387405)",
    "lat": 1.3165617,
    "lng": 103.8904882
  },
@@ -555,7 +555,7 @@
    "id": 70,
    "name": "Marina Bay MRT Station",
    "address": "21 Marina Station Road S(018990)",
-   "postalcode": "018990",
+   "postalcode": "Singapore (018990)",
    "lat": 1.2756,
    "lng": 103.855
  },
@@ -563,7 +563,7 @@
    "id": 71,
    "name": "Marina South Pier station",
    "address": "31 Marina Coastal Drive S(018988)",
-   "postalcode": "018988",
+   "postalcode": "Singapore (018988)",
    "lat": 1.2707176,
    "lng": 103.8629867
  },
@@ -571,7 +571,7 @@
    "id": 72,
    "name": "Marymount Station",
    "address": "60 Marymount Road S(573993)",
-   "postalcode": "573993",
+   "postalcode": "Singapore (573993)",
    "lat": 1.3490637,
    "lng": 103.8395344
  },
@@ -579,7 +579,7 @@
    "id": 73,
    "name": "Newton MRT station",
    "address": "49 Scotts Road S(228234)",
-   "postalcode": "228234",
+   "postalcode": "Singapore (228234)",
    "lat": 1.3124816,
    "lng": 103.8379255
  },
@@ -587,7 +587,7 @@
    "id": 74,
    "name": "Nicoll Highway MRT Station",
    "address": "20 Republic Avenue S(038970)",
-   "postalcode": "038970",
+   "postalcode": "Singapore (038970)",
    "lat": 1.2997208,
    "lng": 103.8633996
  },
@@ -595,7 +595,7 @@
    "id": 75,
    "name": "Orchard MRT Station",
    "address": "437 Orchard Road S(238878)",
-   "postalcode": "238878",
+   "postalcode": "Singapore (238878)",
    "lat": 1.3042924,
    "lng": 103.8324935
  },
@@ -603,7 +603,7 @@
    "id": 76,
    "name": "Outram MRT Station",
    "address": "10 Outram Road S(169037)",
-   "postalcode": "169037",
+   "postalcode": "Singapore (169037)",
    "lat": 1.2804483,
    "lng": 103.8392738
  },
@@ -611,7 +611,7 @@
    "id": 77,
    "name": "Outram MRT Station (NE3)",
    "address": "10 Eu Tong Sen Street S(059815)",
-   "postalcode": "059815",
+   "postalcode": "Singapore (059815)",
    "lat": 1.2888019,
    "lng": 103.8468719
  },
@@ -619,7 +619,7 @@
    "id": 78,
    "name": "Promenade MRT Station",
    "address": "2 Tamasek Avenue S(039193)",
-   "postalcode": "039193",
+   "postalcode": "Singapore (039193)",
    "lat": 1.2932393,
    "lng": 103.8610995
  },
@@ -627,7 +627,7 @@
    "id": 79,
    "name": "Raffles Place MRT Station",
    "address": "5 Raffles Place S(048618)",
-   "postalcode": "048618",
+   "postalcode": "Singapore (048618)",
    "lat": 1.2835947,
    "lng": 103.851568
  },
@@ -635,7 +635,7 @@
    "id": 80,
    "name": "Tanjong Pagar MRT Station",
    "address": "120 Maxwell Road S(069119)",
-   "postalcode": "069119",
+   "postalcode": "Singapore (069119)",
    "lat": 1.2765001,
    "lng": 103.8454988
  },
@@ -643,7 +643,7 @@
    "id": 81,
    "name": "Telok Ayer MRT Station (DT18)",
    "address": "7 Cross Street S(048416)",
-   "postalcode": "048416",
+   "postalcode": "Singapore (048416)",
    "lat": 1.2812702,
    "lng": 103.8502305
  },
@@ -651,7 +651,7 @@
    "id": 82,
    "name": "Woodleigh MRT Station (NE11)",
    "address": "400 Upper Serangoon Road S(347695)",
-   "postalcode": "347695",
+   "postalcode": "Singapore (347695)",
    "lat": 1.368333,
    "lng": 103.8937421
  },
@@ -659,7 +659,7 @@
    "id": 83,
    "name": "Marina South Pier",
    "address": "31 Marina Coastal Drive S(018988)",
-   "postalcode": "018988",
+   "postalcode": "Singapore (018988)",
    "lat": 1.2707176,
    "lng": 103.8629867
  },
@@ -667,7 +667,7 @@
    "id": 84,
    "name": "Malabar Muslim Jamaath Mosque",
    "address": "471 Victoria Street S(198370)",
-   "postalcode": "198370",
+   "postalcode": "Singapore (198370)",
    "lat": 1.3052675,
    "lng": 103.8598452
  },
@@ -675,7 +675,7 @@
    "id": 85,
    "name": "Lum Chang Building",
    "address": "14 Kung Chong Road S(159150)",
-   "postalcode": "159150",
+   "postalcode": "Singapore (159150)",
    "lat": 1.2896036,
    "lng": 103.8128124
  },
@@ -683,7 +683,7 @@
    "id": 86,
    "name": "Palais Renaissance",
    "address": "390 Orchard Road S(238871)",
-   "postalcode": "238871",
+   "postalcode": "Singapore (238871)",
    "lat": 1.3068516,
    "lng": 103.8298378
  },
@@ -691,7 +691,7 @@
    "id": 87,
    "name": "Wee Hur Construction Pte Ltd",
    "address": "39 Kim Keat Road Wee Hur Building S(328814)",
-   "postalcode": "328814",
+   "postalcode": "Singapore (328814)",
    "lat": 1.3251818,
    "lng": 103.8536828
  },
@@ -699,7 +699,7 @@
    "id": 88,
    "name": "MTR 1924 Indian Restaurant",
    "address": "438 Serangoon Road S(218133)",
-   "postalcode": "218133",
+   "postalcode": "Singapore (218133)",
    "lat": 1.3131334,
    "lng": 103.856602
  },
@@ -707,7 +707,7 @@
    "id": 89,
    "name": "Dawson Place Shopping Centre",
    "address": "57 Dawson Road S(142057)",
-   "postalcode": "142057",
+   "postalcode": "Singapore (142057)",
    "lat": 1.2925348,
    "lng": 103.8113068
  },
@@ -715,7 +715,7 @@
    "id": 90,
    "name": "Liang Court",
    "address": "177B River Valley Road S(179032)",
-   "postalcode": "179032",
+   "postalcode": "Singapore (179032)",
    "lat": 1.2918707,
    "lng": 103.8444901
  },
@@ -723,7 +723,7 @@
    "id": 91,
    "name": "New Bridge Centre",
    "address": "336 Smith Street S(050336)",
-   "postalcode": "050336",
+   "postalcode": "Singapore (050336)",
    "lat": 1.2830148,
    "lng": 103.8427448
  },
@@ -731,7 +731,7 @@
    "id": 92,
    "name": "Palais Renaissance",
    "address": "390 Orchard Road Basement 1-Level 3 S(238871)",
-   "postalcode": "238871",
+   "postalcode": "Singapore (238871)",
    "lat": 1.3068516,
    "lng": 103.8298378
  },
@@ -739,7 +739,7 @@
    "id": 93,
    "name": "Palais Renaissance",
    "address": "390 Orchard Road Basement 2 S(238871)",
-   "postalcode": "238871",
+   "postalcode": "Singapore (238871)",
    "lat": 1.3068516,
    "lng": 103.8298378
  },
@@ -747,7 +747,7 @@
    "id": 94,
    "name": "Robertson Walk",
    "address": "11 Unity Street #02-20A S(237995)",
-   "postalcode": "237995",
+   "postalcode": "Singapore (237995)",
    "lat": 1.292023221,
    "lng": 103.8414404
  },
@@ -755,7 +755,7 @@
    "id": 95,
    "name": "Square 2 Shopping Mall",
    "address": "10 Sinaran Drive S(307506)",
-   "postalcode": "307506",
+   "postalcode": "Singapore (307506)",
    "lat": 1.320732,
    "lng": 103.8444396
  },
@@ -763,7 +763,7 @@
    "id": 96,
    "name": "The Central",
    "address": "6 Eu Tong Sen Street S(059817)",
-   "postalcode": "059817",
+   "postalcode": "Singapore (059817)",
    "lat": 1.2889806,
    "lng": 103.8468686
  },
@@ -771,7 +771,7 @@
    "id": 97,
    "name": "The Shoppes at Marina Bay Sands",
    "address": "2 Bayfront Avenue S(018972)",
-   "postalcode": "018972",
+   "postalcode": "Singapore (018972)",
    "lat": 1.2848054,
    "lng": 103.8590539
  },
@@ -779,7 +779,7 @@
    "id": 99,
    "name": "Tiong Bahru Plaza",
    "address": "302 Tiong Bahru Road S(168732)",
-   "postalcode": "168732",
+   "postalcode": "Singapore (168732)",
    "lat": 1.286308881,
    "lng": 103.8271764
  },
@@ -787,7 +787,7 @@
    "id": 100,
    "name": "Valley Point Mall",
    "address": "491 River Valley Road S(248371)",
-   "postalcode": "248371",
+   "postalcode": "Singapore (248371)",
    "lat": 1.2930751,
    "lng": 103.8267442
  },
@@ -795,7 +795,7 @@
    "id": 101,
    "name": "Custom House",
    "address": "80 Collyer Quay (049326)",
-   "postalcode": "049326",
+   "postalcode": "Singapore (049326)",
    "lat": 1.2846509,
    "lng": 103.8536626
  },
@@ -803,7 +803,7 @@
    "id": 102,
    "name": "Merlion Park@Fullerton",
    "address": "1 Fullerton Road S(049178)",
-   "postalcode": "049178",
+   "postalcode": "Singapore (049178)",
    "lat": 1.2858792,
    "lng": 103.8540316
  },
@@ -811,7 +811,7 @@
    "id": 103,
    "name": "One Fullerton",
    "address": "1 Fullerton Square S(049178)",
-   "postalcode": "049178",
+   "postalcode": "Singapore (049178)",
    "lat": 1.2858792,
    "lng": 103.8540316
  },
@@ -819,7 +819,7 @@
    "id": 104,
    "name": "Sentosa Beach Station",
    "address": "33 Allanbroke Road Sentosa S(099981)",
-   "postalcode": "099981",
+   "postalcode": "Singapore (099981)",
    "lat": 1.2512979,
    "lng": 103.8178132
  },
@@ -827,7 +827,7 @@
    "id": 105,
    "name": "Sentosa Imbiah Lookout",
    "address": "Imbiah Lookout Sentosa S(099538)",
-   "postalcode": "099538",
+   "postalcode": "Singapore (099538)",
    "lat": 1.2552278,
    "lng": 103.8175128
  },
@@ -835,7 +835,7 @@
    "id": 106,
    "name": "Sentosa Imbiah Station",
    "address": "Imbiah Express Station Sentosa S(099981)",
-   "postalcode": "099981",
+   "postalcode": "Singapore (099981)",
    "lat": 1.2539153,
    "lng": 103.8194525
  },
@@ -843,7 +843,7 @@
    "id": 107,
    "name": "Sentosa Palawan Beach (East)",
    "address": "Palawan Beach Walk S(098521)",
-   "postalcode": "098521",
+   "postalcode": "Singapore (098521)",
    "lat": 1.249673,
    "lng": 103.82188
  },
@@ -851,7 +851,7 @@
    "id": 108,
    "name": "Sentosa Palawan Beach (West)",
    "address": "Palawan Beach Walk S(098038)",
-   "postalcode": "098038",
+   "postalcode": "Singapore (098038)",
    "lat": 1.248949,
    "lng": 103.822374
  },
@@ -859,7 +859,7 @@
    "id": 109,
    "name": "Sentosa Palawan Kidz City",
    "address": "31 Beach View Palawan Kidz City S(098008)",
-   "postalcode": "098008",
+   "postalcode": "Singapore (098008)",
    "lat": 1.2510787,
    "lng": 103.8202912
  },
@@ -867,7 +867,7 @@
    "id": 110,
    "name": "Sentosa Silosa Beach (East)",
    "address": "Siloso Beach Walk S(098997)",
-   "postalcode": "098997",
+   "postalcode": "Singapore (098997)",
    "lat": 1.2514,
    "lng": 103.82
  },
@@ -875,7 +875,7 @@
    "id": 111,
    "name": "Sentosa Wings of Time",
    "address": "50 Beach View, 098604",
-   "postalcode": "099538",
+   "postalcode": "Singapore (099538)",
    "lat": 1.2512979,
    "lng": 103.8178132
  },
@@ -883,7 +883,7 @@
    "id": 112,
    "name": "The Fullerton Water Boat House",
    "address": "1 Fullerton Road S(049213)",
-   "postalcode": "049213",
+   "postalcode": "Singapore (049213)",
    "lat": 1.2858792,
    "lng": 103.8540316
  },
@@ -891,7 +891,7 @@
    "id": 113,
    "name": "Compassvale Bus Interchange",
    "address": "51A Compassvale Road S(544760)",
-   "postalcode": "544760",
+   "postalcode": "Singapore (544760)",
    "lat": 1.391519285,
    "lng": 103.8973108
  },
@@ -899,7 +899,7 @@
    "id": 114,
    "name": "Hougang Bus Interchanage",
    "address": "840 Hougang Central S(53877)",
-   "postalcode": "(53877",
+   "postalcode": "Singapore ((53877)",
    "lat": 1.370795,
    "lng": 103.8919716
  },
@@ -907,7 +907,7 @@
    "id": 115,
    "name": "Sengkang Bus Interchange",
    "address": "13 Sengkang Square S(545077)",
-   "postalcode": "545077",
+   "postalcode": "Singapore (545077)",
    "lat": 1.391025341,
    "lng": 103.8959565
  },
@@ -915,7 +915,7 @@
    "id": 116,
    "name": "Tampines Bus Interchange",
    "address": "512 Tampines Central 1 S(520512)",
-   "postalcode": "520512",
+   "postalcode": "Singapore (520512)",
    "lat": 1.3536,
    "lng": 103.943
  },
@@ -923,7 +923,7 @@
    "id": 117,
    "name": "Tampines Concourse Bus Interchange",
    "address": "11 Tampines Concourse S(529543)",
-   "postalcode": "529543",
+   "postalcode": "Singapore (529543)",
    "lat": 1.3571,
    "lng": 103.941
  },
@@ -931,7 +931,7 @@
    "id": 118,
    "name": "Safra Punggol",
    "address": "9 Sentul Crescent S(828654)",
-   "postalcode": "828654",
+   "postalcode": "Singapore (828654)",
    "lat": 1.4092217,
    "lng": 103.9022787
  },
@@ -939,7 +939,7 @@
    "id": 119,
    "name": "21 Street Eating House",
    "address": "Blk 201 Tampines Street 21 # 01-201 S(520201)",
-   "postalcode": "520201",
+   "postalcode": "Singapore (520201)",
    "lat": 1.352943,
    "lng": 103.953569
  },
@@ -947,7 +947,7 @@
    "id": 120,
    "name": "CCMW Hougang Avenue 8",
    "address": "Blk 631 Hougang Avenue 8 #01-06 S(530631)",
-   "postalcode": "530631",
+   "postalcode": "Singapore (530631)",
    "lat": 1.37056,
    "lng": 103.88141
  },
@@ -955,7 +955,7 @@
    "id": 121,
    "name": "CCMW Tampines Ave 4",
    "address": "Blk 802 Tampines Ave 4 #01-77 S(520802)",
-   "postalcode": "520802",
+   "postalcode": "Singapore (520802)",
    "lat": 1.3457892,
    "lng": 103.9384383
  },
@@ -963,7 +963,7 @@
    "id": 122,
    "name": "CCMW Tampines Street 21",
    "address": "Blk 201C Tampines Street 21 #01-01 S(523201)",
-   "postalcode": "523201",
+   "postalcode": "Singapore (523201)",
    "lat": 1.352888435,
    "lng": 103.9531061
  },
@@ -971,7 +971,7 @@
    "id": 123,
    "name": "CCMW Tampines Street 41",
    "address": "Blk 406 Tampines Street 41 #01-07 S(520406)",
-   "postalcode": "520406",
+   "postalcode": "Singapore (520406)",
    "lat": 1.358495964,
    "lng": 103.9460072
  },
@@ -979,7 +979,7 @@
    "id": 124,
    "name": "CCMW Tampines Street 81",
    "address": "Blk 820 Tampines Street 81 #01-501 S(520820)",
-   "postalcode": "520820",
+   "postalcode": "Singapore (520820)",
    "lat": 1.34832365,
    "lng": 103.9363224
  },
@@ -987,7 +987,7 @@
    "id": 125,
    "name": "NTUC Foodfare",
    "address": "Blk 273C Punggol Place #01-882 S(823273)",
-   "postalcode": "823273",
+   "postalcode": "Singapore (823273)",
    "lat": 1.402271,
    "lng": 103.9
  },
@@ -995,7 +995,7 @@
    "id": 126,
    "name": "NTUC Foodfare Anchorvale",
    "address": "Blk 308 Anchorvale Road #01-07 S(540308)",
-   "postalcode": "540308",
+   "postalcode": "Singapore (540308)",
    "lat": 1.389539,
    "lng": 103.886398
  },
@@ -1003,7 +1003,7 @@
    "id": 127,
    "name": "NTUC Foodfare Pasir Ris",
    "address": "527C Pasir Ris Street 51 S(513527)",
-   "postalcode": "513527",
+   "postalcode": "Singapore (513527)",
    "lat": 1.369424,
    "lng": 103.947764
  },
@@ -1011,7 +1011,7 @@
    "id": 128,
    "name": "NTUC Foodfare Upper Serangoon",
    "address": "476D Upper Serangoon View #02-05 S(537476))",
-   "postalcode": "37476)",
+   "postalcode": "Singapore (37476))",
    "lat": 1.377633,
    "lng": 103.903619
  },
@@ -1019,7 +1019,7 @@
    "id": 129,
    "name": "Koufu Foodcourt",
    "address": "Blk 118 Rivervale Drive #02-15/16 S(540118)",
-   "postalcode": "540118",
+   "postalcode": "Singapore (540118)",
    "lat": 1.385594,
    "lng": 103.901983
  },
@@ -1027,7 +1027,7 @@
    "id": 130,
    "name": "Koufu Foodcourt",
    "address": "Blk 263 Compassvale Street #01-09 S(540263)",
-   "postalcode": "540263",
+   "postalcode": "Singapore (540263)",
    "lat": 1.395267,
    "lng": 103.895957
  },
@@ -1035,7 +1035,7 @@
    "id": 131,
    "name": "Chomp Chomp Food Centre",
    "address": "20 Kensington Park Road S(557269)",
-   "postalcode": "557269",
+   "postalcode": "Singapore (557269)",
    "lat": 1.364229,
    "lng": 103.8666
  },
@@ -1043,7 +1043,7 @@
    "id": 132,
    "name": "Hawker Centre @ Our Tampines Hub",
    "address": "902 Tampines Avenue 4 S(520902)",
-   "postalcode": "520902",
+   "postalcode": "Singapore (520902)",
    "lat": 1.351286,
    "lng": 103.939243
  },
@@ -1051,7 +1051,7 @@
    "id": 133,
    "name": "Pasir Ris Central Hawker Centre",
    "address": "110 Pasir Ris Central S(519641)",
-   "postalcode": "519641",
+   "postalcode": "Singapore (519641)",
    "lat": 1.373578,
    "lng": 103.951472
  },
@@ -1059,7 +1059,7 @@
    "id": 134,
    "name": "Serangoon Garden Market",
    "address": "49A Serangoon Garden Way S(555945)",
-   "postalcode": "555945",
+   "postalcode": "Singapore (555945)",
    "lat": 1.363381,
    "lng": 103.866835
  },
@@ -1067,7 +1067,7 @@
    "id": 135,
    "name": "Bedok Reservoir MRT Station (DT30)",
    "address": "371 Bedok North Avenue 3 S(469724)",
-   "postalcode": "469724",
+   "postalcode": "Singapore (469724)",
    "lat": 1.333019,
    "lng": 103.933951
  },
@@ -1075,7 +1075,7 @@
    "id": 136,
    "name": "Eunos MRT Station",
    "address": "30 Eunos Crescent S(409423)",
-   "postalcode": "409423",
+   "postalcode": "Singapore (409423)",
    "lat": 1.3197,
    "lng": 103.902894
  },
@@ -1083,7 +1083,7 @@
    "id": 137,
    "name": "Kaki Bukit MRT Station (DT28)",
    "address": "30 Kaki Bukit Avenue 1 S(415804)",
-   "postalcode": "415804",
+   "postalcode": "Singapore (415804)",
    "lat": 1.334927,
    "lng": 103.909016
  },
@@ -1091,7 +1091,7 @@
    "id": 138,
    "name": "Kembangan MRT Station",
    "address": "55 Sims Avenue East S(416551)",
-   "postalcode": "416551",
+   "postalcode": "Singapore (416551)",
    "lat": 1.320959,
    "lng": 103.912676
  },
@@ -1099,7 +1099,7 @@
    "id": 139,
    "name": "Pasir Ris MRT Station",
    "address": "10 Pasir Ris Central S(519634)",
-   "postalcode": "519634",
+   "postalcode": "Singapore (519634)",
    "lat": 1.373114,
    "lng": 103.949341
  },
@@ -1107,7 +1107,7 @@
    "id": 140,
    "name": "Punggol MRT Station-NE17",
    "address": "10 Punggol Central S(828868)",
-   "postalcode": "828868",
+   "postalcode": "Singapore (828868)",
    "lat": 1.398153,
    "lng": 103.913025
  },
@@ -1115,7 +1115,7 @@
    "id": 141,
    "name": "Tampines East MRT Station (DT33)",
    "address": "20 Tampines Avenue 7 S(529623)",
-   "postalcode": "529623",
+   "postalcode": "Singapore (529623)",
    "lat": 1.356308,
    "lng": 103.954651
  },
@@ -1123,7 +1123,7 @@
    "id": 142,
    "name": "Tampines MRT Station (EW2)",
    "address": "20 Tampines Central S(529538)",
-   "postalcode": "529538",
+   "postalcode": "Singapore (529538)",
    "lat": 1.353554,
    "lng": 103.944945
  },
@@ -1131,7 +1131,7 @@
    "id": 143,
    "name": "Tampines MRT Station (DT32)",
    "address": "20 Tampines Central S(529538)",
-   "postalcode": "529538",
+   "postalcode": "Singapore (529538)",
    "lat": 1.353554,
    "lng": 103.944945
  },
@@ -1139,7 +1139,7 @@
    "id": 144,
    "name": "Tampines West MRT Station (DT31)",
    "address": "2 Tampines Avenue 4 S(529683)",
-   "postalcode": "529683",
+   "postalcode": "Singapore (529683)",
    "lat": 1.345626,
    "lng": 103.938218
  },
@@ -1147,7 +1147,7 @@
    "id": 145,
    "name": "Tanah Merah MRT Station",
    "address": "920 New Upper Changi Road (467356)",
-   "postalcode": "467356",
+   "postalcode": "Singapore (467356)",
    "lat": 1.3272,
    "lng": 103.946395
  },
@@ -1155,7 +1155,7 @@
    "id": 146,
    "name": "Al - Istighfar Mosque",
    "address": "2 Pasir Ris Walk S(518239)",
-   "postalcode": "518239",
+   "postalcode": "Singapore (518239)",
    "lat": 1.371115,
    "lng": 103.964096
  },
@@ -1163,7 +1163,7 @@
    "id": 147,
    "name": "Century Square",
    "address": "2 Tampines Central 5 S(529509)",
-   "postalcode": "529509",
+   "postalcode": "Singapore (529509)",
    "lat": 1.352389,
    "lng": 103.943857
  },
@@ -1171,7 +1171,7 @@
    "id": 148,
    "name": "Elias Mall",
    "address": "Blk 625 Level 1 & 2 Elias Road S(510625)",
-   "postalcode": "510625",
+   "postalcode": "Singapore (510625)",
    "lat": 1.377665,
    "lng": 103.941441
  },
@@ -1179,7 +1179,7 @@
    "id": 149,
    "name": "Hougang Mall (#B1-2)",
    "address": "90 Hougang Avenue 10 Level B1 - 2 S(538766)",
-   "postalcode": "538766",
+   "postalcode": "Singapore (538766)",
    "lat": 1.372636,
    "lng": 103.893809
  },
@@ -1187,7 +1187,7 @@
    "id": 150,
    "name": "Hougang Mall (#3-5)",
    "address": "90 Hougang Avenue 10 Level 3 - 5 S(538766)",
-   "postalcode": "538766",
+   "postalcode": "Singapore (538766)",
    "lat": 1.372636,
    "lng": 103.893809
  },
@@ -1195,7 +1195,7 @@
    "id": 151,
    "name": "Pasir Ris West Plaza",
    "address": "735 Pasir Ris Street 72 S(510735)",
-   "postalcode": "510735",
+   "postalcode": "Singapore (510735)",
    "lat": 1.379879,
    "lng": 103.936267
  },
@@ -1203,7 +1203,7 @@
    "id": 152,
    "name": "Rivervale Plaza",
    "address": "118 Rivervale Plaza S(540118)",
-   "postalcode": "540118",
+   "postalcode": "Singapore (540118)",
    "lat": 1.385594,
    "lng": 103.901983
  },
@@ -1211,7 +1211,7 @@
    "id": 153,
    "name": "Tampines Central Community Complex",
    "address": "Blk 886A Tampines Street 83 S(521866)",
-   "postalcode": "521866",
+   "postalcode": "Singapore (521866)",
    "lat": 1.355507,
    "lng": 103.934462
  },
@@ -1219,7 +1219,7 @@
    "id": 154,
    "name": "Tampines One",
    "address": "10 Tampines Central 1 S(529536)",
-   "postalcode": "529536",
+   "postalcode": "Singapore (529536)",
    "lat": 1.354212,
    "lng": 103.945035
  },
@@ -1227,7 +1227,7 @@
    "id": 155,
    "name": "White Sands",
    "address": "1 Pasir Ris Central Street 3 S(518457)",
-   "postalcode": "518457",
+   "postalcode": "Singapore (518457)",
    "lat": 1.372417,
    "lng": 103.949658
  },
@@ -1235,7 +1235,7 @@
    "id": 156,
    "name": "Bukit Panjang Intergrated Transport Hub",
    "address": "15 Petir Road S(678270)",
-   "postalcode": "678270",
+   "postalcode": "Singapore (678270)",
    "lat": 1.378316,
    "lng": 103.762459
  },
@@ -1243,7 +1243,7 @@
    "id": 157,
    "name": "Sembawang Bus Interchange",
    "address": "11A Sembawang Vista S(757527)",
-   "postalcode": "757527",
+   "postalcode": "Singapore (757527)",
    "lat": 1.447482,
    "lng": 103.819414
  },
@@ -1251,7 +1251,7 @@
    "id": 158,
    "name": "Woodlands Temporary Bus Interchange",
    "address": "3A Woodlands Square S(727735)",
-   "postalcode": "727735",
+   "postalcode": "Singapore (727735)",
    "lat": 1.437353,
    "lng": 103.785964
  },
@@ -1259,7 +1259,7 @@
    "id": 159,
    "name": "Yishun Temporary Bus Interchange",
    "address": "20A Yishun Central S(768830)",
-   "postalcode": "768830",
+   "postalcode": "Singapore (768830)",
    "lat": 1.429768,
    "lng": 103.837939
  },
@@ -1267,7 +1267,7 @@
    "id": 160,
    "name": "New Century Cafe",
    "address": "Blk 19 Ghim Moh Road #01-263 S(270019)",
-   "postalcode": "270019",
+   "postalcode": "Singapore (270019)",
    "lat": 1.311526,
    "lng": 103.788347
  },
@@ -1275,7 +1275,7 @@
    "id": 161,
    "name": "NTUC Foodfare",
    "address": "507 Yishun Avenue 4 S(760507)",
-   "postalcode": "760507",
+   "postalcode": "Singapore (760507)",
    "lat": 1.41555,
    "lng": 103.839696
  },
@@ -1283,7 +1283,7 @@
    "id": 162,
    "name": "NTUC Foodfare@29A Ghim Moh Link",
    "address": "29A Ghim Moh Link #01-06 S(271029)",
-   "postalcode": "271029",
+   "postalcode": "Singapore (271029)",
    "lat": 1.308641,
    "lng": 103.784204
  },
@@ -1291,7 +1291,7 @@
    "id": 163,
    "name": "Chang Cheng Mee Wah Foodcourt",
    "address": "27 Woodlands Link #01-01 Chang Cheng HQ S(738732)",
-   "postalcode": "738732",
+   "postalcode": "Singapore (738732)",
    "lat": 1.452496,
    "lng": 103.810849
  },
@@ -1299,7 +1299,7 @@
    "id": 164,
    "name": "NTUC Foodfare KTPH",
    "address": "90 Yishun Central S(768828)",
-   "postalcode": "768828",
+   "postalcode": "Singapore (768828)",
    "lat": 1.424448,
    "lng": 103.838017
  },
@@ -1307,7 +1307,7 @@
    "id": 165,
    "name": "Viva Foodcourt",
    "address": "Blk 548 Woodlands Drive 44 #02-34 S(730548)",
-   "postalcode": "730548",
+   "postalcode": "Singapore (730548)",
    "lat": 1.430686,
    "lng": 103.794006
  },
@@ -1315,7 +1315,7 @@
    "id": 166,
    "name": "Koufu Foodcourt@Fajar",
    "address": "445 Fajar Road #01-548 S(670445)",
-   "postalcode": "670445",
+   "postalcode": "Singapore (670445)",
    "lat": 1.383662,
    "lng": 103.770611
  },
@@ -1323,7 +1323,7 @@
    "id": 167,
    "name": "Bukit Panjang Hawker Centre",
    "address": "259 Bukit Panjang Ring Road S(671259)",
-   "postalcode": "671259",
+   "postalcode": "Singapore (671259)",
    "lat": 1.3770581,
    "lng": 103.7730258
  },
@@ -1331,7 +1331,7 @@
    "id": 168,
    "name": "Holland Village Market & Food Centre",
    "address": "1 Lorong Mambong S(277700)",
-   "postalcode": "277700",
+   "postalcode": "Singapore (277700)",
    "lat": 1.311505,
    "lng": 103.795175
  },
@@ -1339,7 +1339,7 @@
    "id": 169,
    "name": "Yishun Park Hawker Centre",
    "address": "51 Yishun Avenue 11 S(768867)",
-   "postalcode": "768867",
+   "postalcode": "Singapore (768867)",
    "lat": 1.424921,
    "lng": 103.844823
  },
@@ -1347,7 +1347,7 @@
    "id": 170,
    "name": "Admiralty MRT Station",
    "address": "70 Woodlands Avenue S(738344)",
-   "postalcode": "738344",
+   "postalcode": "Singapore (738344)",
    "lat": 1.440613,
    "lng": 103.800963
  },
@@ -1355,7 +1355,7 @@
    "id": 171,
    "name": "Kranji MRT Station",
    "address": "960 Woodlands Road S(738702)",
-   "postalcode": "738702",
+   "postalcode": "Singapore (738702)",
    "lat": 1.4252566,
    "lng": 103.7620429
  },
@@ -1363,7 +1363,7 @@
    "id": 172,
    "name": "Marsiling MRT Station",
    "address": "71 Woodlands Avenue 3 S(739044)",
-   "postalcode": "739044",
+   "postalcode": "Singapore (739044)",
    "lat": 1.43264,
    "lng": 103.77429
  },
@@ -1371,7 +1371,7 @@
    "id": 173,
    "name": "Woodlands MRT Station",
    "address": "30 Woodlands Avenue 2 S(738343)",
-   "postalcode": "738343",
+   "postalcode": "Singapore (738343)",
    "lat": 1.436998,
    "lng": 103.786504
  },
@@ -1379,7 +1379,7 @@
    "id": 174,
    "name": "Yew Tee MRT Station",
    "address": "61 Choa Chu Kang Drive S(689715)",
-   "postalcode": "689715",
+   "postalcode": "Singapore (689715)",
    "lat": 1.3970146,
    "lng": 103.7472724
  },
@@ -1387,7 +1387,7 @@
    "id": 175,
    "name": "888 Plaza",
    "address": "Blk 888 Woodlands Drive 50 S(731888)",
-   "postalcode": "731888",
+   "postalcode": "Singapore (731888)",
    "lat": 1.437674,
    "lng": 103.795137
  },
@@ -1395,7 +1395,7 @@
    "id": 176,
    "name": "Admiralty Place",
    "address": "Blk 678 Woodlands Avenue 6 S(730678)",
-   "postalcode": "730678",
+   "postalcode": "Singapore (730678)",
    "lat": 1.4406892,
    "lng": 103.8021643
  },
@@ -1403,7 +1403,7 @@
    "id": 177,
    "name": "Fajar Shopping Centre",
    "address": "445 Fajar Road Level 1 & 2 S(670445)",
-   "postalcode": "670445",
+   "postalcode": "Singapore (670445)",
    "lat": 1.383662,
    "lng": 103.770611
  },
@@ -1411,7 +1411,7 @@
    "id": 178,
    "name": "Sembawang Mart",
    "address": "Blk 511 Canberra Road S(750511)",
-   "postalcode": "750511",
+   "postalcode": "Singapore (750511)",
    "lat": 1.453834,
    "lng": 103.819588
  },
@@ -1419,7 +1419,7 @@
    "id": 179,
    "name": "Vista Point",
    "address": "Blk 548 Woodlands Drive 44 S(730548)",
-   "postalcode": "730548",
+   "postalcode": "Singapore (730548)",
    "lat": 1.430686,
    "lng": 103.794006
  },
@@ -1427,7 +1427,7 @@
    "id": 180,
    "name": "Bedok Bus Interchange",
    "address": "12 Bedok North Drive S(465492)",
-   "postalcode": "465492",
+   "postalcode": "Singapore (465492)",
    "lat": 1.3248799,
    "lng": 103.9292396
  },
@@ -1435,7 +1435,7 @@
    "id": 181,
    "name": "Changi Business Park Bus Terminal",
    "address": "55 Changi South Avenue 1 S(485997)",
-   "postalcode": "485997",
+   "postalcode": "Singapore (485997)",
    "lat": 1.3423617,
    "lng": 103.9643982
  },
@@ -1443,7 +1443,7 @@
    "id": 182,
    "name": "Eunos Bus Interchange",
    "address": "409 Eunos Road 2 S(409388)",
-   "postalcode": "409388",
+   "postalcode": "Singapore (409388)",
    "lat": 1.319404,
    "lng": 103.901898
  },
@@ -1451,7 +1451,7 @@
    "id": 183,
    "name": "Serangoon Bus Interchange",
    "address": "20 Serangoon Avenue 2 S(556138)",
-   "postalcode": "556138",
+   "postalcode": "Singapore (556138)",
    "lat": 1.35049,
    "lng": 103.87172
  },
@@ -1459,7 +1459,7 @@
    "id": 184,
    "name": "Upper East Coast Bus Terminal",
    "address": "740 Upper East Coast Road S(465549)",
-   "postalcode": "465549",
+   "postalcode": "Singapore (465549)",
    "lat": 1.31799,
    "lng": 103.952688
  },
@@ -1467,7 +1467,7 @@
    "id": 185,
    "name": "CCMW BD 211 Food House",
    "address": "Blk 211 Upper Changi Road S(460211)",
-   "postalcode": "460211",
+   "postalcode": "Singapore (460211)",
    "lat": 1.325511,
    "lng": 103.931987
  },
@@ -1475,7 +1475,7 @@
    "id": 186,
    "name": "NTUC Foodfare Tampines",
    "address": "878C Tampines Avenue 8 S(523878)",
-   "postalcode": "523878",
+   "postalcode": "Singapore (523878)",
    "lat": 1.351369,
    "lng": 103.92948
  },
@@ -1483,7 +1483,7 @@
    "id": 187,
    "name": "Bedok Food Centre",
    "address": "1 Bedok Road S(469572)",
-   "postalcode": "469572",
+   "postalcode": "Singapore (469572)",
    "lat": 1.320385,
    "lng": 103.955506
  },
@@ -1491,7 +1491,7 @@
    "id": 188,
    "name": "Dunman Food Centre",
    "address": "271 Onan Road S(424768)",
-   "postalcode": "424768",
+   "postalcode": "Singapore (424768)",
    "lat": 1.309346,
    "lng": 103.901793
  },
@@ -1499,7 +1499,7 @@
    "id": 189,
    "name": "East Coast Lagoon Food Village",
    "address": "1220 East Coast Parkway S(468960)",
-   "postalcode": "468960",
+   "postalcode": "Singapore (468960)",
    "lat": 1.30668,
    "lng": 103.935039
  },
@@ -1507,7 +1507,7 @@
    "id": 190,
    "name": "Geylang Serai Market",
    "address": "1 Geylang Serai S(402001)",
-   "postalcode": "402001",
+   "postalcode": "Singapore (402001)",
    "lat": 1.316657,
    "lng": 103.898181
  },
@@ -1515,7 +1515,7 @@
    "id": 191,
    "name": "Aljunied MRT Station (EW9)",
    "address": "81 Lorong 25 Geylang S(388310)",
-   "postalcode": "388310",
+   "postalcode": "Singapore (388310)",
    "lat": 1.3164802,
    "lng": 103.8830933
  },
@@ -1523,7 +1523,7 @@
    "id": 192,
    "name": "Bartley MRT Station",
    "address": "212 Upper Paya Lebar S(534881)",
-   "postalcode": "534881",
+   "postalcode": "Singapore (534881)",
    "lat": 1.342284,
    "lng": 103.88411
  },
@@ -1531,7 +1531,7 @@
    "id": 193,
    "name": "Bedok MRT Station",
    "address": "315 New Upper Changi Road S(467347)",
-   "postalcode": "467347",
+   "postalcode": "Singapore (467347)",
    "lat": 1.323794,
    "lng": 103.930218
  },
@@ -1539,7 +1539,7 @@
    "id": 194,
    "name": "Bedok North MRT Station (DT29)",
    "address": "315 Upper Changi Road S(467347)",
-   "postalcode": "467347",
+   "postalcode": "Singapore (467347)",
    "lat": 1.323794,
    "lng": 103.930218
  },
@@ -1547,7 +1547,7 @@
    "id": 195,
    "name": "Dakota MRT Station",
    "address": "201 Airport Road S(397973)",
-   "postalcode": "397973",
+   "postalcode": "Singapore (397973)",
    "lat": 1.307961,
    "lng": 103.888889
  },
@@ -1555,7 +1555,7 @@
    "id": 196,
    "name": "Expo MRT Station",
    "address": "21 Upper Changi South Avenue 1 S(486065)",
-   "postalcode": "486065",
+   "postalcode": "Singapore (486065)",
    "lat": 1.336502,
    "lng": 103.963121
  },
@@ -1563,7 +1563,7 @@
    "id": 197,
    "name": "Lorong Chuan MRT Station",
    "address": "150 Serangoon Avenue 3 S(554533)",
-   "postalcode": "554533",
+   "postalcode": "Singapore (554533)",
    "lat": 1.352023,
    "lng": 103.863545
  },
@@ -1571,7 +1571,7 @@
    "id": 198,
    "name": "Macpherson MRT Station (DT26)",
    "address": "10 Circuit Link S(378956)",
-   "postalcode": "378956",
+   "postalcode": "Singapore (378956)",
    "lat": 1.326269,
    "lng": 103.889187
  },
@@ -1579,7 +1579,7 @@
    "id": 199,
    "name": "Macpherson MRT Station CC10",
    "address": "171 Paya Lebar Rd S(409048)",
-   "postalcode": "409048",
+   "postalcode": "Singapore (409048)",
    "lat": 1.3267152,
    "lng": 103.8898092
  },
@@ -1587,7 +1587,7 @@
    "id": 200,
    "name": "Mattar MRT Station (DT25)",
    "address": "60 Merpati Road S(379314)",
-   "postalcode": "379314",
+   "postalcode": "Singapore (379314)",
    "lat": 1.327221,
    "lng": 103.882895
  },
@@ -1595,7 +1595,7 @@
    "id": 201,
    "name": "Mountbatten MRT Station",
    "address": "301 Mountbatten Road S(398006)",
-   "postalcode": "398006",
+   "postalcode": "Singapore (398006)",
    "lat": 1.3068438,
    "lng": 103.8824766
  },
@@ -1603,7 +1603,7 @@
    "id": 202,
    "name": "Paya Lebar MRT Station",
    "address": "30 Paya Lebar Road S(409006)",
-   "postalcode": "409006",
+   "postalcode": "Singapore (409006)",
    "lat": 1.3181222,
    "lng": 103.8926855
  },
@@ -1611,7 +1611,7 @@
    "id": 203,
    "name": "Paya Lebar MRT Station CC09",
    "address": "30 Paya Lebar Road S(409006)",
-   "postalcode": "409006",
+   "postalcode": "Singapore (409006)",
    "lat": 1.3181222,
    "lng": 103.8926855
  },
@@ -1619,7 +1619,7 @@
    "id": 204,
    "name": "Serangoon MRT Station CC13",
    "address": "600 Upper Serangoon Rd S(534801)",
-   "postalcode": "534801",
+   "postalcode": "Singapore (534801)",
    "lat": 1.3500727,
    "lng": 103.8734346
  },
@@ -1627,7 +1627,7 @@
    "id": 205,
    "name": "Simei MRT Station",
    "address": "30 Simei Street 3 S(529888)",
-   "postalcode": "529888",
+   "postalcode": "Singapore (529888)",
    "lat": 1.3393058,
    "lng": 103.9501859
  },
@@ -1635,7 +1635,7 @@
    "id": 206,
    "name": "Stadium MRT Station",
    "address": "3 Stadium Walk S(397692)",
-   "postalcode": "397692",
+   "postalcode": "Singapore (397692)",
    "lat": 1.30281,
    "lng": 103.87533
  },
@@ -1643,7 +1643,7 @@
    "id": 207,
    "name": "Tai Seng MRT Station CC11",
    "address": "33 Upper Paya Lebar Rd S(534803)",
-   "postalcode": "534803",
+   "postalcode": "Singapore (534803)",
    "lat": 1.33588,
    "lng": 103.88791
  },
@@ -1651,7 +1651,7 @@
    "id": 208,
    "name": "Ubi MRT Station (DT27)",
    "address": "51 Ubi Avenue 2 S(408899)",
-   "postalcode": "408899",
+   "postalcode": "Singapore (408899)",
    "lat": 1.3273172,
    "lng": 103.8923004
  },
@@ -1659,7 +1659,7 @@
    "id": 209,
    "name": "Upper Changi MRT Station",
    "address": "690 Upper Changi Road East S(485990)",
-   "postalcode": "485990",
+   "postalcode": "Singapore (485990)",
    "lat": 1.3516633,
    "lng": 103.9642388
  },
@@ -1667,7 +1667,7 @@
    "id": 210,
    "name": "Kah Engineering (1988) Pte Ltd",
    "address": "96B Jalan Senang S(418482)",
-   "postalcode": "418482",
+   "postalcode": "Singapore (418482)",
    "lat": 1.326906,
    "lng": 103.916739
  },
@@ -1675,7 +1675,7 @@
    "id": 211,
    "name": "Joo Chiat Complex",
    "address": "1 Joo Chiat Road S(420001)",
-   "postalcode": "420001",
+   "postalcode": "Singapore (420001)",
    "lat": 1.3128539,
    "lng": 103.8999295
  },
@@ -1683,7 +1683,7 @@
    "id": 212,
    "name": "Boon Lay Bus Interchange",
    "address": "87 Jurong West Central 3 S(648343)",
-   "postalcode": "648343",
+   "postalcode": "Singapore (648343)",
    "lat": 1.3408458,
    "lng": 103.7070508
  },
@@ -1691,7 +1691,7 @@
    "id": 213,
    "name": "Choa Chu Kang Bus Interchange",
    "address": "301 Choa Chu Kang Central Avenue 3 S(689811)",
-   "postalcode": "689811",
+   "postalcode": "Singapore (689811)",
    "lat": 1.383625,
    "lng": 103.744598
  },
@@ -1699,7 +1699,7 @@
    "id": 214,
    "name": "Clementi Bus Interchange",
    "address": "441 Commonwealth Avenue West S(120441)",
-   "postalcode": "120441",
+   "postalcode": "Singapore (120441)",
    "lat": 1.315291,
    "lng": 103.7645011
  },
@@ -1707,7 +1707,7 @@
    "id": 215,
    "name": "Joo Koon Bus Interchange",
    "address": "55 Benoi Road S(629907)",
-   "postalcode": "629907",
+   "postalcode": "Singapore (629907)",
    "lat": 1.3214903,
    "lng": 103.683471
  },
@@ -1715,7 +1715,7 @@
    "id": 216,
    "name": "Tuas Bus Terminal",
    "address": "1 Tuas West Drive S(638410)",
-   "postalcode": "638410",
+   "postalcode": "Singapore (638410)",
    "lat": 1.3326565,
    "lng": 103.634522
  },
@@ -1723,7 +1723,7 @@
    "id": 217,
    "name": "CCMW Jurong West Street 41",
    "address": "Blk 498 Jurong West Street 41 #01-462 S(640498)",
-   "postalcode": "640498",
+   "postalcode": "Singapore (640498)",
    "lat": 1.3483117,
    "lng": 103.7243032
  },
@@ -1731,7 +1731,7 @@
    "id": 218,
    "name": "NTUC Foodfare Bukit Batok",
    "address": "296A Bukit Batok Street 22 S(651296)",
-   "postalcode": "651296",
+   "postalcode": "Singapore (651296)",
    "lat": 1.3440622,
    "lng": 103.7464534
  },
@@ -1739,7 +1739,7 @@
    "id": 219,
    "name": "NTUC Foodfare Choa Chu Kang",
    "address": "Blk 303 Choa Chu Kang Avenue 4 #01-723 S(680303)",
-   "postalcode": "680303",
+   "postalcode": "Singapore (680303)",
    "lat": 1.3845389,
    "lng": 103.7437448
  },
@@ -1747,7 +1747,7 @@
    "id": 220,
    "name": "NTUC Foodfare Jurong West",
    "address": "Blk 679 Jurong West Central #01-02 S(640679)",
-   "postalcode": "640679",
+   "postalcode": "Singapore (640679)",
    "lat": 1.3446085,
    "lng": 103.7060719
  },
@@ -1755,7 +1755,7 @@
    "id": 221,
    "name": "Aspri-Westlite Construction Site",
    "address": "5 Jalan Papan Road S(619396)",
-   "postalcode": "619396",
+   "postalcode": "Singapore (619396)",
    "lat": 1.3222655,
    "lng": 103.7282962
  },
@@ -1763,7 +1763,7 @@
    "id": 222,
    "name": "Megastone Holding Dormitory",
    "address": "42A Sungei Kadut Street 1 S(729347)",
-   "postalcode": "729347",
+   "postalcode": "Singapore (729347)",
    "lat": 1.4116217,
    "lng": 103.753633
  },
@@ -1771,7 +1771,7 @@
    "id": 223,
    "name": "Unison Construction Dormitory",
    "address": "6 Tuas Basin Link S(638760)",
-   "postalcode": "638760",
+   "postalcode": "Singapore (638760)",
    "lat": 1.3183191,
    "lng": 103.6485563
  },
@@ -1779,7 +1779,7 @@
    "id": 224,
    "name": "Choa Chu Kang Crescent NTUC Foodfare",
    "address": "Blk 673B Choa Chu Kang Crescent S(682673)",
-   "postalcode": "682673",
+   "postalcode": "Singapore (682673)",
    "lat": 1.4009747,
    "lng": 103.7479339
  },
@@ -1787,7 +1787,7 @@
    "id": 225,
    "name": "Kopitiam",
    "address": "1 Lower Kent Ridge Road #05-01 One@Kent Ridge S (119082)",
-   "postalcode": "119082",
+   "postalcode": "Singapore (119082)",
    "lat": 1.2938701,
    "lng": 103.7843817
  },
@@ -1795,7 +1795,7 @@
    "id": 226,
    "name": "Kopitiam",
    "address": "5 Lower Kent Ridge Rd #01-01 S(119074)",
-   "postalcode": "119074",
+   "postalcode": "Singapore (119074)",
    "lat": 1.2949703,
    "lng": 103.7829431
  },
@@ -1803,7 +1803,7 @@
    "id": 227,
    "name": "Koufu Foodcourt",
    "address": "1 Bukit Batok Central Link #04-01 Westmall S(658713)",
-   "postalcode": "658713",
+   "postalcode": "Singapore (658713)",
    "lat": 1.3497536,
    "lng": 103.7494064
  },
@@ -1811,7 +1811,7 @@
    "id": 228,
    "name": "Koufu Foodcourt",
    "address": "Blk 638A Jurong West Street 61 #01-22 S(641638)",
-   "postalcode": "641638",
+   "postalcode": "Singapore (641638)",
    "lat": 1.3419966,
    "lng": 103.6975935
  },
@@ -1819,7 +1819,7 @@
    "id": 229,
    "name": "JTC Chemgallery at Oasis @ Sakra",
    "address": "3 Sakra Road S(627878)",
-   "postalcode": "627878",
+   "postalcode": "Singapore (627878)",
    "lat": 1.26735,
    "lng": 103.70458
  },
@@ -1827,7 +1827,7 @@
    "id": 230,
    "name": "Jurong Island Checkpoint",
    "address": "18 Jurong Pier Road S(619618)",
-   "postalcode": "619618",
+   "postalcode": "Singapore (619618)",
    "lat": 1.30967,
    "lng": 103.71075
  },
@@ -1835,7 +1835,7 @@
    "id": 231,
    "name": "47 Ayer Rajah Crescent",
    "address": "47 Ayer Rajah Crescent S(139947)",
-   "postalcode": "139947",
+   "postalcode": "Singapore (139947)",
    "lat": 1.29321,
    "lng": 103.788
  },
@@ -1843,7 +1843,7 @@
    "id": 232,
    "name": "51 Ayer Rajah Crescent",
    "address": "51 Ayer Rajah Crescent S(139948)",
-   "postalcode": "139948",
+   "postalcode": "Singapore (139948)",
    "lat": 1.29383,
    "lng": 103.78801
  },
@@ -1851,7 +1851,7 @@
    "id": 233,
    "name": "51A Ayer Rajah Crescent",
    "address": "51A Ayer Rajah Crescent S(139956)",
-   "postalcode": "139956",
+   "postalcode": "Singapore (139956)",
    "lat": 1.29711,
    "lng": 103.78749
  },
@@ -1859,7 +1859,7 @@
    "id": 234,
    "name": "55 Ayer Rajah Crescent",
    "address": "55 Ayer Rajah Crescent S(139949)",
-   "postalcode": "139949",
+   "postalcode": "Singapore (139949)",
    "lat": 1.29444,
    "lng": 103.78705
  },
@@ -1867,7 +1867,7 @@
    "id": 235,
    "name": "67 Ayer Rajah Crescent",
    "address": "67 Ayer Rajah Crescent S(139950)",
-   "postalcode": "139950",
+   "postalcode": "Singapore (139950)",
    "lat": 1.2958,
    "lng": 103.78663
  },
@@ -1875,7 +1875,7 @@
    "id": 236,
    "name": "71 Ayer Rajah Crescent",
    "address": "71 Ayer Rajah Crescent S(139951)",
-   "postalcode": "139951",
+   "postalcode": "Singapore (139951)",
    "lat": 1.2968,
    "lng": 103.78675
  },
@@ -1883,7 +1883,7 @@
    "id": 237,
    "name": "73 Ayer Rajah Crescent",
    "address": "73 Ayer Rajah Crescent S(139952)",
-   "postalcode": "139952",
+   "postalcode": "Singapore (139952)",
    "lat": 1.29742,
    "lng": 103.78643
  },
@@ -1891,7 +1891,7 @@
    "id": 238,
    "name": "79 Ayer Rajah Crescent",
    "address": "79 Ayer Rajah Crescent S(139955)",
-   "postalcode": "139955",
+   "postalcode": "Singapore (139955)",
    "lat": 1.29802,
    "lng": 103.78744
  },
@@ -1899,7 +1899,7 @@
    "id": 239,
    "name": "CleanTech One",
    "address": "1 Clean Tech Loop S(637141)",
-   "postalcode": "637141",
+   "postalcode": "Singapore (637141)",
    "lat": 1.35558,
    "lng": 103.6923
  },
@@ -1907,7 +1907,7 @@
    "id": 240,
    "name": "CleanTech Two",
    "address": "3 Cleantech Loop S(637143)",
-   "postalcode": "637143",
+   "postalcode": "Singapore (637143)",
    "lat": 1.35515,
    "lng": 103.69347
  },
@@ -1915,7 +1915,7 @@
    "id": 241,
    "name": "JTC Surface Engineering Hub",
    "address": "8 Buroh Street S(627563)",
-   "postalcode": "627563",
+   "postalcode": "Singapore (627563)",
    "lat": 1.31127,
    "lng": 103.69989
  },
@@ -1923,7 +1923,7 @@
    "id": 242,
    "name": "Jurong Port Offshore Marine Centre",
    "address": "101 Tuas South Avenue 8 S(637423)",
-   "postalcode": "637423",
+   "postalcode": "Singapore (637423)",
    "lat": 1.29343,
    "lng": 103.643501
  },
@@ -1931,7 +1931,7 @@
    "id": 243,
    "name": "Ayer Rajah Amenity Centre",
    "address": "69 Ayer Rajah Crescent S(139961)",
-   "postalcode": "139961",
+   "postalcode": "Singapore (139961)",
    "lat": 1.29624,
    "lng": 103.78692
  },
@@ -1939,7 +1939,7 @@
    "id": 244,
    "name": "Jurong Port Road Food Centre",
    "address": "29A Jurong Port Road S(619112)",
-   "postalcode": "619112",
+   "postalcode": "Singapore (619112)",
    "lat": 1.30931,
    "lng": 103.71807
  },
@@ -1947,7 +1947,7 @@
    "id": 245,
    "name": "Jurong West Hawker Centre",
    "address": "50 Jurong West Street 61 S(648202)",
-   "postalcode": "648202",
+   "postalcode": "Singapore (648202)",
    "lat": 1.33833,
    "lng": 103.69855
  },
@@ -1955,7 +1955,7 @@
    "id": 246,
    "name": "Pasir Panjang Food Centre",
    "address": "121 Pasir Panjang Road S(118543)",
-   "postalcode": "118543",
+   "postalcode": "Singapore (118543)",
    "lat": 1.27616,
    "lng": 103.79125
  },
@@ -1963,7 +1963,7 @@
    "id": 247,
    "name": "Taman Jurong Market & Food Centre",
    "address": "3 Yung Sheng Road S(618499)",
-   "postalcode": "618499",
+   "postalcode": "Singapore (618499)",
    "lat": 1.33468,
    "lng": 103.72141
  },
@@ -1971,7 +1971,7 @@
    "id": 248,
    "name": "Timbre + Ayer Rajah Crescent Hawker Centre",
    "address": "73A Ayer Rajah Crescent S(139957)",
-   "postalcode": "139957",
+   "postalcode": "Singapore (139957)",
    "lat": 1.29744,
    "lng": 103.7875
  },
@@ -1979,7 +1979,7 @@
    "id": 249,
    "name": "Buona Vista MRT station",
    "address": "301 South Buona Vista Road S(118177)",
-   "postalcode": "118177",
+   "postalcode": "Singapore (118177)",
    "lat": 1.29326,
    "lng": 103.78447
  },
@@ -1987,7 +1987,7 @@
    "id": 250,
    "name": "Gul Circle Station",
    "address": "7A Tuas Road S(637288)",
-   "postalcode": "637288",
+   "postalcode": "Singapore (637288)",
    "lat": 1.3139,
    "lng": 103.65532
  },
@@ -1995,7 +1995,7 @@
    "id": 251,
    "name": "Haw Par Villa MRT station",
    "address": "200 Holland Avenue S(278995)",
-   "postalcode": "278995",
+   "postalcode": "Singapore (278995)",
    "lat": 1.31624,
    "lng": 103.788811
  },
@@ -2003,7 +2003,7 @@
    "id": 252,
    "name": "Kent Ridge MRT station",
    "address": "100 North Buona Vista Road S(139345)",
-   "postalcode": "139345",
+   "postalcode": "Singapore (139345)",
    "lat": 1.30728,
    "lng": 103.79006
  },
@@ -2011,7 +2011,7 @@
    "id": 253,
    "name": "Labrador Park MRT station",
    "address": "100 Cluny Park Road S(257494)",
-   "postalcode": "257494",
+   "postalcode": "Singapore (257494)",
    "lat": 1.32218,
    "lng": 103.81473
  },
@@ -2019,7 +2019,7 @@
    "id": 254,
    "name": "One North MRT station",
    "address": "9 Ayer Rajah Avenue S(138647)",
-   "postalcode": "138647",
+   "postalcode": "Singapore (138647)",
    "lat": 1.29879,
    "lng": 103.78701
  },
@@ -2027,7 +2027,7 @@
    "id": 255,
    "name": "Pasir Panjang MRT station",
    "address": "71 Farrer Road S(268857)",
-   "postalcode": "268857",
+   "postalcode": "Singapore (268857)",
    "lat": 1.31741,
    "lng": 103.80729
  },
@@ -2035,7 +2035,7 @@
    "id": 256,
    "name": "Telok Blangah MRT station",
    "address": "38 Toa Payoh Rise S(298113)",
-   "postalcode": "298113",
+   "postalcode": "Singapore (298113)",
    "lat": 1.33767,
    "lng": 103.83948
  },
@@ -2043,7 +2043,7 @@
    "id": 257,
    "name": "Tuas Crescent MRT Station",
    "address": "90 Pioneer Road S(639608)",
-   "postalcode": "639608",
+   "postalcode": "Singapore (639608)",
    "lat": 1.32447,
    "lng": 103.645332
  },
@@ -2051,7 +2051,7 @@
    "id": 258,
    "name": "Tuas Link MRT Station",
    "address": "20 Tuas West Drive S(638418)",
-   "postalcode": "638418",
+   "postalcode": "Singapore (638418)",
    "lat": 1.33263,
    "lng": 103.63402
  },
@@ -2059,7 +2059,7 @@
    "id": 259,
    "name": "Tuas West MRT Station",
    "address": "131 Pioneer Road S(639609)",
-   "postalcode": "639609",
+   "postalcode": "Singapore (639609)",
    "lat": 1.325798,
    "lng": 103.647781
  },
@@ -2067,7 +2067,7 @@
    "id": 260,
    "name": "Jurong Eco Garden",
    "address": "1 Cleantech Loop Singapore S(637141)",
-   "postalcode": "637141",
+   "postalcode": "Singapore (637141)",
    "lat": 1.35558,
    "lng": 103.6923
  },
@@ -2075,7 +2075,7 @@
    "id": 261,
    "name": "Samwoh Eco Green Building",
    "address": "51 Kranji Crescent S(728661)",
-   "postalcode": "728661",
+   "postalcode": "Singapore (728661)",
    "lat": 1.4323,
    "lng": 103.74976
  },
@@ -2083,7 +2083,7 @@
    "id": 262,
    "name": "Depot Height Shopping Centre",
    "address": "108 Depot Road S(100108)",
-   "postalcode": "100108",
+   "postalcode": "Singapore (100108)",
    "lat": 1.2812,
    "lng": 103.81027
  },
@@ -2091,7 +2091,7 @@
    "id": 263,
    "name": "Gek Poh Shopping Centre",
    "address": "Blk 762 Jurong West Street 75 S(640762)",
-   "postalcode": "640762",
+   "postalcode": "Singapore (640762)",
    "lat": 1.34871,
    "lng": 103.69788
  },
@@ -2099,7 +2099,7 @@
    "id": 264,
    "name": "Greenridge Shopping Centre",
    "address": "524A Jelapang Road S(671524)",
-   "postalcode": "671524",
+   "postalcode": "Singapore (671524)",
    "lat": 1.38533,
    "lng": 103.76625
  },
@@ -2107,7 +2107,7 @@
    "id": 265,
    "name": "Greenridge Shopping Centre",
    "address": "524A Jelapang Road S(671524)",
-   "postalcode": "671524",
+   "postalcode": "Singapore (671524)",
    "lat": 1.38533,
    "lng": 103.76625
  },
@@ -2115,7 +2115,7 @@
    "id": 266,
    "name": "Jurong Point Shopping Centre",
    "address": "1 Jurong West Central 2 #03-07 Jurong Point Shopping Centre S(648886)",
-   "postalcode": "648886",
+   "postalcode": "Singapore (648886)",
    "lat": 1.33954,
    "lng": 103.70691
  },
@@ -2123,7 +2123,7 @@
    "id": 267,
    "name": "Limbang Shopping Centre",
    "address": "532 Choa Chu Kang Street 51 S(680532)",
-   "postalcode": "680532",
+   "postalcode": "Singapore (680532)",
    "lat": 1.39129,
    "lng": 103.74358
  },
@@ -2131,7 +2131,7 @@
    "id": 268,
    "name": "Pasir Ris West Plaza",
    "address": "Blk 735 Pasir Ris Street 72 S(510735)",
-   "postalcode": "510735",
+   "postalcode": "Singapore (510735)",
    "lat": 1.37927,
    "lng": 103.93595
  },
@@ -2139,7 +2139,7 @@
    "id": 269,
    "name": "Pioneer Mall",
    "address": "638 Jurong West Street 61 S(640638)",
-   "postalcode": "640638",
+   "postalcode": "Singapore (640638)",
    "lat": 1.34167,
    "lng": 103.69721
  },
@@ -2147,7 +2147,7 @@
    "id": 270,
    "name": "Sunshine Place",
    "address": "475 Choa Chu Kang Avenue 3 S(680475)",
-   "postalcode": "680475",
+   "postalcode": "Singapore (680475)",
    "lat": 1.37787,
    "lng": 103.73903
  },
@@ -2155,7 +2155,7 @@
    "id": 271,
    "name": "Taman Jurong Shopping Centre",
    "address": "Blk 399 Yung Sheng Road (Near Party World/NTUC)(610399)",
-   "postalcode": "610399",
+   "postalcode": "Singapore (610399)",
    "lat": 1.33452,
    "lng": 103.72058
  },
@@ -2163,7 +2163,7 @@
    "id": 272,
    "name": "Yew Tee Square",
    "address": "624 Choa Chu Kang Street 62 S(680624)",
-   "postalcode": "680624",
+   "postalcode": "Singapore (680624)",
    "lat": 1.3979,
    "lng": 103.74695
  }
