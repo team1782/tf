@@ -12,18 +12,6 @@ import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
 
-var firebaseConfig = {
-  apiKey: "HIDDEN",
-  authDomain: "toiletfinderdb18.firebaseapp.com",
-  databaseURL: "https://toiletfinderdb18.firebaseio.com",
-  projectId: "toiletfinderdb18",
-  storageBucket: "toiletfinderdb18.appspot.com",
-  messagingSenderId: "39297120693",
-  appId: "1:39297120693:web:09303d58aa5f8a30"
-};
-
-firebase.initializeApp(firebaseConfig);
-
 const { width, height } = Dimensions.get("window");
 
 const MAPS_API_KEY = "HIDDEN";
@@ -41,22 +29,12 @@ const styles = StyleSheet.create({
   }
 });
 
-export default class MapScreen extends Component {
+export default class MapScreen2 extends Component {
   constructor(props) {
     super(props);
     this.state = {
       toilets: [],
-      initialPosition: {
-        latitude: 0,
-        longitude: 0,
-        latitudeDelta: 0,
-        longitudeDelta: 0
-      },
-      markerPosition: {
-        latitude: 0,
-        longitude: 0
-      },
-      mapMargin: 1
+      mapMargin: 1,
     };
     this.setMargin = this.setMargin.bind(this);
     this.readCoordsData = this.readCoordsData.bind(this);
@@ -88,55 +66,11 @@ export default class MapScreen extends Component {
 
   componentDidMount() {
     this.readCoordsData();
-    navigator.geolocation.getCurrentPosition(
-      position => {
-        var lat = position.coords.latitude;
-        var long = position.coords.longitude;
-        var initialRegion = {
-          latitude: lat,
-          longitude: long,
-          latitudeDelta: LATITUDE_DELTA,
-          longitudeDelta: LONGITUDE_DELTA
-        };
-        this.setState({ initialPosition: initialRegion });
-        this.setState({ markerPosition: initialRegion });
-      },
-      error => console.log(error),
-      { timeout: 30000 }
-    );
-
-    this.watchID = navigator.geolocation.watchPosition(position => {
-      var lat = parseFloat(position.coords.latitude);
-      var long = parseFloat(position.coords.longitude);
-
-      var lastRegion = {
-        latitude: lat,
-        longitude: long,
-        longitudeDelta: LONGITUDE_DELTA,
-        latitudeDelta: LATITUDE_DELTA
-      };
-
-      this.setState({ initialPosition: lastRegion });
-      this.setState({ markerPosition: lastRegion });
-    });
-  }
-
-  componentWillUnmount() {
-    navigator.geolocation.clearWatch(this.watchID);
   }
 
   componentDidUpdate() {
     this.map.fitToElements(true);
   }
-
-  //CAN'T GET animateToRegion method to work
-
-  // goToInitialRegion() {
-  //   let initialRegion = Object.assign({}, this.state.initialPosition);
-  //   initialRegion["latitudeDelta"] = 0.005;
-  //   initialRegion["longitudeDelta"] = 0.005;
-  //   this.mapView.animateToRegion(initialRegion, 2000);
-  // }
 
   static navigationOptions = {
     title: "Map",
@@ -144,6 +78,8 @@ export default class MapScreen extends Component {
   };
 
   render() {
+    const { navigation } = this.props;
+    const inputLocation = navigation.getParam('inputLocation', "did not go through");
     return (
       <Container>
         <MyHeader />
@@ -156,9 +92,8 @@ export default class MapScreen extends Component {
           }}
           provider={PROVIDER_GOOGLE}
           style={{ flex: 1, marginBottom: this.state.mapMargin }}
-          region={this.state.initialPosition}
+          region={inputLocation}
           showsUserLocation={true}
-          zoomEnabled={true}
           showsMyLocationButton={true}
           followsUserLocation={true} //iOS ONLY
           onMapReady={this.setMargin}
@@ -167,7 +102,7 @@ export default class MapScreen extends Component {
             ref={marker => {
               this.marker = marker;
             }}
-            coordinate={this.state.markerPosition}
+            coordinate={inputLocation}
           />
           {this.state.toilets.map(toilet => {
             return (
@@ -188,6 +123,6 @@ export default class MapScreen extends Component {
   }
 }
 
-MapScreen.propTypes = {
+MapScreen2.propTypes = {
   provider: MapView.ProviderPropType
 };
