@@ -24,7 +24,6 @@ class Inputter extends Component {
     this.renderConditionally = this.renderConditionally.bind(this);
   }
 
-
   renderConditionally() {
     if (this.state.address == "") {
       alert("You have not typed in your location!");
@@ -65,6 +64,5 @@ class Inputter extends Component {
     );
   }
 }
-
 
 export default withNavigation(Inputter);
