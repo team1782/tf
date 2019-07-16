@@ -4,13 +4,13 @@ import {
   StyleSheet,
   StatusBar,
   Dimensions,
-  PermissionsAndroid
 } from "react-native";
 import { Container } from "native-base";
 import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
+import MapViewDirections from "react-native-maps-directions";
 
 var firebaseConfig = {
   apiKey: "HIDDEN",
@@ -26,10 +26,7 @@ firebase.initializeApp(firebaseConfig);
 
 const { width, height } = Dimensions.get("window");
 
-const MAPS_API_KEY = "HIDDEN";
 const ASPECT_RATIO = width / height;
-const LATITUDE = 1.297136;
-const LONGITUDE = 103.777527;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 
@@ -56,21 +53,22 @@ export default class MapScreen extends Component {
         latitude: 0,
         longitude: 0
       },
-      mapMargin: 1
+      mapMargin: 1,
+      markerPressed: false,
+      origin: {
+        latitude: 0,
+        longitude: 0
+      },
+      destination: {
+        latitude: 0,
+        longitude: 0
+      }
     };
-    this.setMargin = this.setMargin.bind(this);
     this.readCoordsData = this.readCoordsData.bind(this);
+    this._renderMapDirections = _renderMapDirections.bind(this);
   }
 
   watchID: ?number = null;
-
-  setMargin() {
-    PermissionsAndroid.request(
-      PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION
-    ).then(granted => {
-      this.setState({ mapMargin: 0 });
-    });
-  }
 
   readCoordsData = () => {
     firebase
@@ -125,7 +123,7 @@ export default class MapScreen extends Component {
     navigator.geolocation.clearWatch(this.watchID);
   }
 
-  componentDidUpdate() {
+  componentWillUpdate() {
     this.map.fitToElements(true);
   }
 
@@ -161,7 +159,10 @@ export default class MapScreen extends Component {
           zoomEnabled={true}
           showsMyLocationButton={true}
           followsUserLocation={true} //iOS ONLY
-          onMapReady={this.setMargin}
+          toolbarEnabled={true}
+          loadingEnabled={true}
+          loadingIndicatorColor={"#ffffff"}
+          loadingBackgroundColor={"#4f6d7a"}
         >
           <MapView.Marker
             ref={marker => {
@@ -179,11 +180,30 @@ export default class MapScreen extends Component {
                 title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
                 key={toilet.id}
+                onPress={() => {
+                  this.setState({markerPressed: !this.state.markerPressed, origin: this.state.initialPosition, destination: {latitude: toilet.lat, longitude: toilet.lng}})
+                }}
               />
             );
           })}
+          {this._renderMapDirections()}
         </MapView>
       </Container>
+    );
+  }
+}
+
+function _renderMapDirections() {
+  if (this.state.markerPressed) {
+    return (
+      <MapViewDirections
+        origin={this.state.origin}
+        destination={this.state.destination}
+        apikey={"HIDDEN"}
+        strokeWidth={3}
+        mode="WALKING"
+        strokeColor="blue"
+      />
     );
   }
 }
