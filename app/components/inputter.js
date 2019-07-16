@@ -66,4 +66,5 @@ class Inputter extends Component {
   }
 }
 
+
 export default withNavigation(Inputter);
