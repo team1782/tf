@@ -3,7 +3,6 @@ import {
   View,
   StyleSheet,
   StatusBar,
-  Dimensions,
   PermissionsAndroid
 } from "react-native";
 import { Container } from "native-base";
@@ -11,15 +10,7 @@ import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
-
-const { width, height } = Dimensions.get("window");
-
-const MAPS_API_KEY = "HIDDEN";
-const ASPECT_RATIO = width / height;
-const LATITUDE = 1.297136;
-const LONGITUDE = 103.777527;
-const LATITUDE_DELTA = 0.0922;
-const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
+import MapViewDirections from "react-native-maps-directions";
 
 const styles = StyleSheet.create({
   wrapper: {
@@ -35,9 +26,19 @@ export default class MapScreen2 extends Component {
     this.state = {
       toilets: [],
       mapMargin: 1,
+      markerPressed: false,
+      origin: {
+        latitude: 0,
+        longitude: 0
+      },
+      destination: {
+        latitude: 0,
+        longitude: 0
+      }
     };
     this.setMargin = this.setMargin.bind(this);
     this.readCoordsData = this.readCoordsData.bind(this);
+    this.renderMapDirections = renderMapDirections.bind(this);
   }
 
   watchID: ?number = null;
@@ -95,8 +96,12 @@ export default class MapScreen2 extends Component {
           region={inputLocation}
           showsUserLocation={true}
           showsMyLocationButton={true}
+          toolbarEnabled={true}
+          loadingEnabled={true}
           followsUserLocation={true} //iOS ONLY
           onMapReady={this.setMargin}
+          loadingIndicatorColor={"#ffffff"}
+          loadingBackgroundColor={"#4f6d7a"}
         >
           <MapView.Marker
             ref={marker => {
@@ -114,11 +119,30 @@ export default class MapScreen2 extends Component {
                 title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
                 key={toilet.id}
+                onPress={() => {
+                  this.setState({markerPressed: !this.state.markerPressed, origin: inputLocation, destination: {latitude: toilet.lat, longitude: toilet.lng}})
+                }}
               />
             );
           })}
+          {this.renderMapDirections()}
         </MapView>
       </Container>
+    );
+  }
+}
+
+function renderMapDirections() {
+  if (this.state.markerPressed) {
+    return (
+      <MapViewDirections
+        origin={this.state.origin}
+        destination={this.state.destination}
+        apikey={"HIDDEN"}
+        strokeWidth={3}
+        mode="WALKING"
+        strokeColor="blue"
+      />
     );
   }
 }
