@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import { Container } from "native-base";
 import { View, StyleSheet, StatusBar, Button } from "react-native";
 import MyHeader from "./components/myheader";
-import DropCode from "./components/dropcode";
-import DropCode2 from "./components/dropcode2";
+import Inputter from "./components/inputter";
+import YourLocation from "./components/yourlocation";
 
 export default class HomeScreen extends Component {
   static navigationOptions = {
@@ -11,21 +11,15 @@ export default class HomeScreen extends Component {
   };
 
   render() {
+    const { navigation } = this.props;
     return (
       <Container>
         <MyHeader />
         <View style={styles.wrapper}>
           <StatusBar backgroundColor="#4f6d7a" />
         </View>
-        <DropCode />
-        <DropCode2 />
-        <View style={styles.bottomView}> 
-          <Button
-            color="#4f6d7a"
-            onPress={() => this.props.navigation.navigate("Map")}
-            title="GO!"
-          />
-        </View>
+        <Inputter nav={navigation} />
+        <YourLocation nav={navigation} />
       </Container>
     );
   }
@@ -37,10 +31,4 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center"
   },
-  bottomView: {
-    height: 50,
-    width: '100%',
-    position: 'absolute',
-    bottom: 0
-  }
 });
