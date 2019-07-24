@@ -7,9 +7,10 @@ import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
 import MapViewDirections from "react-native-maps-directions";
 import { withNavigation } from "react-navigation";
+import Config from 'react-native-config';
 
 const { width, height } = Dimensions.get("window");
-
+const API_KEY = Config.API_KEY;
 const ASPECT_RATIO = width / height;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
@@ -163,7 +164,7 @@ class Navigation extends Component {
           <MapViewDirections
           origin={from2}
           destination={to2}
-          apikey={"AIzaSyDBnrDdsjVd5yxDaRPzOgpRFjmGjM7jXD4"}
+          apikey={API_KEY}
           strokeWidth={3}
           mode="WALKING"
           strokeColor="blue"

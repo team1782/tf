@@ -10,10 +10,10 @@ import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
-import MapViewDirections from "react-native-maps-directions";
+import Config from 'react-native-config';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBxyaS4-BSWBgsUdV32jytZM21bAI_MOeY",
+  apiKey: Config.F_API_KEY,
   authDomain: "toiletfinderdb18.firebaseapp.com",
   databaseURL: "https://toiletfinderdb18.firebaseio.com",
   projectId: "toiletfinderdb18",

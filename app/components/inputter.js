@@ -3,11 +3,14 @@ import { View, TextInput, Button, Dimensions } from "react-native";
 import { Container } from "native-base";
 import { withNavigation } from "react-navigation";
 import Geocoder from "react-native-geocoding";
+import Config from 'react-native-config';
 
 const { width, height } = Dimensions.get("window");
 const ASPECT_RATIO = width / height;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
+const GEOCODING_API_KEY = Config.API_KEY;
+console.log(GEOCODING_API_KEY);
 
 class Inputter extends Component {
   constructor(props) {
@@ -28,7 +31,7 @@ class Inputter extends Component {
     if (this.state.address == "") {
       alert("You have not typed in your location!");
     } else {
-      Geocoder.init("AIzaSyDBnrDdsjVd5yxDaRPzOgpRFjmGjM7jXD4");
+      Geocoder.init(GEOCODING_API_KEY);
       Geocoder.from(this.state.address).then(json => {
       var location = json.results[0].geometry.location;
       var userP = {
