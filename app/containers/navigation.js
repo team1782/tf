@@ -1,28 +1,12 @@
 import React, { Component } from "react";
-import {
-  View,
-  StyleSheet,
-  StatusBar,
-  Dimensions,
-} from "react-native";
+import { View, StyleSheet, StatusBar, Dimensions } from "react-native";
 import { Container } from "native-base";
 import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
 import MapViewDirections from "react-native-maps-directions";
-
-var firebaseConfig = {
-  apiKey: "AIzaSyBxyaS4-BSWBgsUdV32jytZM21bAI_MOeY",
-  authDomain: "toiletfinderdb18.firebaseapp.com",
-  databaseURL: "https://toiletfinderdb18.firebaseio.com",
-  projectId: "toiletfinderdb18",
-  storageBucket: "toiletfinderdb18.appspot.com",
-  messagingSenderId: "39297120693",
-  appId: "1:39297120693:web:09303d58aa5f8a30"
-};
-
-firebase.initializeApp(firebaseConfig);
+import { withNavigation } from "react-navigation";
 
 const { width, height } = Dimensions.get("window");
 
@@ -38,7 +22,7 @@ const styles = StyleSheet.create({
   }
 });
 
-export default class MapScreen extends Component {
+class Navigation extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -55,6 +39,14 @@ export default class MapScreen extends Component {
       },
       mapMargin: 1,
       markerPressed: false,
+      origin: {
+        latitude: 0,
+        longitude: 0
+      },
+      destination: {
+        latitude: 0,
+        longitude: 0
+      }
     };
     this.readCoordsData = this.readCoordsData.bind(this);
   }
@@ -124,6 +116,9 @@ export default class MapScreen extends Component {
   };
 
   render() {
+    const { navigation } = this.props;
+    const from2 = navigation.getParam("from2", "did not go through");
+    const to2 = navigation.getParam("to2", "did not go through");
     return (
       <Container>
         <MyHeader />
@@ -162,24 +157,25 @@ export default class MapScreen extends Component {
                 title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
                 key={toilet.id}
-                onPress={() => this.props.navigation.navigate("Toilet", {
-                  toiletName: toilet.name,
-                  toiletAddress: toilet.address,
-                  from: this.state.initialPosition,
-                  to: {
-                    latitude: toilet.lat,
-                    longitude: toilet.lng
-                  }
-                })}
               />
             );
           })}
+          <MapViewDirections
+          origin={from2}
+          destination={to2}
+          apikey={"AIzaSyDBnrDdsjVd5yxDaRPzOgpRFjmGjM7jXD4"}
+          strokeWidth={3}
+          mode="WALKING"
+          strokeColor="blue"
+        />
         </MapView>
       </Container>
     );
   }
 }
 
-MapScreen.propTypes = {
+Navigation.propTypes = {
   provider: MapView.ProviderPropType
 };
+
+export default withNavigation(Navigation);

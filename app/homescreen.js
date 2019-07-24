@@ -19,11 +19,11 @@ export default class HomeScreen extends Component {
             <StatusBar backgroundColor="#4f6d7a" />
           </View>
           <Inputter nav={navigation} />
-          <View style={styles.image}>
+          {/* <View style={styles.image}>
           <Image
             source={require("../assets/images/icon.png")}
           />
-          </View>
+          </View> */}
           <YourLocation nav={navigation} />
       </Container>
     );

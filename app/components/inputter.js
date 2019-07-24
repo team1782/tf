@@ -28,7 +28,7 @@ class Inputter extends Component {
     if (this.state.address == "") {
       alert("You have not typed in your location!");
     } else {
-      Geocoder.init("HIDDEN");
+      Geocoder.init("AIzaSyDBnrDdsjVd5yxDaRPzOgpRFjmGjM7jXD4");
       Geocoder.from(this.state.address).then(json => {
       var location = json.results[0].geometry.location;
       var userP = {
