@@ -162,7 +162,7 @@ export default class MapScreen extends Component {
                 title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
                 key={toilet.id}
-                onPress={() => this.props.navigation.navigate("Toilet", {
+                onPress={() => this.props.navigation.replace("Toilet", {
                   toiletName: toilet.name,
                   toiletAddress: toilet.address,
                   from: this.state.initialPosition,
