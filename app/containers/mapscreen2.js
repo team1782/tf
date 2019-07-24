@@ -10,7 +10,6 @@ import MyHeader from "../components/myheader";
 import "firebase/database";
 import * as firebase from "firebase/app";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
-import MapViewDirections from "react-native-maps-directions";
 
 const styles = StyleSheet.create({
   wrapper: {
@@ -26,19 +25,9 @@ export default class MapScreen2 extends Component {
     this.state = {
       toilets: [],
       mapMargin: 1,
-      markerPressed: false,
-      origin: {
-        latitude: 0,
-        longitude: 0
-      },
-      destination: {
-        latitude: 0,
-        longitude: 0
-      }
     };
     this.setMargin = this.setMargin.bind(this);
     this.readCoordsData = this.readCoordsData.bind(this);
-    this.renderMapDirections = renderMapDirections.bind(this);
   }
 
   watchID: ?number = null;
@@ -119,30 +108,20 @@ export default class MapScreen2 extends Component {
                 title={toilet.name}
                 image={require("../../assets/images/toiletMarker.png")}
                 key={toilet.id}
-                onPress={() => {
-                  this.setState({markerPressed: !this.state.markerPressed, origin: inputLocation, destination: {latitude: toilet.lat, longitude: toilet.lng}})
-                }}
+                onPress={() => this.props.navigation.navigate("Toilet", {
+                  toiletName: toilet.name,
+                  toiletAddress: toilet.address,
+                  from: inputLocation,
+                  to: {
+                    latitude: toilet.lat,
+                    longitude: toilet.lng
+                  }
+                })}
               />
             );
           })}
-          {this.renderMapDirections()}
         </MapView>
       </Container>
-    );
-  }
-}
-
-function renderMapDirections() {
-  if (this.state.markerPressed) {
-    return (
-      <MapViewDirections
-        origin={this.state.origin}
-        destination={this.state.destination}
-        apikey={"HIDDEN"}
-        strokeWidth={3}
-        mode="WALKING"
-        strokeColor="blue"
-      />
     );
   }
 }
