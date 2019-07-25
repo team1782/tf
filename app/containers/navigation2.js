@@ -23,20 +23,20 @@ const styles = StyleSheet.create({
   }
 });
 
-class Navigation extends Component {
+class Navigation2 extends Component {
   constructor(props) {
     super(props);
     this.state = {
       toilets: [],
       initialPosition: {
-        latitude: 0,
-        longitude: 0,
-        latitudeDelta: 0,
-        longitudeDelta: 0
+        latitude: 1.3521,
+        longitude: 103.8198,
+        latitudeDelta: LATITUDE_DELTA,
+        longitudeDelta: LONGITUDE_DELTA
       },
       markerPosition: {
-        latitude: 0,
-        longitude: 0
+        latitude: LATITUDE_DELTA,
+        longitude: LONGITUDE_DELTA
       },
       mapMargin: 1,
     };
@@ -61,41 +61,6 @@ class Navigation extends Component {
 
   componentDidMount() {
     this.readCoordsData();
-    navigator.geolocation.getCurrentPosition(
-      position => {
-        var lat = position.coords.latitude;
-        var long = position.coords.longitude;
-        var initialRegion = {
-          latitude: lat,
-          longitude: long,
-          latitudeDelta: LATITUDE_DELTA,
-          longitudeDelta: LONGITUDE_DELTA
-        };
-        this.setState({ initialPosition: initialRegion });
-        this.setState({ markerPosition: initialRegion });
-      },
-      error => console.log(error),
-      { timeout: 30000 }
-    );
-
-    this.watchID = navigator.geolocation.watchPosition(position => {
-      var lat = parseFloat(position.coords.latitude);
-      var long = parseFloat(position.coords.longitude);
-
-      var lastRegion = {
-        latitude: lat,
-        longitude: long,
-        longitudeDelta: LONGITUDE_DELTA,
-        latitudeDelta: LATITUDE_DELTA
-      };
-
-      this.setState({ initialPosition: lastRegion });
-      this.setState({ markerPosition: lastRegion });
-    });
-  }
-
-  componentWillUnmount() {
-    navigator.geolocation.clearWatch(this.watchID);
   }
 
   componentWillUpdate() {
@@ -166,8 +131,8 @@ class Navigation extends Component {
   }
 }
 
-Navigation.propTypes = {
+Navigation2.propTypes = {
   provider: MapView.ProviderPropType
 };
 
-export default withNavigation(Navigation);
+export default withNavigation(Navigation2);
