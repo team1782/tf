@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { View, StyleSheet, StatusBar, Dimensions } from "react-native";
+import { View, StyleSheet, StatusBar, Dimensions, Button } from "react-native";
 import { Container } from "native-base";
 import MyHeader from "../components/myheader";
 import "firebase/database";
@@ -20,6 +20,12 @@ const styles = StyleSheet.create({
     backgroundColor: "#4f6d7a",
     justifyContent: "center",
     alignItems: "center"
+  },
+  bottomView: {
+    height: 50,
+    width: "100%",
+    position: "absolute",
+    bottom: 0
   }
 });
 
@@ -161,6 +167,13 @@ class Navigation extends Component {
           strokeColor="blue"
         />
         </MapView>
+        <View style={styles.bottomView}>
+          <Button
+            color="#4f6d7a"
+            onPress={() => this.props.navigation.navigate("Toilet")}
+            title="Write a Review for this Toilet?"
+          />
+        </View>
       </Container>
     );
   }

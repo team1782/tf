@@ -10,7 +10,6 @@ const ASPECT_RATIO = width / height;
 const LATITUDE_DELTA = 0.0922;
 const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO;
 const GEOCODING_API_KEY = Config.API_KEY;
-console.log(GEOCODING_API_KEY);
 
 class Inputter extends Component {
   constructor(props) {
