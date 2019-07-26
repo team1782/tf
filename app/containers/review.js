@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 import { Container } from "native-base";
-import { View, StyleSheet, StatusBar } from "react-native";
-import MyHeader from "./components/myheader";
-import Inputter from "./components/inputter";
-import YourLocation from "./components/yourlocation";
+import { View, StyleSheet, StatusBar, Text } from "react-native";
+import MyHeader from "../components/myheader";
 
 export default class HomeScreen extends Component {
   static navigationOptions = {
@@ -16,14 +14,16 @@ export default class HomeScreen extends Component {
 
   render() {
     const { navigation } = this.props;
+    const key = navigation.getParam("key", "did not go through");
     return (
       <Container>
         <MyHeader />
         <View style={styles.wrapper}>
           <StatusBar backgroundColor="#4f6d7a" />
         </View>
-        <Inputter nav={navigation} />
-        <YourLocation nav={navigation} />
+        <View>
+          <Text>This toilet's key is: {key}</Text>
+        </View>
       </Container>
     );
   }

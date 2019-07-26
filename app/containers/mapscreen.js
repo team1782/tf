@@ -169,7 +169,8 @@ export default class MapScreen extends Component {
                   to: {
                     latitude: toilet.lat,
                     longitude: toilet.lng
-                  }
+                  },
+                  id: toilet.id
                 })}
               />
             );
