@@ -48,9 +48,8 @@ As an admin, I can delete the reviews submitted by users if they make use of ina
 
 ## 3. Features
 
-### 3.1. Inputting of Location
-
-The drop down menu displays the locations of currently registered toilets in singapore. Users can select one and click on the “GO!” button to be redirected to the maps screen.
+### 3.1. Maps
+The Map Screen displays all registered toilets in Singapore. Users can zoom in to retrieve more details associated with the toilet by pressing on the toilet icons shown on the map.
 
 Registered Toilets are those in:
 * Hawker Centres
@@ -67,16 +66,27 @@ Registered Toilets are those in:
 * Dormitories
 * Industrial Complexes
 
-### 3.2. Maps
-The Map Screen displays all registered toilets in Singapore. Users can zoom in to retrieve more details associated with the toilet by pressing on the toilet icons shown on the map.
+### 3.2. Inputting of Location
+Upon typing in your location and hitting 'enter', the map will display the locations of all currently registered toilets in singapore. Users can select desired toilet by tapping on the marker. The screen then shows information on that toilet, and users can choose to navigate from where they are or to view the reviews available for that toilet.
 
-### 3.3. Features to be implemented
-1. GPS to retrieve user's current location
-2. Navigation to the chosen toilet (through AR and normal maps)
-3. Cleanliness Ratings
+### 3.3. GPS Location
+Users can also choose to let their GPS technology do their work! Simply by tapping on "Your Location", users will be transported to the next screen where the map immediately shows the nearest toilets. Thereafter the procedures are the same - select desired toilet -> navigate towards it, or browse through the reviews.
 
+### 3.4. Navigation
+Navigation can be selected from both manual-input of address, as well as GPS-based location to the desired toilet. As users tap on the desired toilet, the shortest distance will be mapped out from his/her location to the toilet.
+
+### 3.5. Reviews
+
+#### 3.5.1 Star Reviews
+A review system is also in place for you to submit your reviews for that particular toilet. You can also choose to rate the cleanliness and quality of the toilet out of 5 stars. An averaged star-rating score is also indicated on the review page for your reference.
+
+#### 3.5.2 Typed Reviews
+In the scenario where you may either encounter an extraordinarily clean toilet, or a shockingly nasty toilet, you may choose to submit a typed-review for all to browse through. 
+
+###  3.6. Feedback System
+A feedback system has been implemented for all users to contribute constructive feedback for us to improve on our ToiletFinder app. The button can selected on from the home screen at the bottom, just as you launch our app. 
 
 ## 4. FAQ
-*Q*: Can I manually input a location that is not in the searchable dropdown menu?
+*Q*: What if I there is a toilet that exists but not indicated on the map?
 
-*A*: Yes you can! You will be able to manually key in a location in future updates.
+*A*: Please do write in to us and we will implement the toilet in the app as soon as possible.
