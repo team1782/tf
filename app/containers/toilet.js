@@ -63,10 +63,7 @@ class Toilet extends Component {
       this.writeUserData(key, newRating, newNum, newTotal);
       this.setState({ starCount: newRating });
     } else {
-      alert(
-        "Have a Nice Day!",
-        "You have already reviewed this toilet! Thank you!"
-      );
+      Alert.alert("Have a Nice Day!","You have already reviewed this toilet! Thank you!");
     }
   }
 
