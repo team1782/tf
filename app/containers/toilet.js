@@ -31,12 +31,13 @@ class Toilet extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      starCount: 3,
+      starCount: 0,
       starCountForUser: 0,
       userAssessed: false,
       id: 0,
       ratingRetrieved: false,
-      numberOfReviews: 1
+      numberOfReviews: 1,
+      total: 0
     };
   }
 
@@ -45,26 +46,38 @@ class Toilet extends Component {
     headerRight: <View />
   };
 
+  componentDidMount() {
+    const { navigation } = this.props;
+    const id = navigation.getParam("id", "did not go through");
+
+    this.setState({ id: id });
+    this.getUserRating(id);
+  }
+
   UserAssess(key, rating) {
     if (!this.state.userAssessed) {
-      this.setState({ id: key });
       this.state.userAssessed = true;
       const newNum = this.state.numberOfReviews + 1;
-      const newRating = (this.state.starCount + rating) / newNum;
-      this.writeUserData(key, newRating, newNum);
+      const newTotal = this.state.total + rating;
+      const newRating = newTotal / newNum;
+      this.writeUserData(key, newRating, newNum, newTotal);
       this.setState({ starCount: newRating });
     } else {
-      alert("Have a Nice Day!","You have already reviewed this toilet! Thank you!");
+      alert(
+        "Have a Nice Day!",
+        "You have already reviewed this toilet! Thank you!"
+      );
     }
   }
 
-  writeUserData(key, star, num) {
+  writeUserData(key, star, num, total) {
     firebase
       .database()
       .ref("stars/" + String(key))
       .set({
         num,
-        star
+        star,
+        total
       })
       .then(data => {
         //success callback
@@ -77,18 +90,16 @@ class Toilet extends Component {
   }
 
   getUserRating(key) {
-    if (!this.state.ratingRetrieved) {
-      this.state.ratingRetrieved = true;
-      firebase
-        .database()
-        .ref("stars/" + String(key))
-        .once("value", snapshot => {
-          const state = snapshot.val();
-          this.setState({ starCount: state.star });
-          this.setState({ numberOfReviews: state.num });
-        });
-      console.log("DATA RETRIEVED");
-    }
+    firebase
+      .database()
+      .ref("stars/" + String(key))
+      .once("value", snapshot => {
+        const state = snapshot.val();
+        this.setState({ total: state.total });
+        this.setState({ numberOfReviews: state.num });
+        this.setState({ starCount: state.star });
+      });
+    console.log("DATA RETRIEVED");
   }
 
   render() {
@@ -165,7 +176,6 @@ class Toilet extends Component {
             title="Navigate there!"
           />
         </View>
-        {this.getUserRating(id)}
       </Container>
     );
   }
