@@ -40,6 +40,7 @@
 * Fork this repo and clone the fork to your computer.
 * Open a console in the folder of the cloned files.
 * Run npm install.
+
  `"firebase": "^6.2.4"`
 
  `"native-base": "^2.12.1",`
