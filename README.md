@@ -56,5 +56,6 @@ These applications are also missing 2 key features
 
 ## Credits/Acknowledgement
 
-[Author A](https://github.com/shaunnmui97)
-[Author B](https://github.com/hazletnj)
+* [Author A](https://github.com/shaunnmui97)
+
+* [Author B](https://github.com/hazletnj)
