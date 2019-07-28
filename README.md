@@ -53,3 +53,8 @@ These applications are also missing 2 key features
 2. Feedback system for Developers
 
 ## Scroll up to Site Map and head over for a comprehensive User Guide and Developer Guide!
+
+## Credits/Acknowledgement
+
+[Author A](https://github.com/shaunnmui97)
+[Author B](https://github.com/hazletnj)
