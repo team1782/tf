@@ -52,35 +52,41 @@ As an admin, I can delete the reviews submitted by users if they make use of ina
 1. Ensure that the app is installed on your phone and press on it to start the app.
 
 
-2. The screen will first display the loading screen.
+2. The screen will first display the loading screen upon startup of the app.
 ![Loading screen](https://github.com/team1782/tf/blob/master/assets/images/loading%20screen.PNG)
+
 
 
 3. After a few seconds, the screen will transit into the home screen.
 ![Home Screen](https://github.com/team1782/tf/blob/master/assets/images/home%20screen.PNG)
 			
 
+
 4. Users can then either choose to key in their own loction, or make use of their phone's GPS function.
 
 
-5. Hit the “GO!” button (unimplemented) and the screen will direct you to the map screen.
+5. Hit the “GO!” button or "YOUR LOCATION" and the screen will direct you to the map screen.
 ![Maps Screen](https://github.com/team1782/tf/blob/master/assets/images/maps%20screen.PNG)
+
 
 
 6. Users can choose which toilet they want to navigate to by selecting the toilet icons on the map.
 ![Toilet Icons](https://github.com/team1782/tf/blob/master/assets/images/maps%20screen.PNG)
 
 
-7. Upon selecting a toilet, users will be brought to the confirmation screen, where they can confirm the chosen toilet and even read reviews made by other users on the selected toilet.
-!Confirmation Screen](https://github.com/team1782/tf/blob/master/assets/images/confirmation%20screen.PNG)
+
+7. Upon selecting a toilet, users can confirm the chosen toilet and even read reviews made by other users on it.
+![Confirmation Screen](https://github.com/team1782/tf/blob/master/assets/images/confirmation%20screen.PNG)
 
 
 8. Users can choose to read up on the reviews of the selected toilet before making a choice
 ![Review Screen](https://github.com/team1782/tf/blob/master/assets/images/review%20screen.PNG)
 
 
-9. Users can then click the 'NAVIGATE THERE!' button to be brought to the maps screen, where they can then proceed to follow the marked out route.
+
+9. Users can then click 'NAVIGATE THERE!', where they can then proceed to follow the marked out route on the map.
 ![Navigation Screen](https://github.com/team1782/tf/blob/master/assets/images/navigation%20screen.PNG)
+
 
 
 10. At the end of the navigated route, users can choose to give a rating and a review of the toilet.
@@ -88,8 +94,10 @@ As an admin, I can delete the reviews submitted by users if they make use of ina
 ![Write a Review Screen](https://github.com/team1782/tf/blob/master/assets/images/writing%20a%20review.PNG)
 
 
+
 11. Users can also choose to write a feedback to us on any issues they wish to bring up to us.
 ![Feedback Screen](https://github.com/team1782/tf/blob/master/assets/images/feedback%20screen.PNG)
+
 
 ## Features
 
