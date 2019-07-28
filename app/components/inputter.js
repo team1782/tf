@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, TextInput, Button, Dimensions } from "react-native";
-import { Container } from "native-base";
+import { Content } from "native-base";
 import { withNavigation } from "react-navigation";
 import Geocoder from "react-native-geocoding";
 import Config from 'react-native-config';
@@ -47,7 +47,7 @@ class Inputter extends Component {
 
   render() {
     return (
-      <Container>
+      <Content>
         <View style={{ padding: 10 }}>
           <TextInput
             style={{ height: 40 }}
@@ -62,7 +62,7 @@ class Inputter extends Component {
             title="GO!"
           />
         </View>
-      </Container>
+        </Content>
     );
   }
 }
