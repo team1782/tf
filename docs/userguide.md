@@ -27,15 +27,11 @@ As a user helping my friend find a toilet, I can input my friend’s location in
 
 As a user, I can view the nearest toilets to me, so that I can make a choice on which toilet to use base which is closest to me.
 
-As a user who urgently needs to go to the toilet, I can navigate to the nearest one using my camera as a guide, so that time will not be wasted on walking in the wrong directions.
+As a user who urgently needs to go to the toilet, I can navigate to the nearest one, so that time will not be wasted on walking in the wrong directions.
 
 As a user who had been to the toilet, I can write a review of the toilet’s cleanliness so that other can make more informed choices.
 
 As a user who is particularly concerned with hygiene, I can browse through the reviews of the toilets’ cleanliness ratings.
-
-As a returning user to the same toilet, I can edit and update my review of the toilet’s cleanliness so that others can make more informed choices.
-
-As a careless user, I can delete the inaccurate/incorrect review of the toilet’s cleanliness so that other will not be misled.
 
 As a user who has discovered a toilet that is not shown in the app, I can make a feedback to request adding the toilet’s location to the app, so that others will be able to see the toilet’s location.
 
