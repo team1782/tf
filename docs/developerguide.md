@@ -3,38 +3,82 @@
 * [Setting Up](#setting-up)
   * [Prerequisites](#prerequisites)
   * [Setting up the project in your computer](#setting-up-the-project-in-your-computer)
+   * [Dependencies](#dependencies)
 * [Design](#design)
   * [Use Cases](#use-cases)
   * [Architecture](#architecture)
   * [General Starting Flow](#general-starting-flow)
   * [HomeScreen Container](#homescreen-container)
   * [MapScreen Container](#mapscreen-container)
+  * [NavigationScreen Container](#navigationscreen-container)
+  * [ReviewScreen Container](#reviewscreen-container)
+  * [FeedbackScreen Container](#feedbackscreen-container)
 * [Implementation](#implementation)
-  * [Searchable Dropdown Menus](#searchable-dropdown-menus)
+  * [User's Location](#users-location)
+   * [Manual Input of Address](#manual-input-of-address)
+   * [GPS Location](#gps-location)
+  * [Map](#map)
+  * [Storage of Data](#storage-of-data)
   * [Webscraping](#webscraping-using-beautifulsoup)
   * [Conversion to Coordinates](#conversion-of-string-addresses-to-coordinates)
 * [Documentation](#documentation)
   * [Creation of Documentation](#creating-documentation)
   * [Editing of Documentation](#editing-of-documentation)
 
-## Setting Up  
+## Setting Up
+
 ### Prerequisites  
 * JDK 8 or later
 * Android Studio
 * Node 8.3 or later
 * Python3
 * An IDE (e.g. Visual Studio Code)
+
 ### Setting Up the Project in your Computer
+
+#### Dependencies
 * Fork this repo and clone the fork to your computer.
 * Open a console in the folder of the cloned files.
 * Run npm install.
+ `"firebase": "^6.2.4"`
+
+ `"native-base": "^2.12.1",`
+
+ `"react": "16.8.3",`
+
+ `"react-native": "^0.59.9",`
+
+ `"react-native-config": "^0.11.7",`
+
+ `"react-native-elements": "^1.1.0",`
+
+ `"react-native-geocoding": "^0.3.0",`
+
+ `"react-native-gesture-handler": "^1.3.0",`
+
+ `"react-native-maps": "^0.24.2",`
+
+ `"react-native-maps-directions": "^1.7.0",`
+
+ `"react-native-splash-screen": "3.0.6",`
+
+ `"react-native-star-rating": "^1.1.0",`
+
+ `"react-native-vector-icons": "^6.6.0",`
+
+ `"react-navigation": "^3.11.0"` 
+
 * Run the following dependencies:
   * npm install react-native
   * npm install react-navigation
   * npm install native-base
   * npm install react-native-maps
   * npm install --save firebase
-  * react-native-searchable-dropdown
+  * npm install react-native-config
+  * npm install react-native-geocoding
+  * npm install react-native-splash-screen
+  * npm install react-native-vector-icons
+  
 * After running each dependency after npm install react-native, link each dependency to react-native using the keyword **link**.
 * An example would be `react-native link react-navigation` or `react-native link firebase`
 * Open Android Studio and Run the Emulator.
@@ -145,15 +189,53 @@ The container consists of a global map part of react-native-maps, as well as a d
 
 * The MapScreen allows users to:
  * View the location of all registered toilets on the database on the global map.
+ 
+#### NavigationScreen Container
+
+This container is basically a MapScreen Container with an additional mapping route from the user's location to the desired toilet's location. 
+
+* The NavigationScreen allows users to:
+ * Navigate to the nearest toilet/ chosen toilet.
+ 
+#### ReviewScreen Container
+
+This container shows all existing reviews previously submitted by all users in a bordered window. There is also an option for users to submit their own review for the toilet chosen.
+
+* The ReviewScreen allows users to:
+ * Read other reviews.
+ * Submit their own review.
+
+#### FeedbackScreen Container
+
+This container allows Users to submit feedback - be it constructive criticism or compliments to the developers. They have to fill in all 3 blanks - Name/ Email/ Feedback before a submission can be made.
+
+* The FeedbackScreen allows users to:
+ * Submit complaints/improvements/bugs to the developers.
 
 ## Implementation
 
-### Searchable DropDown Menu
-* Toilet's Address & Toilet's Place
+### User's Location
 
-We made use of react-native-searchable-dropdown module to implement the search boxes for toilet's place and toilet's address by passing in an array of data.
+#### Manual Input of Address
 
-The array of data is built by retrieving data from Google's Firebase: Realtime Database.
+We made use of `TextInput` from react-native to implement the search boxes for user's address. Thereafter, we employed `Geocoding` using Google API to transform user's location to coordinates that can be reflected on the map.
+
+#### GPS Location
+
+We made use of `react-native-maps` and Google's `GPS` to obtain the user's location, thereafter parsing in the coordinates to our MapScreen container to reflect the user's location. 
+
+### Map
+
+We employed `react-native-maps` and `Maps SDK for Android` from Google for the implementation of Maps feature in our app.
+
+### Storage of Data
+
+All forms of data are stored in Firebase's Realtime Database:
+ * Toilet Addresses - String Addresses
+ * Toilet Addresses - Coordinates (Latitudes, Longitudes)
+ * User-submitted Reviews - Typed-Reviews
+ * User-submitted Reviews - Star-Reviews
+ * Feedback
 
 ### WebScraping using BeautifulSoup
 
