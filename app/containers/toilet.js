@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Container, Content, CardItem, Text, Card } from "native-base";
-import { View, StyleSheet, StatusBar, Button } from "react-native";
+import { View, StyleSheet, StatusBar, Button, Alert } from "react-native";
 import MyHeader from "../components/myheader";
 import { withNavigation } from "react-navigation";
 import StarRating from "react-native-star-rating";
@@ -54,7 +54,7 @@ class Toilet extends Component {
       this.writeUserData(key, newRating, newNum);
       this.setState({ starCount: newRating });
     } else {
-      alert("You have already reviewed this toilet! Thank you!");
+      alert("Have a Nice Day!","You have already reviewed this toilet! Thank you!");
     }
   }
 
@@ -103,7 +103,6 @@ class Toilet extends Component {
     const id = navigation.getParam("id", "did not go through");
     return (
       <Container>
-        <MyHeader />
         <View style={styles.wrapper}>
           <StatusBar backgroundColor="#4f6d7a" />
         </View>
