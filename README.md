@@ -13,7 +13,7 @@ ToiletFinder is an application designed to help users locate the nearest toilets
 
 * [Comparison to Existing/Related Apps](#how-are-we-different-from-similar-platforms)
 
-* [Web-scraping related Python codes and CSV/JSON files](https://github.com/shaunnmui97/toiletfinderRNcode/tree/master/Web%20Scraping)
+* [Web-scraping related Python codes and CSV/JSON files](https://github.com/team1782/tf/tree/master/toilet%20data)
 
 * [User Guide](https://github.com/hazletnj/tf/blob/master/docs/userguide.md)
 
@@ -24,7 +24,9 @@ ToiletFinder is an application designed to help users locate the nearest toilets
 
 When you’re stuck in a situation where you really need to go but no toilets are in sight, what do you do?
 
-At times in shopping malls, due to the poor placements of the signs to the toilets, many shoppers end up wasting time finding for a toilet especially when they are already in urgent need of using one. 
+You know that there is one in the nearby mall, but you are too anxious to use the toilet to roam about before you find it, what do you do?
+
+You finally found a toilet! But to your horror, you notice soiled toilet paper scattered all around the toilet and the cubicles, what do you do?
 
 ## Aim
 
@@ -33,14 +35,10 @@ We hope to create a user-friendly app for individuals to find out the locations 
 ## Scope of Project
 
 The ToiletFinder app is GPS-based and seeks to locate nearby toilets for users using their location. It provides the following information:
-1. Distance to and Estimated Time of Arrival to each toilet (represented by markers on the map)
+1. Navigation (Route) to each toilet (represented by markers on the map)
 2. Cleanliness Rating of the Toilet by other Users (Users will be prompted to give a review upon visiting the toilet)
 
-### Features to be completed by Mid of July
-* Implementation of Normal and AR-guided Navigation
-* Cleanliness Rating and Review
-
-#### Frameworks:
+## Frameworks:
 * Database (Google Firebase - Realtime Database)
 * Maps (React Native Maps, Google's Directions API)
 * Geocoding (Google's Geocoding API)
@@ -48,5 +46,10 @@ The ToiletFinder app is GPS-based and seeks to locate nearby toilets for users u
 * Web Scraping (BeautifulSoup)
 
 ## How are we different from similar platforms?
-As of now, applications available for download in the AppStore/PlayStore are developed by overseas companies (mainly UK). This meant that the toilet finder apps are not localised to Singapore’s context - ignoring toilets in coffee shops, train stations. These applications are also missing a key feature - Ratings on the cleanliness of the toilet.
+As of now, applications available for download in the AppStore/PlayStore are developed by overseas companies (mainly UK). This meant that the toilet finder apps are not localised to Singapore’s context - ignoring toilets in coffee shops, train stations. 
 
+These applications are also missing 2 key features
+1. Ratings on the cleanliness of the toilet.
+2. Feedback system for Developers
+
+## Scroll up to Site Map and head over for a comprehensive User Guide and Developer Guide!
