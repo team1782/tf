@@ -22,7 +22,7 @@
     "react-native-splash-screen": "3.0.6",
     "react-native-star-rating": "^1.1.0",
     "react-native-vector-icons": "^6.6.0",
-    "react-native-webview": "^5.12.1",
+    "react-native-webview": "^11.0.0",
     "react-navigation": "^3.11.0"
   },
   "devDependencies": {
